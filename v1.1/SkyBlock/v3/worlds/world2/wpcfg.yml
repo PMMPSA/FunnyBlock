@@ -1,0 +1,8 @@
+---
+bancmds:
+  /opms: /opms
+  /me: /me
+  /pocketmine:me: /pocketmine:me
+  /trade: /trade
+pvp: false
+...

@@ -1,0 +1,9 @@
+---
+lang: eng
+needidargs: false
+prices:
+  field: 30000
+  island: 30000
+  skyland: 30000
+  land: 10
+...

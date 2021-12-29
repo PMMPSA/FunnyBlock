@@ -1,0 +1,13 @@
+---
+Blocks:
+- -36/66/288/survival
+- 4599/118/4600/plot
+- 4600/118/4600/plot
+- 4599/118/4600/plot
+- 4600/118/4599/plot
+- 4600/118/4599/plot
+- 4599/118/4599/plot
+Speed: 0.100000
+ColorChange: not
+BreakMode: nodrop
+...

@@ -1,0 +1,128 @@
+## English translation by CreeperFace
+---
+join: "&aChào mừng đến &b&lBlock Party!"
+join_others: "&a%1 đã vào."
+leave: "&eĐang rời khỏi..."
+leave_others: "&c%1 đã rời khỏi."
+arena_doesnt_exist: "&cArena không tồn tại"
+arena_already_exist: "&cArena đã tồn tại"
+arena_create: "&eĐã tạo arena thành công!"
+start_game: "&aGame bắt đầu!"
+death: "&c%1 chết!&e Còn &2%2 &engười chơit"
+send_to_main_world: "&aTrở về sảnh chính..."
+starting: "&aGame bắt đầu trong %1 giây"
+kick_from_game: "&9Bạn đã bị đuổi khỏi game vì lí do %1"
+game_full: "&cGame đã đầy"
+ingame: "&cGame đã bắt đầu"
+enable_setup_mode: "&6You are now in setup mode\n&a-> leave using  &l&odone"
+disable_setup_mode: '&aArena saved'
+arena_in_setup: "&cArena is in setup mode!"
+#reward for win
+get_money: "&aBạn đã được thưởng $%1!"
+#end game message
+#create new line using "\n"
+end_game: "&6&l---------------------&r\n&5Game %1 kết thúc\n&4Top người thắng:\n&a1. %2\n&e2. %3\n&c3. %4\n&6&l---------------------"
+not_enough_players: "&cKhông đủ người chơi"
+###################
+#Commands messages#
+###################
+has_not_permission: "&cBạn không có quyền sử dụng lệnh này"
+#invalid arguments in setup mode
+invalid_arguments: "&cInvalid arguments\n&6use: &a&o&lhelp"
+help: "&6Sử dụng /cm help"
+join_help: "&6Sử dụng /cm join &a[tên arena]"
+leave_help: "&6Sử dụng /cm leave &a[tên arena]"
+start_help: "&6Sử dụng /cm start &a[tên arena]"
+stop_help: "&6Sử dụng /cm stop &a[tên arena]"
+kick_help: "&6Sử dụng /cm kick &a[tên arena] [tên người chơi]"
+set_help: "&6Sử dụng /cm set &a[tên arena]"
+create_help: "&6Sử dụng /cm create &a[tên arena]"
+delete_help: "&6Sử dụng /cm delete &a[tên arena]"
+setlobby_help: "&6Sử dụng: &asetlobby"
+arena_running: "&cGame hiện đang hoạt động"
+use_cmd_in_game: "&6You can use this only in-game"
+arena_not_running: "&6Arena is not in-game!"
+player_not_exist: "&cNgười chơi không có trong arena"
+##########################
+#setup mode done messages#
+##########################
+joinsign: "&aJoin sign has been successfully updated"
+returnsign: "&aLeave sign has been successfully updated"
+startpos: "&aStart position has been successfully updated"
+lobbypos: "&aLobby position has been successfully updated"
+corners: "&aFloor corners have been successfully updated"
+first_corner: "&aThe first corner has been set successfully\n&eNow break block to set the second corner"
+second_corner: "&aThe second corner has been set successfully"
+spectatorspawn: "&aSpectator spawn has been successfully updated"
+leavepos: "&aLeave position has been successfully updated"
+mainlobby: "&aMain lobby position has beed successfully updated"
+statusline: "&aSign line has been successfully updated"
+type: "&aArena type has been successfully updated"
+material: "&aFloor material has been successfully updated"
+allowstatus: "&aStatus sign has been successfully updated"
+signupdatetime: "&aSign update interval has been successfully updated"
+world: "&aArena world has been successfully updated"
+allowspectator: "&aSpectator mode has been successfully updated"
+maxtime: "&aGame max time has been successfully updated"
+maxplayers: "&aMax players count has been successfully updated"
+minplayers: "&aMin players count has been successfully updated"
+starttime: "&aStart time has been successfully updated"
+colortime: "&aColor change interval has been successfully updated"
+time: "&aArena time has been successfully updated"
+enable: "&aArena has been successfully updated"
+########################################
+#messages on help command in setup mode#
+########################################
+statusline_help: "&6use: &astatusline &b[line] [text]"
+type_help: "&6use: &atype &b[classic/furious/stoned]"
+material_help: "&6use: &amaterial &b[wool/clay]"
+allowstatus_help: "&6use: &aallowstatus &b[true/false]"
+signupdatetime_help: "&6use: &asignupdatetime &b[seconds]"
+world_help: "&6use: &aworld &b[world name]"
+allowspectator_help: "&6use: &aallowspectator &b[true/false]"
+maxtime_help: "&6use: &amaxtime &b[seconds]"
+maxplayers_help: "&6use: &amaxplayers &b[amount]"
+minplayers_help: "&6use: &aminplayers &b[amount]"
+starttime_help: "&6use: &astarttime &b[seconds]"
+colortime_help: "&6use: &acolortime &b[seconds]"
+time_help: "&6use: &atime &b[true/day/night/TICKS]"
+enable_help: "&6use: &aenable &b[true/false]"
+##################################
+#ColorMatch help command messages#
+##################################
+lobby: "\n- &2/cm lobby &l&5»&r&f Trở về sảnh chính"
+onleave: "\n- &2/cm leave &l&5»&r&f Rời khỏi arena"
+onjoin: "\n- &2/cm join &b[tên game] &l&5»&r&f Vào game"
+start: "\n- &2/cm start &b[tên game] &l&5»&r&f Bắt đầu game"
+stop: "\n- &2/cm stop &b[tên game] &l&5»&r&f Dừng game"
+kick: "\n- &2/cm kick &b[tên game] [tên người chơi] [lí do] &l&5»&r&f Đuổi người chơi ra khỏi game"
+set: "\n- &2/cm set &b[tên game] &l&5»&r&f Thiết lập game"
+delete: "\n- &2/cm delete &b[tên game] &l&5»&r&f Xóa game đang tồn tại"
+create: "\n- &2/cm create &b[tên game] &l&5»&r&f Tạo game mới"
+########################################
+#arena setup mode help command messages#
+########################################
+help_joinsign: "\n- &2joinsign &l&5»&r&f Set join sign position"
+help_returnsign: "\n- &2returnsign &l&5»&r&f Set leave sign position"
+help_startpos: "\n- &2startpos &l&5»&r&f Set start game position"
+help_lobbypos: "\n- &2lobbypos &l&5»&r&f Set lobby position"
+help_corners: "\n- &2corners &l&5»&r&f Set floor corners"
+help_spectatorspawn: "\n- &2spectatorspawn &l&5»&r&f Set spectator spawn"
+help_leavepos: "\n- &2leavepos &l&5»&r&f Set leave position"
+help_time: "\n- &2time &b[true/day/night/ticks] &l&5»&r&f Set time in arena"
+help_colortime: "\n- &2colortime &b[seconds] &l&5»&r&f Set color changing interval"
+help_type: "\n- &2type &b[classic/furious/stoned] &l&5»&r&f Set arena type"
+help_material: "\n- &2material &b[wool/clay] &l&5»&r&f Set floor material"
+help_allowstatus: "\n- &2allowstatus &b[true/false] &l&5»&r&f Enable/disable status on join sign"
+help_world: "\n- &2world &b[world name] &l&5»&r&f Set arena world"
+help_statusline: "\n- &2statusline &b[line (1-4)] [text] &l&5»&r&f Set status sign line"
+help_allowspectator: "\n- &2allowspectator &b[true/false] &l&5»&r&f Enable/Disable spectator mode"
+help_signupdatetime: "\n- &2signupdatetime &b[seconds] &l&5»&r&f Set sign update interval"
+help_maxtime: "\n- &2maxtime &b[seconds] &l&5»&r&f Set max game time"
+help_maxplayers: "\n- &2maxplayers &b[count] &l&5»&r&f Set max players in game"
+help_minplayers: "\n- &2minplayers &b[count] &l&5»&r&f Set players minimal count required to start the game"
+######################
+#other setup messages#
+######################
+break_block: "&aNow break a block"
+break_sign: "&aNow break a sign"

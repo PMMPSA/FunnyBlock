@@ -1,0 +1,17 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": [],
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": {
+        "352": "\/pos1",
+        "257": "\/pos2",
+        "275": "\/set 0"
+    },
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

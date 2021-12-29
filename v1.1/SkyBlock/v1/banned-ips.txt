@@ -1,0 +1,5 @@
+# Updated 11/17/17 12:04 by GenisysPro 1.1dev
+# victim name | ban date | banned by | banned until | reason
+
+116.108.150.8|2017-11-16 12:04:00 +0700|Ghast_Noob|Forever|Banned by an operator.
+128.199.127.196|2017-11-17 12:04:43 +0700|Ghast_Noob|Forever|Banned by an operator.

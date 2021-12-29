@@ -1,0 +1,30 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "rainny": [
+            1401.9225,
+            69,
+            1211.046,
+            "sb",
+            62,
+            44
+        ],
+        "1": [
+            1401.616,
+            69,
+            1210.8466,
+            "sb",
+            11,
+            53
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

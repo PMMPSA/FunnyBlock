@@ -1,0 +1,236 @@
+{
+    "2063:66:2037:plot": {
+        "X": 2063,
+        "Y": 66,
+        "Z": 2037,
+        "World": "plot",
+        "Enchant": "1",
+        "money": 5000,
+        "Level": 5
+    },
+    "2063:66:2047:plot": {
+        "X": 2063,
+        "Y": 66,
+        "Z": 2047,
+        "World": "plot",
+        "Enchant": "11",
+        "money": 5000,
+        "Level": 5
+    },
+    "2063:66:2049:plot": {
+        "X": 2063,
+        "Y": 66,
+        "Z": 2049,
+        "World": "plot",
+        "Enchant": "13",
+        "money": 5000,
+        "Level": 5
+    },
+    "2063:66:2050:plot": {
+        "X": 2063,
+        "Y": 66,
+        "Z": 2050,
+        "World": "plot",
+        "Enchant": "14",
+        "money": 5000,
+        "Level": 5
+    },
+    "2063:66:2054:plot": {
+        "X": 2063,
+        "Y": 66,
+        "Z": 2054,
+        "World": "plot",
+        "Enchant": "18",
+        "money": 5000,
+        "Level": 5
+    },
+    "2063:66:2055:plot": {
+        "X": 2063,
+        "Y": 66,
+        "Z": 2055,
+        "World": "plot",
+        "Enchant": "19",
+        "money": 5000,
+        "Level": 5
+    },
+    "2063:66:2057:plot": {
+        "X": 2063,
+        "Y": 66,
+        "Z": 2057,
+        "World": "plot",
+        "Enchant": "21",
+        "money": 5000,
+        "Level": 5
+    },
+    "-246:78:-553:survival": {
+        "X": -246,
+        "Y": 78,
+        "Z": -553,
+        "World": "survival",
+        "Enchant": "10",
+        "money": 1,
+        "Level": 5
+    },
+    "2063:66:2038:plot": {
+        "X": 2063,
+        "Y": 66,
+        "Z": 2038,
+        "World": "plot",
+        "Enchant": "2",
+        "money": 5000,
+        "Level": 5
+    },
+    "2063:66:2039:plot": {
+        "X": 2063,
+        "Y": 66,
+        "Z": 2039,
+        "World": "plot",
+        "Enchant": "3",
+        "money": 5000,
+        "Level": 5
+    },
+    "2063:66:2040:plot": {
+        "X": 2063,
+        "Y": 66,
+        "Z": 2040,
+        "World": "plot",
+        "Enchant": "4",
+        "money": 5000,
+        "Level": 5
+    },
+    "2063:66:2041:plot": {
+        "X": 2063,
+        "Y": 66,
+        "Z": 2041,
+        "World": "plot",
+        "Enchant": "5",
+        "money": 5000,
+        "Level": 5
+    },
+    "2063:66:2042:plot": {
+        "X": 2063,
+        "Y": 66,
+        "Z": 2042,
+        "World": "plot",
+        "Enchant": "6",
+        "money": 5000,
+        "Level": 5
+    },
+    "2063:66:2043:plot": {
+        "X": 2063,
+        "Y": 66,
+        "Z": 2043,
+        "World": "plot",
+        "Enchant": "7",
+        "money": 5000,
+        "Level": 5
+    },
+    "2063:66:2044:plot": {
+        "X": 2063,
+        "Y": 66,
+        "Z": 2044,
+        "World": "plot",
+        "Enchant": "8",
+        "money": 5000,
+        "Level": 5
+    },
+    "2063:66:2045:plot": {
+        "X": 2063,
+        "Y": 66,
+        "Z": 2045,
+        "World": "plot",
+        "Enchant": "9",
+        "money": 5000,
+        "Level": 5
+    },
+    "2063:66:2046:plot": {
+        "X": 2063,
+        "Y": 66,
+        "Z": 2046,
+        "World": "plot",
+        "Enchant": "10",
+        "money": 5000,
+        "Level": 5
+    },
+    "2063:66:2048:plot": {
+        "X": 2063,
+        "Y": 66,
+        "Z": 2048,
+        "World": "plot",
+        "Enchant": "12",
+        "money": 5000,
+        "Level": 5
+    },
+    "2063:66:2051:plot": {
+        "X": 2063,
+        "Y": 66,
+        "Z": 2051,
+        "World": "plot",
+        "Enchant": "15",
+        "money": 5000,
+        "Level": 5
+    },
+    "2063:66:2052:plot": {
+        "X": 2063,
+        "Y": 66,
+        "Z": 2052,
+        "World": "plot",
+        "Enchant": "16",
+        "money": 5000,
+        "Level": 5
+    },
+    "2063:66:2056:plot": {
+        "X": 2063,
+        "Y": 66,
+        "Z": 2056,
+        "World": "plot",
+        "Enchant": "20",
+        "money": 5000,
+        "Level": 5
+    },
+    "2063:66:2058:plot": {
+        "X": 2063,
+        "Y": 66,
+        "Z": 2058,
+        "World": "plot",
+        "Enchant": "22",
+        "money": 5000,
+        "Level": 5
+    },
+    "2063:66:2053:plot": {
+        "X": 2063,
+        "Y": 66,
+        "Z": 2053,
+        "World": "plot",
+        "Enchant": "17",
+        "money": 5000,
+        "Level": 5
+    },
+    "2063:66:2059:plot": {
+        "X": 2063,
+        "Y": 66,
+        "Z": 2059,
+        "World": "plot",
+        "Enchant": "23",
+        "money": 5000,
+        "Level": 5
+    },
+    "2063:66:2060:plot": {
+        "X": 2063,
+        "Y": 66,
+        "Z": 2060,
+        "World": "plot",
+        "Enchant": "24",
+        "money": 5000,
+        "Level": 5
+    },
+    "2063:66:2061:plot": {
+        "X": 2063,
+        "Y": 66,
+        "Z": 2061,
+        "World": "plot",
+        "Enchant": "0",
+        "money": 5000,
+        "Level": 5
+    }
+}

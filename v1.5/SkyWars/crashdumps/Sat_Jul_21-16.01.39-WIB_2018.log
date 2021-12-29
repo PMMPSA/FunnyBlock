@@ -1,0 +1,102 @@
+Altay Crash Dump Sat Jul 21 16:01:39 WIB 2018
+
+Error: Value 799623 is too large!
+File: vendor/pocketmine/nbt/src/tag/ShortTag
+Line: 42
+Type: InvalidArgumentException
+
+Code:
+
+Backtrace:
+#0 vendor/pocketmine/nbt/src/tag/CompoundTag(304): pocketmine\nbt\tag\ShortTag->__construct(string Fire, integer 799623)
+#1 src/pocketmine/entity/Entity(931): pocketmine\nbt\tag\CompoundTag->setShort(string Fire, integer 799623)
+#2 src/pocketmine/entity/Living(152): pocketmine\entity\Entity->saveNBT()
+#3 src/pocketmine/entity/Human(770): pocketmine\entity\Living->saveNBT()
+#4 src/pocketmine/Player(3666): pocketmine\entity\Human->saveNBT()
+#5 src/pocketmine/Server(2455): pocketmine\Player->save(boolean 1)
+#6 src/pocketmine/Server(2587): pocketmine\Server->doAutoSave()
+#7 src/pocketmine/Server(2320): pocketmine\Server->tick()
+#8 src/pocketmine/Server(2233): pocketmine\Server->tickProcessor()
+#9 src/pocketmine/Server(1794): pocketmine\Server->start()
+#10 src/pocketmine/PocketMine(241): pocketmine\Server->__construct(BaseClassLoader object, pocketmine\utils\MainLogger object, string C:\Users\Visitor\Desktop\PMMP\, string C:\Users\Visitor\Desktop\PMMP\plugins\)
+#11 C:/Users/Visitor/Desktop/PMMP/PocketMine-MP.phar(1): require_once(string phar://C:/Users/Visitor/Desktop/PMMP/PocketMine-MP.phar/src/pocketmine/PocketMine.php)
+
+Altay version: 3.0.7+dev [Protocol 274]
+Git commit: 0000000000000000000000000000000000000000
+uname -a: Windows NT DESKTOP-7BLVAAK 10.0 build 17134 (Windows 10) AMD64
+PHP Version: 7.2.5
+Zend version: 3.2.0
+OS : WINNT, win
+
+Loaded plugins:
+MagicWE2 5.7.2 by XenialDan for API(s) 3.0.0
+MapImageEngine 1.1.1 by FaigerSYS for API(s) 3.0.0, 4.0.0
+MIE_Converter 1.0.2 by FaigerSYS for API(s) 3.0.0, 4.0.0
+MIE_Protector 1.0.4 by FaigerSYS for API(s) 3.0.0, 4.0.0
+SlapperRotation 1.2.0 by jojoe77777 for API(s) 3.0.0
+BanItem 2.3.3 by LDX for API(s) 3.0.0
+BlockCMD 1.0.0-beta by kenygamer for API(s) 3.0.0-ALPHA10, 3.0.0-ALPHA11
+Broadcaster 1.5 by EvolSoft for API(s) 3.0.0
+CustomAlerts 2.0 by EvolSoft for API(s) 3.0.0
+DevTools 1.13.0 by PocketMine Team for API(s) 3.0.0, 4.0.0
+ItemCloud 1.3.1 by onebone for API(s) 3.0.0
+MSpawns 2.2 by EvolSoft for API(s) 3.0.0
+MyStats 1.4.13 by CzechMPDevs, VixikCZ for API(s) 3.0.0-ALPHA7, 3.0.0-ALPHA8, 3.0.0-ALPHA9, 3.0.0-ALPHA10, 3.0.0-ALPHA11, 3.0.0-ALPHA12, 3.0.0
+PurePerms 1.4.2 by 64FF00 & ProjectInfinity for API(s) 3.0.0
+SizePlayer 1.0.3 by  for API(s) 3.0.0
+SkyWars 1.1.0 by GamakCZ for API(s) 4.0.0
+Slapper 1.4.0 by jojoe77777 for API(s) 3.0.0
+SignServerStats 1.1.1 by robske_110 for API(s) 3.0.0
+StatusList 1.1.1 by robske_110 for API(s) 3.0.0
+TimeStopper 1.0.2 by RevivalPMMP, 95CivicSi, jasonwynn10 for API(s) 3.0.0-ALPHA10, 3.0.0-ALPHA11, 3.0.0-ALPHA12
+TopVoter 3.0.0 by SalmonDE for API(s) 3.0.0
+WorldBackup 1.0 by Jhelom for API(s) 3.0.0-ALPHA12, 3.0.0
+WorldProtect 2.3.7 by aliuly for API(s) 3.0.0
+Worlds 2.0.3 by survanetwork for API(s) 3.0.0
+LinkPlayerCount 1.0.1 by robske_110 for API(s) 3.0.0
+FactionsPro 1.3.11-11 by Tethered_ for API(s) 3.0.0-ALPHA7, 3.0.0-ALPHA8, 3.0.0-ALPHA9, 3.0.0-ALPHA10, 3.0.0-ALPHA11, 3.0.0-ALPHA12
+GrabBag 2.4.3 by aliuly for API(s) 3.0.0
+PureChat 1.4.11 by 64FF00 for API(s) 3.0.0
+SimpleWarp 4.0.1 by Falkirks for API(s) 3.0.0
+
+----------------------REPORT THE DATA BELOW THIS LINE-----------------------
+
+===BEGIN CRASH DUMP===
+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
+===END CRASH DUMP===

@@ -1,0 +1,36 @@
+# Updated 12/08/17 21:28 by GenisysPro 1.1dev
+# victim name | ban date | banned by | banned until | reason
+
+183.81.8.79|2017-11-27 21:11:18 +0700|Ghast_Noob|Forever|Banned by an operator.
+1.55.178.96|2017-11-27 21:47:57 +0700|Ghast_Noob|Forever|Banned by an operator.
+42.116.116.14|2017-11-27 21:53:08 +0700|Ghast_Noob|Forever|Banned by an operator.
+113.169.185.55|2017-11-27 21:55:15 +0700|Rcon|Forever|Banned by an operator.
+14.167.85.92|2017-11-27 21:56:41 +0700|Rcon|Forever|Banned by an operator.
+112.197.33.204|2017-11-27 23:30:10 +0700|bongaoda352|Forever|Banned by an operator.
+14.233.24.233|2017-11-28 11:57:28 +0700|bongaoda352|Forever|Banned by an operator.
+14.184.91.245|2017-11-28 12:01:59 +0700|Rcon|Forever|Banned by an operator.
+116.108.193.195|2017-11-28 12:02:25 +0700|Rcon|Forever|Banned by an operator.
+113.169.70.232|2017-11-29 13:55:15 +0700|Lam_Kid_VN|Forever|Banned by an operator.
+42.116.116.114|2017-11-29 21:09:45 +0700|Ghast_Noob|Forever|Banned by an operator.
+67.205.188.222|2017-11-29 21:46:59 +0700|Ghast_Noob|Forever|Banned by an operator.
+115.73.18.28|2017-11-30 16:52:42 +0700|Ghast_Noob|Forever|Banned by an operator.
+115.72.101.78|2017-11-30 21:23:15 +0700|Ghast_Noob|Forever|Banned by an operator.
+14.171.227.27|2017-12-01 10:48:11 +0700|Zio_Dragon_YT|Forever|Banned by an operator.
+171.240.69.210|2017-12-01 10:52:24 +0700|Zio_Dragon_YT|Forever|Banned by an operator.
+42.113.227.174|2017-12-01 22:45:28 +0700|genji_viet_nam|Forever|ahihi
+162.251.61.241|2017-12-02 18:27:11 +0700|conglol|Forever|Banned by an operator.
+112.197.33.11|2017-12-03 12:24:14 +0700|Ghast_Noob|Forever|Banned by an operator.
+14.167.66.181|2017-12-03 14:47:15 +0700|Ghast_Noob|Forever|Banned by an operator.
+171.228.244.67|2017-12-03 21:41:27 +0700|Mashmello|Forever|Banned by an operator.
+115.79.168.137|2017-12-04 12:06:41 +0700|Ghast_Noob|Forever|Banned by an operator.
+162.243.141.158|2017-12-04 12:24:51 +0700|Ghast_Noob|Forever|Banned by an operator.
+113.23.52.184|2017-12-04 16:48:16 +0700|Ghast_Noob|Forever|Banned by an operator.
+1.54.212.232|2017-12-04 17:04:49 +0700|Ghast_Noob|Forever|Banned by an operator.
+192.241.239.137|2017-12-05 11:29:09 +0700|Ghast_Noob|Forever|Banned by an operator.
+27.64.144.209|2017-12-06 11:59:53 +0700|Ghast_Noob|Forever|Banned by an operator.
+1.54.237.250|2017-12-07 12:31:48 +0700|Ghast_Noob|Forever|Banned by an operator.
+46.23.78.107|2017-12-07 12:35:26 +0700|Ghast_Noob|Forever|Banned by an operator.
+1.54.211.224|2017-12-07 19:59:59 +0700|Ghast_Noob|Forever|Banned by an operator.
+112.197.32.101|2017-12-08 11:27:13 +0700|Lam_Kid_VN|Forever|Banned by an operator.
+113.23.55.3|2017-12-08 12:03:48 +0700|Ghast_Noob|Forever|Banned by an operator.
+171.253.27.103|2017-12-08 21:28:07 +0700|Walnuts|Forever|Banned by an operator.

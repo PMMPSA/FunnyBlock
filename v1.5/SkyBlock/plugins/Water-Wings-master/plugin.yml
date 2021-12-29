@@ -1,0 +1,14 @@
+name: WaterWings
+main: Water\Main
+version: 1.3
+api: [3.1.2]
+author: "RushToEasy"
+commands:
+  water:
+    description: để bật và tắt cánh!
+    permission: firewings.command.wing
+    usage: /water
+permissions:
+  firewings.command.wing:
+    default: true
+    description: waterwing !

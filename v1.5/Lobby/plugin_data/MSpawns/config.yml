@@ -1,0 +1,21 @@
+---
+show-messages-onjoin: true
+force-hub: true
+enable-hub-message: true
+force-spawn: false
+enable-spawn-message: true
+enable-aliases: true
+teleport-on-death: 2
+hub-server:
+  enabled: false
+  name: Funny Block
+  host: funnyblock.ddns.net
+  port: 19132
+hub:
+  world: hub
+  X: -66.940400
+  "Y": 22.000000
+  Z: -3.700000
+  Yaw: 359.455795
+  Pitch: 10.371384
+...

@@ -1,0 +1,89 @@
+---
+datetime-format: "H:i:s"
+Motd:
+  update-timeout: 1
+  custom: false
+  message: "&e[{TIME}] &aMinecraft Server &n&b[{TOTALPLAYERS}/{MAXPLAYERS}]"
+OutdatedClient:
+  custom: true
+  message: "&cMinecraft của bạn bị lỗi thời!"
+OutdatedServer:
+  custom: true
+  message: "&cMáy chủ bị lỗi thời!"
+WhitelistedServer:
+  custom: false
+  message: "&c&oBạn không thể vào máy chủ vì máy chủ đang whitelist!"
+FullServer:
+  custom: true
+  message: "&cMáy chủ đầy &c[{TOTALPLAYERS}/{MAXPLAYERS}]&b!\n&l&dThử vào lần sau :)"
+FirstJoin:
+  enable: true
+  message: "&f• &a{PLAYER}&d vào lần đầu tiên."
+Join:
+  hide: false
+  custom: true
+  message: "&f• &a{PLAYER}&e đã vào."
+Quit:
+  hide: false
+  custom: true
+  message: "&f• &c{PLAYER}&e đã rời khỏi."
+WorldChange:
+  enable: false
+  message: "&f• &2[{TIME}] &a{PLAYER}&e dịch chuyển từ &c{ORIGIN}&e đến &a{TARGET}"
+Death:
+  hide: false
+  custom: true
+  message: "&f• &c{PLAYER} chết"
+  death-contact-message:
+    hide: false
+    custom: true
+    message: "&f• &c{PLAYER} bị giết bởi {BLOCK}"
+  kill-message:
+    hide: false
+    custom: true
+    message: "&f• &9{PLAYER} &ebị giết bởi &c{KILLER}"
+  death-projectile-message:
+    hide: false
+    custom: true
+    message: "&f• &c{PLAYER} bị giết bởi {KILLER} bằng cung tên"
+  death-suffocation-message:
+    hide: false
+    custom: true
+    message: "&f• &c{PLAYER} bị ngộp thở"
+  death-fall-message:
+    hide: false
+    custom: true
+    message: "&f• &c{PLAYER} đã rơi xuống từ một nơi trên cao"
+  death-fire-message:
+    hide: false
+    custom: true
+    message: "&f• &c{PLAYER} nhảy vào lửa"
+  death-on-fire-message:
+    hide: false
+    custom: true
+    message: "&f• &c{PLAYER} chết cháy"
+  death-lava-message:
+    hide: false
+    custom: true
+    message: "&f• &c{PLAYER} thử bơi trong dung nham"
+  death-drowning-message:
+    hide: false
+    custom: true
+    message: "&f• &c{PLAYER} bị chết đuối"
+  death-explosion-message:
+    hide: false
+    custom: true
+    message: "&f• &c{PLAYER} bị nổ chết"
+  death-void-message:
+    hide: false
+    custom: true
+    message: "&f•&c{PLAYER} rơi xuống void"
+  death-suicide-message:
+    hide: false
+    custom: true
+    message: "&f• &c{PLAYER} đã tự sát"
+  death-magic-message:
+    hide: false
+    custom: true
+    message: "&f• &c{PLAYER} đã bị giết bởi ma thuật"
+...

@@ -1,0 +1,6 @@
+---
+bancmds:
+  /me: /me
+pvp: false
+protect: lock
+...

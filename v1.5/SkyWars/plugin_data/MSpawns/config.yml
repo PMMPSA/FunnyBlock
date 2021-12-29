@@ -1,0 +1,21 @@
+---
+show-messages-onjoin: true
+force-hub: true
+enable-hub-message: true
+force-spawn: false
+enable-spawn-message: true
+enable-aliases: true
+teleport-on-death: 1
+hub-server:
+  enabled: false
+  name: External Server
+  host: 127.0.0.1
+  port: 19132
+hub:
+  world: Hypixel Sky Wars lobby - MMD
+  X: -2563.610100
+  "Y": 52.978900
+  Z: 744.487400
+  Yaw: 272.781105
+  Pitch: 13.363525
+...

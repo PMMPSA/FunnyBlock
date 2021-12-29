@@ -1,0 +1,92 @@
+Altay Crash Dump Thu Jul 19 11:10:01 WIB 2018
+
+Error: Expected a tag of type pocketmine\nbt\tag\IntTag, got pocketmine\nbt\tag\ByteTag
+File: vendor/pocketmine/nbt/src/tag/CompoundTag
+Line: 87
+Type: RuntimeException
+
+Code:
+
+Backtrace:
+#0 vendor/pocketmine/nbt/src/tag/CompoundTag(170): pocketmine\nbt\tag\CompoundTag->getTag(string note, string pocketmine\nbt\tag\IntTag)
+#1 vendor/pocketmine/nbt/src/tag/CompoundTag(216): pocketmine\nbt\tag\CompoundTag->getTagValue(string note, string pocketmine\nbt\tag\IntTag, integer 0, boolean )
+#2 src/pocketmine/tile/NoteBlock(39): pocketmine\nbt\tag\CompoundTag->getInt(string note, integer 0)
+#3 src/pocketmine/tile/Tile(173): pocketmine\tile\NoteBlock->readSaveData(pocketmine\nbt\tag\CompoundTag object)
+#4 src/pocketmine/tile/Spawnable(61): pocketmine\tile\Tile->__construct(pocketmine\level\Level object, pocketmine\nbt\tag\CompoundTag object)
+#5 src/pocketmine/tile/Tile(118): pocketmine\tile\Spawnable->__construct(pocketmine\level\Level object, pocketmine\nbt\tag\CompoundTag object)
+#6 src/pocketmine/level/format/Chunk(712): pocketmine\tile\Tile::createTile(string minecraft:noteblock, pocketmine\level\Level object, pocketmine\nbt\tag\CompoundTag object)
+#7 src/pocketmine/level/Level(2758): pocketmine\level\format\Chunk->initChunk(pocketmine\level\Level object)
+#8 src/pocketmine/level/Level(2361): pocketmine\level\Level->loadChunk(integer -1, integer -2, boolean 1)
+#9 src/pocketmine/level/Level(3024): pocketmine\level\Level->getChunk(integer -1, integer -2, boolean 1)
+#10 src/pocketmine/Player(1056): pocketmine\level\Level->populateChunk(integer -1, integer -2)
+#11 src/pocketmine/Player(1834): pocketmine\Player->sendNextChunk()
+#12 src/pocketmine/Server(2573): pocketmine\Player->checkNetwork()
+#13 src/pocketmine/Server(2326): pocketmine\Server->tick()
+#14 src/pocketmine/Server(2239): pocketmine\Server->tickProcessor()
+#15 src/pocketmine/Server(1803): pocketmine\Server->start()
+#16 src/pocketmine/PocketMine(241): pocketmine\Server->__construct(BaseClassLoader object, pocketmine\utils\MainLogger object, string C:\Users\Visitor\Desktop\PMMP\, string C:\Users\Visitor\Desktop\PMMP\plugins\)
+#17 C:/Users/Visitor/Desktop/PMMP/PocketMine-MP.phar(1): require_once(string phar://C:/Users/Visitor/Desktop/PMMP/PocketMine-MP.phar/src/pocketmine/PocketMine.php)
+
+Altay version: 3.0.6+dev [Protocol 274]
+Git commit: 0000000000000000000000000000000000000000
+uname -a: Windows NT DESKTOP-7BLVAAK 10.0 build 17134 (Windows 10) AMD64
+PHP Version: 7.2.5
+Zend version: 3.2.0
+OS : WINNT, win
+
+Loaded plugins:
+MagicWE2 5.7.2 by XenialDan for API(s) 3.0.0
+Murder 0.9 by TheNewHEROBRINE for API(s) 3.0.0-ALPHA11
+WorldLoadAll 1.0.0 by Nid for API(s) 1.0.0, 2.0.0, 3.0.0-ALPHA5, 3.0.0-ALPHA7
+BlockCMD 1.0.0-beta by kenygamer for API(s) 3.0.0-ALPHA10, 3.0.0-ALPHA11
+Broadcaster 1.5 by EvolSoft for API(s) 3.0.0
+CustomAlerts 2.0 by EvolSoft for API(s) 3.0.0
+MSpawns 2.2 by EvolSoft for API(s) 3.0.0
+PurePerms 1.4.2 by 64FF00 & ProjectInfinity for API(s) 3.0.0
+RealTime 1.0.0 by killer549 for API(s) 3.0.0
+Slapper 1.4.0 by jojoe77777 for API(s) 3.0.0
+StairSeatDown 1.0.0 by gamesukimanIRS, maru(このプラグインの型の製作者), DusKong(パケット関連サンプルコードを頂きました) for API(s) 3.0.0-ALPHA9
+WorldBackup 1.0 by Jhelom for API(s) 3.0.0-ALPHA12, 3.0.0
+WorldProtect 2.3.7 by aliuly for API(s) 3.0.0
+Worlds 2.0.3 by survanetwork for API(s) 3.0.0
+GrabBag 2.4.3 by aliuly for API(s) 3.0.0
+PureChat 1.4.11 by 64FF00 for API(s) 3.0.0
+
+----------------------REPORT THE DATA BELOW THIS LINE-----------------------
+
+===BEGIN CRASH DUMP===
+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
+Sw==
+===END CRASH DUMP===

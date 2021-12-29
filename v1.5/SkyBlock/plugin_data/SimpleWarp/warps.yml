@@ -1,0 +1,112 @@
+---
+kkk:
+  x: 255.585500
+  "y": 4.000000
+  z: 227.994200
+  level: Lobby
+  public: false
+  metadata: []
+SkyWars:
+  address: funnyblock.ddns.net
+  port: "1000"
+  public: true
+  metadata: []
+event:
+  x: 262.547400
+  "y": 5.000000
+  z: 257.180500
+  level: event
+  public: true
+  metadata: []
+pk:
+  x: 264.636700
+  "y": 26.500000
+  z: 253.741000
+  level: parkour
+  public: true
+  metadata: []
+parkour:
+  x: 264.440700
+  "y": 26.000000
+  z: 253.660700
+  level: parkour
+  public: false
+  metadata: []
+Jail:
+  x: 261.421100
+  "y": 4.000000
+  z: 281.151200
+  level: jail
+  public: false
+  metadata: []
+BUD:
+  x: 149.479300
+  "y": 5.000000
+  z: -102.431000
+  level: Builder
+  public: false
+  metadata: []
+luckychest:
+  x: 255.528100
+  "y": 4.780100
+  z: 252.513400
+  level: Master
+  public: false
+  metadata: []
+skyblock:
+  x: 278.036400
+  "y": 69.459800
+  z: 276.322200
+  level: sb
+  public: false
+  metadata: []
+pvp1:
+  x: 254.393800
+  "y": 93.000000
+  z: 261.382200
+  level: PVP
+  public: true
+  metadata: []
+pvp2:
+  x: 254.718500
+  "y": 93.000000
+  z: 261.295400
+  level: PVP
+  public: false
+  metadata: []
+sb:
+  x: 277.013700
+  "y": 69.000000
+  z: 275.247900
+  level: sb
+  public: true
+  metadata: []
+PVPFB:
+  x: 254.212800
+  "y": 93.000000
+  z: 262.033200
+  level: PVP
+  public: false
+  metadata: []
+ev:
+  x: 467.675900
+  "y": 69.000000
+  z: -488.020100
+  level: sb
+  public: false
+  metadata: []
+pvp:
+  x: 299.652600
+  "y": 99.000000
+  z: 315.605000
+  level: pvp1
+  public: true
+  metadata: []
+PvP:
+  x: 254.254000
+  "y": 93.000000
+  z: 261.433700
+  level: PVP
+  public: false
+  metadata: []
+...

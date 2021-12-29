@@ -1,0 +1,113 @@
+2021-12-29 [12:43:05] [Server thread/INFO]: Loading pocketmine.yml...
+2021-12-29 [12:43:05] [Server thread/INFO]: Selected English (eng) as the base language
+2021-12-29 [12:43:05] [Server thread/INFO]: Loading server properties...
+2021-12-29 [12:43:05] [Server thread/INFO]: Starting Minecraft: PE server version v1.5.3
+2021-12-29 [12:43:05] [Server thread/CRITICAL]: Failed to parse ban entry from string "wolftubetm|2018-08-13 10:08:16 +0700|KhoaGamingPro|Deop khoaGamingPro va pha server
+": Error parsing date for BanEntry: A four digit year could not be found, Data missing
+2021-12-29 [12:43:05] [Server thread/CRITICAL]: RuntimeException: "Error parsing date for BanEntry: A four digit year could not be found, Data missing" (EXCEPTION) in "src/pocketmine/permission/BanEntry" at line 137
+2021-12-29 [12:43:05] [Server thread/DEBUG]: #0 src/pocketmine/permission/BanEntry(172): pocketmine\permission\BanEntry::parseDate(string Deop khoaGamingPro va pha server)
+2021-12-29 [12:43:05] [Server thread/DEBUG]: #1 src/pocketmine/permission/BanList(151): pocketmine\permission\BanEntry::fromString(array Array())
+2021-12-29 [12:43:05] [Server thread/DEBUG]: #2 src/pocketmine/Server(1575): pocketmine\permission\BanList->load()
+2021-12-29 [12:43:05] [Server thread/DEBUG]: #3 src/pocketmine/PocketMine(237): pocketmine\Server->__construct(BaseClassLoader object, pocketmine\utils\MainLogger object, string D:\FunnyBlock\Lobby\, string D:\FunnyBlock\Lobby\plugins\)
+2021-12-29 [12:43:05] [Server thread/DEBUG]: #4 D:/FunnyBlock/Lobby/PocketMine-MP.phar(1): require(string phar://D:/FunnyBlock/Lobby/PocketMine-MP.phar/src/pocketmine/PocketMine.php)
+2021-12-29 [12:43:05] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-12-29 [12:43:05] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2021-12-29 [12:43:05] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2021-12-29 [12:43:06] [Server thread/INFO]: This server is running PocketMine-MP version 3.1.3
+2021-12-29 [12:43:06] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-12-29 [12:43:06] [Server thread/INFO]: Loading resource packs...
+2021-12-29 [12:43:06] [Server thread/INFO]: Loading AntiSpamPro v1.4.1
+2021-12-29 [12:43:06] [Server thread/INFO]: Loading BlockCMD v1.0.0-beta
+2021-12-29 [12:43:06] [Server thread/INFO]: Loading Broadcaster v1.5
+2021-12-29 [12:43:06] [Server thread/INFO]: Loading CustomAlerts v2.0
+2021-12-29 [12:43:06] [Server thread/INFO]: Loading DevTools v1.13.0
+2021-12-29 [12:43:06] [Server thread/INFO]: Loading FormAPI v1.2.0
+2021-12-29 [12:43:06] [Server thread/INFO]: Loading MagicWE2 v5.7.2
+2021-12-29 [12:43:06] [Server thread/INFO]: [[MagicWE] ] Restoring Sessions
+2021-12-29 [12:43:06] [Server thread/INFO]: [[MagicWE] ] Sessions successfully restored
+2021-12-29 [12:43:06] [Server thread/INFO]: Loading MSpawns v2.2
+2021-12-29 [12:43:06] [Server thread/INFO]: Loading NoHunger v1.0.3
+2021-12-29 [12:43:06] [Server thread/INFO]: Loading PurePerms v1.4.2
+2021-12-29 [12:43:06] [Server thread/NOTICE]: PurePerms by 64FF00 & ProjectInfinity! #LEET.CC
+
+  888  888    .d8888b.      d8888  8888888888 8888888888 .d8888b.   .d8888b. 
+  888  888   d88P  Y88b    d8P888  888        888       d88P  Y88b d88P  Y88b
+888888888888 888          d8P 888  888        888       888    888 888    888
+  888  888   888d888b.   d8P  888  8888888    8888888   888    888 888    888
+  888  888   888P "Y88b d88   888  888        888       888    888 888    888
+888888888888 888    888 8888888888 888        888       888    888 888    888
+  888  888   Y88b  d88P       888  888        888       Y88b  d88P Y88b  d88P
+  888  888    "Y8888P"        888  888        888        "Y8888P"   "Y8888P" 
+
+2021-12-29 [12:43:06] [Server thread/INFO]: [PurePerms] Setting default language to 'en'
+2021-12-29 [12:43:07] [Server thread/NOTICE]: [PurePerms] Multiworld support is currently disabled.
+2021-12-29 [12:43:07] [Server thread/NOTICE]: [PurePerms] Don't forget to set enable-multiworld-perms option in config.yml to true if you want to use per-world permissions!
+2021-12-29 [12:43:07] [Server thread/INFO]: Loading RestartMe v2.0.0
+2021-12-29 [12:43:07] [Server thread/INFO]: Loading SignServerStats v1.1.1
+2021-12-29 [12:43:07] [Server thread/INFO]: Loading SimpleSwim v1.0.0
+2021-12-29 [12:43:07] [Server thread/INFO]: Loading Slapper v1.4.0
+2021-12-29 [12:43:07] [Server thread/INFO]: Loading SlapperRotation v1.2.1
+2021-12-29 [12:43:07] [Server thread/INFO]: Loading Texter v2.4.3
+2021-12-29 [12:43:07] [Server thread/INFO]: [Texter] Selected English (eng) as the base language
+2021-12-29 [12:43:07] [Server thread/INFO]: [Texter] Commands was set to enabled
+2021-12-29 [12:43:07] [Server thread/INFO]: Loading TimeStopper v1.0.3
+2021-12-29 [12:43:07] [Server thread/INFO]: Loading TopVoter v3.0.0
+2021-12-29 [12:43:07] [Server thread/INFO]: Loading WorldProtect v2.3.8
+2021-12-29 [12:43:07] [Server thread/INFO]: Loading LinkPlayerCount v1.0.1
+2021-12-29 [12:43:07] [Server thread/INFO]: Loading FactionsPro v1.3.11-11
+2021-12-29 [12:43:07] [Server thread/INFO]: Loading PureChat v1.4.11
+2021-12-29 [12:43:07] [Server thread/INFO]: Loading SimpleWarp v4.0.1
+2021-12-29 [12:43:07] [Server thread/INFO]: Enabling Broadcaster v1.5
+2021-12-29 [12:43:07] [Server thread/INFO]: Enabling CustomAlerts v2.0
+2021-12-29 [12:43:07] [Server thread/INFO]: Enabling DevTools v1.13.0
+2021-12-29 [12:43:07] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2021-12-29 [12:43:07] [Server thread/INFO]: Enabling MagicWE2 v5.7.2
+2021-12-29 [12:43:07] [Server thread/INFO]: Enabling MSpawns v2.2
+2021-12-29 [12:43:07] [Server thread/INFO]: Enabling RestartMe v2.0.0
+2021-12-29 [12:43:07] [Server thread/NOTICE]: Khởi động lại khi bộ nhớ quá tải đã bị vô hiệu hóa.
+2021-12-29 [12:43:07] [Server thread/INFO]: Enabling WorldProtect v2.3.8
+2021-12-29 [12:43:07] [Server thread/INFO]: [WorldProtect] Enabled 6 features
+2021-12-29 [12:43:07] [Server thread/INFO]: Preparing level "hub"
+2021-12-29 [12:43:07] [Server thread/INFO]: Enabling AntiSpamPro v1.4.1
+2021-12-29 [12:43:07] [Server thread/INFO]: [AntiSpamPro] AntiSpamPro Swear Filter Enabled
+2021-12-29 [12:43:07] [Server thread/INFO]: Enabling BlockCMD v1.0.0-beta
+2021-12-29 [12:43:07] [Server thread/INFO]: Enabling FormAPI v1.2.0
+2021-12-29 [12:43:07] [Server thread/INFO]: Enabling NoHunger v1.0.3
+2021-12-29 [12:43:07] [Server thread/INFO]: Enabling PurePerms v1.4.2
+2021-12-29 [12:43:07] [Server thread/NOTICE]: [PurePerms] Set data provider to YAMLv1.
+2021-12-29 [12:43:07] [Server thread/INFO]: Enabling SignServerStats v1.1.1
+2021-12-29 [12:43:07] [Server thread/INFO]: Enabling SimpleSwim v1.0.0
+2021-12-29 [12:43:07] [Server thread/INFO]: [SimpleSwim] SimpleSwim Enabled
+2021-12-29 [12:43:07] [Server thread/INFO]: Enabling Slapper v1.4.0
+2021-12-29 [12:43:07] [Server thread/INFO]: Enabling SlapperRotation v1.2.1
+2021-12-29 [12:43:07] [Server thread/INFO]: Enabling Texter v2.4.3
+2021-12-29 [12:43:07] [Server thread/INFO]: [Texter] Texter v2.4.3 - "Phyllorhiza punctata" is Enabled
+2021-12-29 [12:43:07] [Server thread/INFO]: Enabling TimeStopper v1.0.3
+2021-12-29 [12:43:07] [Server thread/INFO]: Enabling TopVoter v3.0.0
+2021-12-29 [12:43:07] [Server thread/INFO]: Enabling LinkPlayerCount v1.0.1
+2021-12-29 [12:43:07] [Server thread/INFO]: Enabling FactionsPro v1.3.11-11
+2021-12-29 [12:43:08] [Server thread/INFO]: Enabling PureChat v1.4.11
+2021-12-29 [12:43:08] [Server thread/NOTICE]: [PureChat] FactionsPro < 1.4 support enabled.
+2021-12-29 [12:43:08] [Server thread/INFO]: Enabling SimpleWarp v4.0.1
+2021-12-29 [12:43:09] [Server thread/INFO]: [SimpleWarp] Your copy of SimpleWarp was verified.
+2021-12-29 [12:43:09] [Server thread/INFO]: Starting GS4 status listener
+2021-12-29 [12:43:09] [Server thread/INFO]: Setting query port to 19132
+2021-12-29 [12:43:09] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2021-12-29 [12:43:09] [Server thread/INFO]: Default game type: Survival Mode
+2021-12-29 [12:43:09] [Server thread/INFO]: Done (4.027s)! For help, type "help" or "?"
+2021-12-29 [12:43:09] [Server thread/INFO]: Server sẽ khởi động lại trong 1 giờ 0 phút 0 giây.
+2021-12-29 [12:43:09] [Server thread/NOTICE]: Level "world" not found
+2021-12-29 [12:43:09] [Server thread/WARNING]: ----- PocketMine-MP Auto Updater -----
+2021-12-29 [12:43:09] [Server thread/WARNING]: Your version of PocketMine-MP is out of date. Version 4.0.3 was released on Thu Dec 16 08:36:17 2021
+2021-12-29 [12:43:09] [Server thread/WARNING]: Details: https://github.com/pmmp/PocketMine-MP/releases/tag/4.0.3
+2021-12-29 [12:43:09] [Server thread/WARNING]: Download: https://github.com/pmmp/PocketMine-MP/releases/download/4.0.3/PocketMine-MP.phar
+2021-12-29 [12:43:09] [Server thread/WARNING]: ----- -------------------------- -----
+2021-12-29 [12:43:09] [Server thread/NOTICE]: [Texter] Latest version: v4.0.7 / Current version: v2.4.3
+2021-12-29 [12:43:09] [Server thread/NOTICE]: [Texter] Update is available
+2021-12-29 [12:43:09] [Server thread/NOTICE]: [Texter] URL: https://github.com/fuyutsuki/Texter/releases/tag/release/v4.0.7
+2021-12-29 [12:43:09] [Server thread/NOTICE]: Level "world" not found
+2021-12-29 [12:43:09] [Server thread/NOTICE]: Level "world" not found
+2021-12-29 [12:43:09] [Server thread/INFO]: [Texter] Crft: 0 texts / Ft: 2 texts have been generated
+2021-12-29 [12:43:09] [Server thread/WARNING]: [TopVoter] Error while processing data from the serverlist!
+2021-12-29 [12:43:09] [Server thread/ERROR]: [TopVoter] Error: server key not found
+2021-12-29 [12:43:16] [Server thread/INFO]: Plugins (23): AntiSpamPro v1.4.1, BlockCMD v1.0.0-beta, Broadcaster v1.5, CustomAlerts v2.0, DevTools v1.13.0, FormAPI v1.2.0, MagicWE2 v5.7.2, MSpawns v2.2, NoHunger v1.0.3, PurePerms v1.4.2, RestartMe v2.0.0, SignServerStats v1.1.1, SimpleSwim v1.0.0, Slapper v1.4.0, SlapperRotation v1.2.1, Texter v2.4.3, TimeStopper v1.0.3, TopVoter v3.0.0, WorldProtect v2.3.8, LinkPlayerCount v1.0.1, FactionsPro v1.3.11-11, PureChat v1.4.11, SimpleWarp v4.0.1

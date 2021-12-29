@@ -1,0 +1,89 @@
+﻿---
+datetime-format: "H:i:s"
+Motd:
+  update-timeout: 1
+  custom: false
+  message: "&e> &dChào mừng đến &l&aFunny &2Block &7- &eSkyBlock!&r &n&7[&a{TOTALPLAYERS}&7/&c{MAXPLAYERS}&7]"
+OutdatedClient:
+  custom: true
+  message: "&cMCPE của bạn đang chạy phiên bản cũ!\nVui lòng cập nhật lên phiên bản mới!"
+OutdatedServer:
+  custom: true
+  message: "&cXin lỗi bạn, server đang chạy phiên bản cũ!"
+WhitelistedServer:
+  custom: true
+  message: "&c&oThis Server is whitelisted!"
+FullServer:
+  custom: true
+  message: "&cServer đã đầy [{TOTALPLAYERS}/{MAXPLAYERS}]&b!\n&eThử vào lúc sau :)"
+FirstJoin:
+  enable: true
+  message: "&a{PLAYER}&d vào server lần đầu tiên."
+Join:
+  hide: false
+  custom: true
+  message: "&a&o{PLAYER}&r&e đã vào server &7[&a{TOTALPLAYERS}&7/&c{MAXPLAYERS}&7]."
+Quit:
+  hide: false
+  custom: true
+  message: "&c&o{PLAYER}&r&e đã rời khỏi server &7[&a{TOTALPLAYERS}&7/&c{MAXPLAYERS}&7]"
+WorldChange:
+  enable: false
+  message: "&a{PLAYER}&e moved from &c{ORIGIN}&e to &a{TARGET}"
+Death:
+  hide: false
+  custom: true
+  message: "&4&o{PLAYER}&r&c đã chết tại chỗ"
+  death-contact-message:
+    hide: false
+    custom: true
+    message: "&4&o{PLAYER}&r&e đã bị giết bởi &6&o{BLOCK}&r"
+  kill-message:
+    hide: false
+    custom: true
+    message: "&4&o{PLAYER}&r&e đã bị giết bởi &c&o{KILLER}&r"
+  death-projectile-message:
+    hide: false
+    custom: true
+    message: "&4&o{PLAYER}&r &eđã bị giết bởi &c&o{KILLER}&r &ebằng mũi tên"
+  death-suffocation-message:
+    hide: false
+    custom: true
+    message: "&4&o{PLAYER}&r &bbị nghẹt thở và chết tại chỗ"
+  death-fall-message:
+    hide: false
+    custom: true
+    message: "&4&o{PLAYER}&r&b vừa rơi xuống từ trên cao và chết tại chỗ"
+  death-fire-message:
+    hide: false
+    custom: true
+    message: "&4&o{PLAYER}&r&b nhảy vào lửa và chết"
+  death-on-fire-message:
+    hide: false
+    custom: true
+    message: "&4&o{PLAYER}&r &bđã bị thiêu cháy và chết"
+  death-lava-message:
+    hide: false
+    custom: true
+    message: "&4&o{PLAYER}&r&b đã thử tập bơi trong dung nham"
+  death-drowning-message:
+    hide: false
+    custom: true
+    message: "&4&o{PLAYER}&r&b bị chết đuối"
+  death-explosion-message:
+    hide: false
+    custom: true
+    message: "&4&o{PLAYER}&r&b bị nổ chết tại chỗ"
+  death-void-message:
+    hide: false
+    custom: true
+    message: "&4&o{PLAYER}&r&b đã rơi xuống tận cùng thế giới"
+  death-suicide-message:
+    hide: false
+    custom: true
+    message: "&4&o{PLAYER}&r&b đã tự sát"
+  death-magic-message:
+    hide: false
+    custom: true
+    message: "&4&o{PLAYER}&r&e đã bị giết bởi &6&oma thuật&r"
+...

@@ -1,0 +1,52 @@
+#This is config for setting every PurePerms group. Groups are automatically generated.
+#If you created new group, reload PP, and enter "/sb reload" to see it here.
+# %DEFAULT% - take the value from the default config.
+#Another strings - at the default config.
+
+Guest:
+  hud-format: "%DEFAULT%"
+  hud-shift-level: "%DEFAULT%"
+  type: "%DEFAULT%"
+  time-format: "%DEFAULT%"
+
+Admin:
+  hud-format: "§f————— §aFUN §6CRAFT §f—————\n§f•§b Tên:§e %NICK%\n§f•§b Trực tuyến:§a %ONLINE% §7/§c %MAX_ONLINE%\n§f•§b Rank:§e %PP_GROUP%\n§f•§b Xu:§e %MONEY%\n§f•§a Giết§7/§cChết§7: §a%KILLS% §7/ §c%DEATHS%\n§f•§b ID vật phẩm:§e %ITEM_ID%:%ITEM_META%\n§f•§b Tọa độ:§e %X% %Y% %Z%\n§f•§b Thế giới:§e %LEVEL%\n§f•§b Đồng hồ:§e %TIME%\n§f————————————————-—————"
+  hud-shift-level: "%DEFAULT%"
+  type: "%DEFAULT%"
+  time-format: "%DEFAULT%"
+
+Owner:
+  hud-format: "§f————— §aFUN §6CRAFT §f—————\n§f•§b Tên:§e %NICK%\n§f•§b Trực tuyến:§a %ONLINE% §7/§c %MAX_ONLINE%\n§f•§b Rank:§e %PP_GROUP%\n§f•§b Xu:§e %MONEY%\n§f•§a Giết§7/§cChết§7: §a%KILLS% §7/ §c%DEATHS%\n§f•§b ID vật phẩm:§e %ITEM_ID%:%ITEM_META%\n§f•§b Tọa độ:§e %X% %Y% %Z%\n§f•§b Thế giới:§e %LEVEL%\n§f•§b Đồng hồ:§e %TIME%\n§f————————————————-—————"
+  hud-shift-level: "%DEFAULT%"
+  type: "%DEFAULT%"
+  time-format: "%DEFAULT%"
+
+OP:
+  hud-format: "§f————— §aFUN §6CRAFT §f—————\n§f•§b Tên:§e %NICK%\n§f•§b Trực tuyến:§a %ONLINE% §7/§c %MAX_ONLINE%\n§f•§b Rank:§e %PP_GROUP%\n§f•§b Xu:§e %MONEY%\n§f•§a Giết§7/§cChết§7: §a%KILLS% §7/ §c%DEATHS%\n§f•§b ID vật phẩm:§e %ITEM_ID%:%ITEM_META%\n§f•§b Tọa độ:§e %X% %Y% %Z%\n§f•§b Thế giới:§e %LEVEL%\n§f•§b Đồng hồ:§e %TIME%\n§f————————————————-—————"
+  hud-shift-level: "%DEFAULT%"
+  type: "%DEFAULT%"
+  time-format: "%DEFAULT%"
+
+Police:
+  hud-format: "%DEFAULT%"
+  hud-shift-level: "%DEFAULT%"
+  type: "%DEFAULT%"
+  time-format: "%DEFAULT%"
+
+YouTuber:
+  hud-format: "%DEFAULT%"
+  hud-shift-level: "%DEFAULT%"
+  type: "%DEFAULT%"
+  time-format: "%DEFAULT%"
+
+VIP:
+  hud-format: "%DEFAULT%"
+  hud-shift-level: "%DEFAULT%"
+  type: "%DEFAULT%"
+  time-format: "%DEFAULT%"
+
+Pro:
+  hud-format: "%DEFAULT%"
+  hud-shift-level: "%DEFAULT%"
+  type: "%DEFAULT%"
+  time-format: "%DEFAULT%"

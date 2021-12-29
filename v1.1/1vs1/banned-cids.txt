@@ -1,0 +1,4 @@
+# Updated 10/25/17 15:59 by GenisysPro 1.1dev
+# victim name | ban date | banned by | banned until | reason
+
+doanh|2017-10-25 15:59:49 +0700|CONSOLE|Forever|Banned by an operator.

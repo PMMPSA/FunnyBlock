@@ -1,0 +1,54 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "zio_dragon_yt": [
+            663.3013,
+            69,
+            1027.2458,
+            "sb",
+            271,
+            36
+        ],
+        "bingvc": [
+            1209.5906,
+            71.2625,
+            280.4879,
+            "sb",
+            352,
+            69
+        ],
+        "binvcg": [
+            1209.649,
+            72.7625,
+            275.4708,
+            "sb",
+            0,
+            17
+        ],
+        "genji_viet_nam": [
+            -277.2384,
+            67.1235,
+            -1054.7086,
+            "sb",
+            157,
+            -4
+        ],
+        "best_best": [
+            1401.2174,
+            69,
+            -653.8412,
+            "sb",
+            179,
+            28
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

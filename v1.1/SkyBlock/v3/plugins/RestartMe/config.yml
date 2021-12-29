@@ -1,0 +1,22 @@
+#Tệp cấu hình của RestartMe v1.3.0
+broadcastInterval: 1200
+#Đặt khoảng thời gian đếm ngược trước khi gửi, tính bằng giây
+broadcastMessage: "• §eMáy chủ khởi động lại trong {RESTART_FORMAT_TIME}."
+#Thiết lập định dạng tin nhắn, sẽ gửi theo khoảng thời gian đặt trong khoảng thời gian gửi, tham khảo các tệp value.txt cho toàn bộ danh sách các giá trị sử dụng được
+countdownMessage: "• §eMáy chủ khởi động lại trong {RESTART_TIME}..."
+#Thiết lập định dạng tin nhắn, sẽ gửi trong thời gian đếm ngược, tham khảo value.txt để biết toàn bộ danh sách các giá trị sử dụng được
+displayType: chat
+#Đặt cách người chơi nhận được tin nhắn đếm ngược, hai lựa chọn: message, popup
+memoryLimit: 1200M
+#Sets the max memory that can be allocated before server restarts due to overload
+#B = byte; K = kilobyte; M = megabyte; G = gigabyte; T = terabyte; P = petabyte
+overloadQuitMessage: "• §eMáy chủ đang khởi động lại vì bộ nhớ quá tải..."
+#Sets the message sent to a player when they are kicked because of a server restart triggered by a memory overload
+quitMessage: "§eMáy chủ đang khởi động lại..."
+#Sets the message sent to a player when they are kicked because of a server restart
+restartInterval: 120
+#Sets the interval of the server restart, in minutes
+restartOnOverload: false
+#Set to true to allow server restarts when the server's memory is overloaded
+startCountdown: 10
+#Sets the time when to initiate a countdown, n seconds from restarting

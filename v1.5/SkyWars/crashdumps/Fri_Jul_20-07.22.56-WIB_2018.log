@@ -1,0 +1,114 @@
+Altay Crash Dump Fri Jul 20 07:22:56 WIB 2018
+
+Error: Expected a tag of type pocketmine\nbt\tag\IntTag, got pocketmine\nbt\tag\ByteTag
+File: vendor/pocketmine/nbt/src/tag/CompoundTag
+Line: 87
+Type: RuntimeException
+
+Code:
+
+Backtrace:
+#0 vendor/pocketmine/nbt/src/tag/CompoundTag(170): pocketmine\nbt\tag\CompoundTag->getTag(string note, string pocketmine\nbt\tag\IntTag)
+#1 vendor/pocketmine/nbt/src/tag/CompoundTag(216): pocketmine\nbt\tag\CompoundTag->getTagValue(string note, string pocketmine\nbt\tag\IntTag, integer 0, boolean )
+#2 src/pocketmine/tile/NoteBlock(39): pocketmine\nbt\tag\CompoundTag->getInt(string note, integer 0)
+#3 src/pocketmine/tile/Tile(173): pocketmine\tile\NoteBlock->readSaveData(pocketmine\nbt\tag\CompoundTag object)
+#4 src/pocketmine/tile/Spawnable(61): pocketmine\tile\Tile->__construct(pocketmine\level\Level object, pocketmine\nbt\tag\CompoundTag object)
+#5 src/pocketmine/tile/Tile(118): pocketmine\tile\Spawnable->__construct(pocketmine\level\Level object, pocketmine\nbt\tag\CompoundTag object)
+#6 src/pocketmine/level/format/Chunk(712): pocketmine\tile\Tile::createTile(string minecraft:noteblock, pocketmine\level\Level object, pocketmine\nbt\tag\CompoundTag object)
+#7 src/pocketmine/level/Level(2758): pocketmine\level\format\Chunk->initChunk(pocketmine\level\Level object)
+#8 src/pocketmine/level/Level(2361): pocketmine\level\Level->loadChunk(integer -1, integer -2, boolean 1)
+#9 src/pocketmine/level/Level(3024): pocketmine\level\Level->getChunk(integer -1, integer -2, boolean 1)
+#10 src/pocketmine/Player(1056): pocketmine\level\Level->populateChunk(integer -1, integer -2)
+#11 src/pocketmine/Player(1834): pocketmine\Player->sendNextChunk()
+#12 src/pocketmine/Server(2573): pocketmine\Player->checkNetwork()
+#13 src/pocketmine/Server(2326): pocketmine\Server->tick()
+#14 src/pocketmine/Server(2239): pocketmine\Server->tickProcessor()
+#15 src/pocketmine/Server(1803): pocketmine\Server->start()
+#16 src/pocketmine/PocketMine(241): pocketmine\Server->__construct(BaseClassLoader object, pocketmine\utils\MainLogger object, string C:\Users\Visitor\Desktop\PMMP\, string C:\Users\Visitor\Desktop\PMMP\plugins\)
+#17 C:/Users/Visitor/Desktop/PMMP/PocketMine-MP.phar(1): require_once(string phar://C:/Users/Visitor/Desktop/PMMP/PocketMine-MP.phar/src/pocketmine/PocketMine.php)
+
+Altay version: 3.0.6+dev [Protocol 274]
+Git commit: 0000000000000000000000000000000000000000
+uname -a: Windows NT DESKTOP-7BLVAAK 10.0 build 17134 (Windows 10) AMD64
+PHP Version: 7.2.5
+Zend version: 3.2.0
+OS : WINNT, win
+
+Loaded plugins:
+MagicWE2 5.7.2 by XenialDan for API(s) 3.0.0
+MurderMysteryPE 0.1.0 by TurtleTeam, corytortoise, jasonwynn10, xBeastMode, Chris-Prime for API(s) 3.0.0, 3.0.1, 3.0.2, 3.1.0, 4.0.0
+BanItem 2.3.3 by LDX for API(s) 3.0.0
+BlockCMD 1.0.0-beta by kenygamer for API(s) 3.0.0-ALPHA10, 3.0.0-ALPHA11
+Broadcaster 1.5 by EvolSoft for API(s) 3.0.0
+CustomAlerts 2.0 by EvolSoft for API(s) 3.0.0
+DevTools 1.13.0 by PocketMine Team for API(s) 3.0.0, 4.0.0
+EconomyAPI 5.7.2 by onebone for API(s) 3.0.0
+EconomyAuction 2.0.2 by onebone for API(s) 2.0.0, 3.0.0, 3.0.0-ALPHA1, 3.0.0-ALPHA2, 3.0.0-ALPHA3, 3.0.0-ALPHA4, 3.0.0-ALPHA5, 3.0.0-ALPHA6, 3.0.0-ALPHA7, 3.0.0-ALPHA8, 3.0.0-ALPHA9, 3.0.0-ALPHA10, 3.0.0-ALPHA11, 3.0.0-ALPHA12, 3.0.0-ALPHA13, 3.0.0-ALPHA14, 3.0.0-ALPHA15
+EconomyCasino 2.0.2 by onebone for API(s) 3.0.0-ALPHA7, 3.0.0-ALPHA8, 3.0.0-ALPHA9, 3.0.0-ALPHA10, 3.0.0-ALPHA11, 3.0.0-ALPHA12, 3.0.0-ALPHA13, 3.0.0-ALPHA14, 3.0.0-ALPHA15
+EconomyJob 2.0.4 by onebone for API(s) 3.0.0-ALPHA7, 3.0.0-ALPHA8, 3.0.0-ALPHA9, 3.0.0-ALPHA10, 3.0.0-ALPHA11, 3.0.0-ALPHA12, 3.0.0-ALPHA13, 3.0.0-ALPHA14, 3.0.0-ALPHA15
+EconomyPShop 2.0.2 by onebone for API(s) 3.0.0-ALPHA7, 3.0.0-ALPHA8, 3.0.0-ALPHA9, 3.0.0-ALPHA10, 3.0.0-ALPHA11, 3.0.0-ALPHA12, 3.0.0-ALPHA13, 3.0.0-ALPHA14, 3.0.0-ALPHA15
+EconomySell 2.0.7 by onebone for API(s) 3.0.0-ALPHA7, 3.0.0-ALPHA8, 3.0.0-ALPHA9, 3.0.0-ALPHA10, 3.0.0-ALPHA11, 3.0.0-ALPHA12, 3.0.0-ALPHA13, 3.0.0-ALPHA14, 3.0.0-ALPHA15
+EconomyShop 2.0.7 by onebone for API(s) 3.0.0-ALPHA7, 3.0.0-ALPHA8, 3.0.0-ALPHA9, 3.0.0-ALPHA10, 3.0.0-ALPHA11, 3.0.0-ALPHA12, 3.0.0-ALPHA13, 3.0.0-ALPHA14, 3.0.0-ALPHA15
+EconomyUsury 1.0.1 by onebone for API(s) 3.0.0-ALPHA7, 3.0.0-ALPHA8, 3.0.0-ALPHA9, 3.0.0-ALPHA10, 3.0.0-ALPHA11, 3.0.0-ALPHA12, 3.0.0-ALPHA13, 3.0.0-ALPHA14, 3.0.0-ALPHA15
+essentialsTP 1.2.1 by  for API(s) 3.0.0
+ItemCloud 1.3.1 by onebone for API(s) 3.0.0
+MSpawns 2.2 by EvolSoft for API(s) 3.0.0
+PurePerms 1.4.2 by 64FF00 & ProjectInfinity for API(s) 3.0.0
+RealTime 1.0.0 by killer549 for API(s) 3.0.0
+Slapper 1.4.0 by jojoe77777 for API(s) 3.0.0
+StairSeatDown 1.0.0 by gamesukimanIRS, maru(このプラグインの型の製作者), DusKong(パケット関連サンプルコードを頂きました) for API(s) 3.0.0-ALPHA9
+WorldBackup 1.0 by Jhelom for API(s) 3.0.0-ALPHA12, 3.0.0
+WorldProtect 2.3.7 by aliuly for API(s) 3.0.0
+Worlds 2.0.3 by survanetwork for API(s) 3.0.0
+EconomyAirport 2.0.4 by onebone for API(s) 3.0.0-ALPHA7, 3.0.0-ALPHA8, 3.0.0-ALPHA9, 3.0.0-ALPHA10, 3.0.0-ALPHA11, 3.0.0-ALPHA12, 3.0.0-ALPHA13, 3.0.0-ALPHA14, 3.0.0-ALPHA15
+FactionsProBeta 1.4.6 by Tethered_, HostingItAll.com for API(s) 3.0.0
+GrabBag 2.4.3 by aliuly for API(s) 3.0.0
+PureChat 1.4.11 by 64FF00 for API(s) 3.0.0
+
+----------------------REPORT THE DATA BELOW THIS LINE-----------------------
+
+===BEGIN CRASH DUMP===
+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
+iA==
+===END CRASH DUMP===

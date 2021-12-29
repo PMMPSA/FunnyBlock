@@ -1,0 +1,23 @@
+---
+10000:
+  rank: VIPI
+  ngay: "5"
+20000:
+  rank: VIPII
+  ngay: "5"
+50000:
+  rank: VIPIII
+  ngay: "5"
+100000:
+  rank: VIPI
+  ngay: "20"
+200000:
+  rank: VIPII
+  ngay: "20"
+300000:
+  rank: VIPIII
+  ngay: "20"
+500000:
+  rank: VIPIII
+  ngay: "30"
+...

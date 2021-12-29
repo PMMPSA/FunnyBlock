@@ -1,0 +1,13 @@
+---
+banitem:
+  138: Beacon
+  46: TNT
+  41: Gold Block
+  42: Iron Block
+  57: Diamond Block
+  22: Lapis Lazuli Block
+  173: Coal Block
+  133: Emerald Block
+  152: Block of Redstone
+pvp: false
+...

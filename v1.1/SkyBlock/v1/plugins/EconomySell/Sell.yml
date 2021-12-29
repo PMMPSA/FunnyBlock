@@ -1,0 +1,72 @@
+---
+80:71:254:sb:
+  x: 80
+  "y": 71
+  z: 254
+  level: sb
+  cost: 10000
+  item: 264
+  itemName: Diamond
+  meta: 0
+  amount: 15
+82:71:254:sb:
+  x: 82
+  "y": 71
+  z: 254
+  level: sb
+  cost: 6000
+  item: 265
+  itemName: Iron Ingot
+  meta: 0
+  amount: 10
+85:71:254:sb:
+  x: 85
+  "y": 71
+  z: 254
+  level: sb
+  cost: 1000
+  item: 351
+  itemName: Lapis Lazuli
+  meta: 4
+  amount: 3
+101:71:260:sb:
+  x: 101
+  "y": 71
+  z: 260
+  level: sb
+  cost: 100
+  item: 8
+  itemName: Water
+  meta: 0
+  amount: 1
+99:71:260:sb:
+  x: 99
+  "y": 71
+  z: 260
+  level: sb
+  cost: 100
+  item: 10
+  itemName: Lava
+  meta: 0
+  amount: 1
+97:71:260:sb:
+  x: 97
+  "y": 71
+  z: 260
+  level: sb
+  cost: 200
+  item: 4
+  itemName: Cobblestone
+  meta: 0
+  amount: 64
+95:71:260:sb:
+  x: 95
+  "y": 71
+  z: 260
+  level: sb
+  cost: 100
+  item: 12
+  itemName: Sand
+  meta: 0
+  amount: 64
+...

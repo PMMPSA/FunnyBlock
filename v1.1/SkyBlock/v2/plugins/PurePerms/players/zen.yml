@@ -1,0 +1,7 @@
+---
+userName: zen
+group: Member
+permissions:
+- '*'
+worlds: []
+...

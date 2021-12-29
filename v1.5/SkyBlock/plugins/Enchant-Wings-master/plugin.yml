@@ -1,0 +1,14 @@
+name: EnchantWings
+main: Enchant\Main
+version: 1.3
+api: [3.0.4]
+author: "FBTEAM"
+commands:
+  wings:
+    description: để bật và tắt cánh enchant!
+    permission: firewings.command.wing
+    usage: /wings
+permissions:
+  firewings.command.wing:
+    default: true
+    description: enchant wings !

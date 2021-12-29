@@ -1,0 +1,36 @@
+Altay Crash Dump Thu Jul 19 10:26:03 WIB 2018
+
+Error: Declaration of jasonwynn10\murder\commands\MurderMystery::getPlugin() must be compatible with pocketmine\command\PluginCommand::getPlugin(): pocketmine\plugin\Plugin
+File: MurderMysteryPMMP-master/src/jasonwynn10/murder/commands/MurderMystery
+Line: 10
+Type: E_COMPILE_ERROR
+
+THIS CRASH WAS CAUSED BY A PLUGIN
+
+Code:
+
+Backtrace:
+
+Altay version: 3.0.6+dev [Protocol 274]
+Git commit: 0000000000000000000000000000000000000000
+uname -a: Windows NT DESKTOP-7BLVAAK 10.0 build 17134 (Windows 10) AMD64
+PHP Version: 7.2.5
+Zend version: 3.2.0
+OS : WINNT, win
+
+Loaded plugins:
+MagicWE2 5.7.2 by XenialDan for API(s) 3.0.0
+
+----------------------REPORT THE DATA BELOW THIS LINE-----------------------
+
+===BEGIN CRASH DUMP===
+eNqNUk1v4jAQ/SuWT602DQlf0ebGNhyqEogou12JVMhJTPDWsSPbKWUr/vuOE0BwW588b2bePD/P
+Fzasojj0RwP/e+AF44GDqVJS4fALm0MNKTzdPC7i5Gk23UyXy8USO7iiWpPS5iKac6KIYVIguUV/
+iJZifxDC99K0alRBVZrmsqqIKHSaxi0SH7Sh6hCGJTUJb0om7u5R1WiDMoqguAa6jFO0Z2aHapm/
+U1MxQS9Eadp1PXbhDU9401C36LkehG8Zt6pvdCRxnDxUxN57WuW9qzf0uif0zi/o3TQCH4cxYJ53
+dHA3C4dGNdTBuSwgsX5zsFEkP11LKqgi3ForiHUdT7ghlueDKg0WAjJwPXf8raAfgGYN4wUOPSBX
+0shcQms/GDqY1OxcCmUlMxB5/3mgQZF3zjLb4/p91yLNSc8rE4XcazRfoWj68rxaJA/Bj9mvyeQZ
++Z7roVYR8gN/MER352Lfu0eTOBoPgaje1UATuH13BNFfKopWaDcFkhup7Zin+XwFQBvswbWLf9qa
+E5OS5a/T/pVRF+jaq5ELgwAhjdlJBa1r/JsKRnhEBH472bRuffJsTAWBvQJFW8I1fFJBaxCou8/R
+cmuia6Ai9jvxZ8tYEFijs4g0nUkCe2AXAC5Q9LKaLFc/EwD2NNPMWMn4eDz+AzO2EMU=
+===END CRASH DUMP===

@@ -1,0 +1,352 @@
+---
+75:69:294:sb:
+  x: 75
+  "y": 69
+  z: 294
+  level: sb
+  price: 100
+  item: 364
+  itemName: Steak
+  meta: 0
+  amount: 5
+70:69:288:sb:
+  x: 70
+  "y": 69
+  z: 288
+  level: sb
+  price: 80
+  item: 350
+  itemName: Cooked Fish
+  meta: 0
+  amount: 5
+71:69:288:sb:
+  x: 71
+  "y": 69
+  z: 288
+  level: sb
+  price: 80
+  item: 393
+  itemName: Baked Potato
+  meta: 0
+  amount: 5
+73:69:288:sb:
+  x: 73
+  "y": 69
+  z: 288
+  level: sb
+  price: 80
+  item: 360
+  itemName: Melon
+  meta: 0
+  amount: 5
+72:69:288:sb:
+  x: 72
+  "y": 69
+  z: 288
+  level: sb
+  price: 80
+  item: 357
+  itemName: Cookie
+  meta: 0
+  amount: 5
+74:69:294:sb:
+  x: 74
+  "y": 69
+  z: 294
+  level: sb
+  price: 100
+  item: 366
+  itemName: Cooked Chicken
+  meta: 0
+  amount: 5
+73:69:294:sb:
+  x: 73
+  "y": 69
+  z: 294
+  level: sb
+  price: 100
+  item: 424
+  itemName: Cooked Mutton
+  meta: 0
+  amount: 5
+72:69:294:sb:
+  x: 72
+  "y": 69
+  z: 294
+  level: sb
+  price: 70
+  item: 297
+  itemName: Bread
+  meta: 0
+  amount: 5
+76:69:294:sb:
+  x: 76
+  "y": 69
+  z: 294
+  level: sb
+  price: 100
+  item: 320
+  itemName: Cooked Porkchop
+  meta: 0
+  amount: 5
+92:70:87:sb:
+  x: 92
+  "y": 70
+  z: 87
+  level: sb
+  price: 100
+  item: 8
+  itemName: Water
+  meta: 0
+  amount: 1
+83:69:260:sb:
+  x: 83
+  "y": 69
+  z: 260
+  level: sb
+  price: 200
+  item: 17
+  itemName: Oak Wood
+  meta: 0
+  amount: 32
+80:69:254:sb:
+  x: 80
+  "y": 69
+  z: 254
+  level: sb
+  price: 10000
+  item: 264
+  itemName: Diamond
+  meta: 0
+  amount: 10
+82:69:254:sb:
+  x: 82
+  "y": 69
+  z: 254
+  level: sb
+  price: 7000
+  item: 265
+  itemName: Iron Ingot
+  meta: 0
+  amount: 10
+85:69:254:sb:
+  x: 85
+  "y": 69
+  z: 254
+  level: sb
+  price: 2000
+  item: 351
+  itemName: Lapis Lazuli
+  meta: 4
+  amount: 3
+101:69:260:sb:
+  x: 101
+  "y": 69
+  z: 260
+  level: sb
+  price: 100
+  item: 8
+  itemName: Water
+  meta: 0
+  amount: 1
+99:69:260:sb:
+  x: 99
+  "y": 69
+  z: 260
+  level: sb
+  price: 100
+  item: 10
+  itemName: Lava
+  meta: 0
+  amount: 1
+93:69:254:sb:
+  x: 93
+  "y": 69
+  z: 254
+  level: sb
+  price: 500
+  item: 155
+  itemName: Quartz Block
+  meta: 0
+  amount: 64
+95:69:254:sb:
+  x: 95
+  "y": 69
+  z: 254
+  level: sb
+  price: 1000
+  item: 169
+  itemName: Sea Lantern
+  meta: 0
+  amount: 32
+97:69:254:sb:
+  x: 97
+  "y": 69
+  z: 254
+  level: sb
+  price: 300
+  item: 20
+  itemName: Glass
+  meta: 0
+  amount: 32
+99:69:254:sb:
+  x: 99
+  "y": 69
+  z: 254
+  level: sb
+  price: 60
+  item: 355
+  itemName: Bed
+  meta: 0
+  amount: 1
+101:69:254:sb:
+  x: 101
+  "y": 69
+  z: 254
+  level: sb
+  price: 50
+  item: 54
+  itemName: Chest
+  meta: 0
+  amount: 1
+79:74:260:sb:
+  x: 79
+  "y": 74
+  z: 260
+  level: sb
+  price: 1000
+  item: 172
+  itemName: Hardened Clay
+  meta: 0
+  amount: 64
+81:74:260:sb:
+  x: 81
+  "y": 74
+  z: 260
+  level: sb
+  price: 1000
+  item: 159
+  itemName: White Stained Clay
+  meta: 0
+  amount: 64
+83:74:260:sb:
+  x: 83
+  "y": 74
+  z: 260
+  level: sb
+  price: 1000
+  item: 159
+  itemName: Light Gray Stained Clay
+  meta: 8
+  amount: 64
+85:74:260:sb:
+  x: 85
+  "y": 74
+  z: 260
+  level: sb
+  price: 1000
+  item: 159
+  itemName: Gray Stained Clay
+  meta: 7
+  amount: 64
+87:74:260:sb:
+  x: 87
+  "y": 74
+  z: 260
+  level: sb
+  price: 1000
+  item: 159
+  itemName: Black Stained Clay
+  meta: 15
+  amount: 64
+89:74:260:sb:
+  x: 89
+  "y": 74
+  z: 260
+  level: sb
+  price: 1000
+  item: 159
+  itemName: Red Stained Clay
+  meta: 14
+  amount: 64
+91:74:260:sb:
+  x: 91
+  "y": 74
+  z: 260
+  level: sb
+  price: 1000
+  item: 159
+  itemName: Brown Stained Clay
+  meta: 12
+  amount: 64
+93:74:260:sb:
+  x: 93
+  "y": 74
+  z: 260
+  level: sb
+  price: 1000
+  item: 159
+  itemName: Orange Stained Clay
+  meta: 1
+  amount: 64
+95:74:260:sb:
+  x: 95
+  "y": 74
+  z: 260
+  level: sb
+  price: 1000
+  item: 159
+  itemName: Yellow Stained Clay
+  meta: 4
+  amount: 64
+97:74:260:sb:
+  x: 97
+  "y": 74
+  z: 260
+  level: sb
+  price: 1000
+  item: 159
+  itemName: Lime Stained Clay
+  meta: 5
+  amount: 64
+97:69:260:sb:
+  x: 97
+  "y": 69
+  z: 260
+  level: sb
+  price: 200
+  item: 4
+  itemName: Cobblestone
+  meta: 0
+  amount: 64
+91:69:260:sb:
+  x: 91
+  "y": 69
+  z: 260
+  level: sb
+  price: 100
+  item: 13
+  itemName: Gravel
+  meta: 0
+  amount: 64
+95:69:260:sb:
+  x: 95
+  "y": 69
+  z: 260
+  level: sb
+  price: 100
+  item: 12
+  itemName: Sand
+  meta: 0
+  amount: 64
+91:71:260:sb:
+  x: 91
+  "y": 71
+  z: 260
+  level: sb
+  price: 100
+  item: 13
+  itemName: Gravel
+  meta: 0
+  amount: 64
+...

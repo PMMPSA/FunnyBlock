@@ -1,0 +1,198 @@
+---
+Member:
+  alias: mem
+  inheritance: []
+  permissions:
+  - advancedkits.command
+  - essentials.kit.use
+  - essentials.warp.use
+  - essentials.warps
+  - essentials.warps.
+  - essentials.warps.sb
+  - essentials.warps.shop
+  - myplot.command.claim
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.me
+  - pocketmine.command.transfer
+  - pocketmine.command.transferserver
+  - pperms.command.ppinfo
+  - simplewarp.command.warp
+  - simplewarp.warp
+  worlds: []
+  isDefault: true
+Admin:
+  alias: adm
+  inheritance: []
+  permissions:
+  - essentials.warps.sb
+  - pocketmine.command.ban
+  - pocketmine.command.ban-ip
+  - pocketmine.command.banlist
+  - pocketmine.command.gamemode
+  - pocketmine.command.kick
+  - pocketmine.command.pardon
+  - pocketmine.command.pardon-ip
+  - simplewarp.command.warp
+  - simplewarp.warp
+Builder:
+  alias: bdr
+  inheritance: []
+  permissions:
+  - essentials.warps
+  - essentials.warps.
+  - essentials.warps.sb
+  - fbop
+  worlds: []
+Owner:
+  alias: owr
+  inheritance: []
+  permissions:
+  - '*'
+  - essentials.warps
+  - essentials.warps.
+  - essentials.warps.sb
+  - fbop
+  worlds: []
+Co-Owner:
+  alias: coowr
+  inheritance: []
+  permissions:
+  - '*'
+  - essentials.warps
+  - essentials.warps.
+  - essentials.warps.sb
+  - fbop
+  worlds: []
+OP:
+  alias: op
+  inheritance: []
+  permissions:
+  - '*'
+  - essentials.warps
+  - essentials.warps.
+  - essentials.warps.sb
+  - fbop
+  worlds: []
+YouTuber:
+  alias: yt
+  inheritance: []
+  permissions:
+  - essentials.warps
+  - essentials.warps.
+  - essentials.warps.sb
+  - fbop
+  worlds: []
+VIPI:
+  alias: vip
+  inheritance: []
+  permissions:
+  - essentials.colorchat
+  - essentials.fly.use
+  - essentials.kit.use
+  - essentials.warp.use
+  - essentials.warps
+  - essentials.warps.
+  - essentials.warps.sb
+  - fly.me
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.me
+  - pocketmine.command.transferserver
+  - pperms.command.ppinfo
+  worlds: []
+VIPII:
+  alias: vip2
+  inheritance: []
+  permissions:
+  - essentials.clearinventory.use
+  - essentials.colorchat
+  - essentials.fly.use
+  - essentials.getpos.use
+  - essentials.kit.use
+  - essentials.warp.use
+  - essentials.warps
+  - essentials.warps.
+  - essentials.warps.sb
+  - fly.me
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.me
+  - pocketmine.command.transferserver
+  - pperms.command.ppinfo
+  worlds: []
+VIPIII:
+  alias: vip3
+  inheritance: []
+  permissions:
+  - essentials.clearinventory.use
+  - essentials.colorchat
+  - essentials.fly.use
+  - essentials.getpos.use
+  - essentials.kit.use
+  - essentials.setwarp
+  - essentials.sign.create.warp
+  - essentials.warp.use
+  - essentials.warps
+  - essentials.warps.
+  - essentials.warps.sb
+  - fly.me
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.broadcast.user
+  - pocketmine.command.list
+  - pocketmine.command.me
+  - pocketmine.command.status
+  - pocketmine.command.transferserver
+  - pperms.command.ppinfo
+  - simplewarp.command.warp
+  - simplewarp.warp
+  worlds: []
+Police:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - essentials.colorchat
+  - essentials.fly.use
+  - essentials.kit.use
+  - essentials.warp.use
+  - essentials.warps
+  - essentials.warps.
+  - essentials.warps.sb
+  - fly.me
+  - pocketmine.command.ban
+  - pocketmine.command.banlist
+  - pocketmine.command.fly
+  - pocketmine.command.kick
+  - pocketmine.command.mute
+  - pocketmine.command.pardon
+  - pocketmine.command.teleport
+  - pocketmine.command.tp
+  - simplewarp.command.warp
+  - simplewarp.warp
+  worlds: []
+Helper:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - essentials.colorchat
+  - essentials.fly.use
+  - essentials.kit.use
+  - essentials.tp.me
+  - essentials.warp.use
+  - essentials.warps
+  - essentials.warps.
+  - essentials.warps.sb
+  - pocketmine.command.ban
+  - pocketmine.command.kick
+  - pocketmine.command.teleport
+  - pocketmine.command.tp
+  - simplewarp.command.warp
+  - simplewarp.warp
+  worlds: []
+...

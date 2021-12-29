@@ -1,0 +1,10 @@
+## ColorMatch config
+---
+Language: "English"
+Prefix: "&6&l[&bBP&6]&r&f •&e "
+#Game lobby location
+lobby:
+    x: 63
+    y: 70
+    z: 64
+    world: spawnhub_doomgary_v3

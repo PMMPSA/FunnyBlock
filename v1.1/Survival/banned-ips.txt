@@ -1,0 +1,4 @@
+# Updated 10/24/17 17:00 by GenisysPro 1.1dev
+# victim name | ban date | banned by | banned until | reason
+
+42.116.184.211|2017-10-24 17:00:53 +0700|_skull_|Forever|Banned by an operator.

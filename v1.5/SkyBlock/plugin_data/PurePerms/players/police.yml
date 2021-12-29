@@ -1,0 +1,8 @@
+---
+userName: police
+group: Member
+permissions:
+- kick
+worlds: []
+time: -1
+...

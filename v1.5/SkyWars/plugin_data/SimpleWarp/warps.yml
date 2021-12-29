@@ -1,0 +1,40 @@
+---
+kkk:
+  x: 255.585500
+  "y": 4.000000
+  z: 227.994200
+  level: Lobby
+  public: false
+  metadata: []
+sanu:
+  x: 255.700500
+  "y": 93.000000
+  z: 267.403800
+  level: shop
+  public: false
+  metadata: []
+staff:
+  x: 254.223700
+  "y": 4.000000
+  z: 256.047100
+  level: staff
+  public: false
+  metadata: []
+SURVIVAL:
+  address: funnyblock.ddns.net
+  port: "19133"
+  public: false
+  metadata: []
+SW:
+  x: 253.591800
+  "y": 72.329100
+  z: 262.713600
+  level: SkyWar
+  public: true
+  metadata: []
+SkyBlock:
+  address: funnyblock.ddns.net
+  port: "19132"
+  public: true
+  metadata: []
+...

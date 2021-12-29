@@ -1,0 +1,17 @@
+# Updated 12/08/17 22:31 by GenisysPro 1.1dev
+# victim name | ban date | banned by | banned until | reason
+
+ha|2017-11-26 22:08:25 +0700|Mashmello|Forever|Banned by an operator.
+-6178538632539509920|2017-11-26 22:10:45 +0700|Mashmello|Forever|Banned by an operator.
+haru_yt|2017-11-26 22:10:55 +0700|Zero_FramVl|Forever|Banned by an operator.
+-7369078101539877860|2017-11-26 22:10:58 +0700|Mashmello|Forever|Banned by an operator.
+-8156028281181656088|2017-11-26 22:11:36 +0700|Mashmello|Forever|Banned by an operator.
+-6223801913313363413|2017-11-26 22:11:53 +0700|Mashmello|Forever|Banned by an operator.
+-5417857660891199372|2017-11-26 22:13:10 +0700|Mashmello|Forever|Banned by an operator.
+5048943522887298068|2017-11-26 22:13:17 +0700|Mashmello|Forever|Banned by an operator.
+minhhuy|2017-11-26 22:13:19 +0700|Zero_FramVl|Forever|Banned by an operator.
+ghast_noob|2017-11-26 22:49:06 +0700|Zero_FramVl|Forever|Banned by an operator.
+girl_cute|2017-11-27 11:24:20 +0700|Zero_FramVl|Forever|Banned by an operator.
+-1885825047581964554|2017-12-02 18:29:01 +0700|NUB|Forever|Banned by an operator.
+b|2017-12-08 22:31:09 +0700|Sasaki|Forever|Banned by an operator.
+bracing_vnyt|2017-12-08 22:31:25 +0700|Sasaki|Forever|Banned by an operator.

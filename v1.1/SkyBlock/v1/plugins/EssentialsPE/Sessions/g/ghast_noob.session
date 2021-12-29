@@ -1,0 +1,17 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": [],
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": {
+        "280": "clearchat",
+        "352": "clearchat",
+        "399": "dnop funnyblock2017"
+    },
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

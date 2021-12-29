@@ -1,0 +1,14 @@
+---
+64FF00:
+  group: Guest
+  permissions: []
+  worlds: []
+khoagamingpro:
+  group: Owner
+  permissions: []
+  worlds: []
+luuanh2:
+  group: OP
+  permissions: []
+  worlds: []
+...

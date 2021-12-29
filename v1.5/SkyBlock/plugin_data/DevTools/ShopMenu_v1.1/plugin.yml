@@ -1,0 +1,13 @@
+name: ShopMenu
+main: Enes5519\ShopMenu\ShopMenu
+version: 1.1
+api: [3.0.0, 4.0.0]
+author:
+- Enes5519
+- KhoaGamingPro
+
+commands:
+  shop:
+    description: Open shop menu
+    overloads:
+      default:

@@ -1,0 +1,9 @@
+name: GuiShop
+main: GuiShop\Main
+version: 2.0.0
+api: [3.0.0]
+author: PHP-Devs /georgianYT
+description: ShopGUI
+commands:
+ shop:
+  description: Opens the shop gui

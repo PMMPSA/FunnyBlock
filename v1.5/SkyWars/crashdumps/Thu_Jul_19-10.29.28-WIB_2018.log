@@ -1,0 +1,42 @@
+Altay Crash Dump Thu Jul 19 10:29:28 WIB 2018
+
+Error: Class 'pocketmine\scheduler\PluginTask' not found
+File: Murder_1.2.10.phar/src/murder/murder/murder
+Line: 921
+Type: E_ERROR
+
+THIS CRASH WAS CAUSED BY A PLUGIN
+
+Code:
+
+Backtrace:
+
+Altay version: 3.0.6+dev [Protocol 274]
+Git commit: 0000000000000000000000000000000000000000
+uname -a: Windows NT DESKTOP-7BLVAAK 10.0 build 17134 (Windows 10) AMD64
+PHP Version: 7.2.5
+Zend version: 3.2.0
+OS : WINNT, win
+
+Loaded plugins:
+MagicWE2 5.7.2 by XenialDan for API(s) 3.0.0
+BlockCMD 1.0.0-beta by kenygamer for API(s) 3.0.0-ALPHA10, 3.0.0-ALPHA11
+Broadcaster 1.5 by EvolSoft for API(s) 3.0.0
+CustomAlerts 2.0 by EvolSoft for API(s) 3.0.0
+MSpawns 2.2 by EvolSoft for API(s) 3.0.0
+
+----------------------REPORT THE DATA BELOW THIS LINE-----------------------
+
+===BEGIN CRASH DUMP===
+eNq1lFuP2jAQhf9K5JdtVQgJLFB4ywJSq+UmSEslskImMWBh7Mh2SOmK/94xNzlbqapQlxfiY8/M
++Y4Dr0jTHUFtv17zW02v1fhcQkRKIVH7FelDCluot+hNJqMJKqEdUQqvjdZhWCnnIRXxlugd5SSK
+VLwhScaIjKIxy9aUh1htHxwutLMSGU+gfkWZKR5kMiFy4btV1/fcdINlRcm4sjvJxS8oYtAdtVtV
+/1hC6akxamuZkRKKRQI785cS0hLHl8c14URiZvxzbNBQwDQ+QKM9kYoKqEY113MbnxKyB3WZUZag
+tgfNpdAiFlBabT6WEE7p9SgcW1MNK+8fP1Ag8ZbRpalx/aprlOziZ0Z5InLlDEOn25s+h6NxufnU
+/x4Ezw7E4TknR47f9GuPzofrYd/76ASDbuMRGqWbFNo0Ib46rH4RyNYYPU+BzYVQZszX4TAE4bTI
+IbVbfsqEM8BrGs96VSuom2RnVXdhECg40xshoXSOfhBOMetijl4uMc1POXlmTTheMgKOVpgpuKSE
+pGBQnS9HiZXu2sIOm+tEP08dE8yj6GoiivoCX94AeIBD0zCYhN/GIORkqag2lg3UE4O3sDPoWiQ3
+ySbxjcXykmhcxNkSflhDnXyLUw764y+Bb1K11/7dmFdbUWQZvNCNR9NwNpr0u3/ySTgRY6WJtBEt
+tUhZL+L19oJNwdB/uyxrMoAUbPzlpjZap6pdqeR57hKwZLq7emsAO5nSYhfAX4dWFmFBthHPL/p7
+Itqjo+iNkfsgB9MU59zmuypFtOo7o12mwg/tNv4eoOPxN7ai8k0=
+===END CRASH DUMP===

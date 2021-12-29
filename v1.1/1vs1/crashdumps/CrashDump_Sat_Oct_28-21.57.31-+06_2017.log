@@ -1,0 +1,43 @@
+Turanic Crash Dump Sat Oct 28 21:57:31 +06 2017
+
+Error: Declaration of pocketmine\plugin\PluginBase::getResource(string $filename) must be compatible with pocketmine\plugin\Plugin::getResource($filename)
+File: /src/pocketmine/plugin/PluginBase
+Line: 32
+Type: E_COMPILE_ERROR
+
+Code:
+[23] 
+[24] namespace pocketmine\plugin;
+[25] 
+[26] use pocketmine\command\Command;
+[27] use pocketmine\command\CommandSender;
+[28] use pocketmine\command\PluginIdentifiableCommand;
+[29] use pocketmine\Server;
+[30] use pocketmine\utils\Config;
+[31] 
+[32] abstract class PluginBase implements Plugin{
+[33] 
+[34] 	/** @var PluginLoader */
+[35] 	private $loader;
+[36] 
+[37] 	/** @var Server */
+[38] 	private $server;
+[39] 
+[40] 	/** @var bool */
+[41] 	private $isEnabled = false;
+[42] 
+
+Backtrace:
+#0 (): pocketmine\Server->crashDump(boolean)
+
+Turanic [Protocol 137; API 3.0.1]
+uname -a: Windows NT DESKTOP-U4NNI1B 10.0 build 15063 (Windows 10) AMD64
+PHP version: 7.0.17
+Zend version: 3.0.0
+OS : WINNT, win
+
+Server uptime: 1 seconds
+Number of loaded worlds: 0
+Players online: 0/50
+
+Loaded plugins:

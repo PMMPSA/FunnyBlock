@@ -1,0 +1,8 @@
+---
+bancmds:
+  /hub: /hub
+  /lobby: /lobby
+  /home: /home
+  /spawn: /spawn
+protect: lock
+...

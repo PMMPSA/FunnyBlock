@@ -1,0 +1,17 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": [],
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": "Hacker",
+    "ptCommands": {
+        "10": "slapper remove",
+        "294": "\/pos1",
+        "290": "slapper remove"
+    },
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

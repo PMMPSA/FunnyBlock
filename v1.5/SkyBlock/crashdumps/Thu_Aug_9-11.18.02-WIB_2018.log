@@ -1,0 +1,38 @@
+Altay Crash Dump Thu Aug 9 11:18:02 WIB 2018
+
+Error: Declaration of MCPEVN\SetVip::onCommand(pocketmine\command\CommandSender $s, pocketmine\command\Command $cmd, $label, array $args) must be compatible with pocketmine\plugin\PluginBase::onCommand(pocketmine\command\CommandSender $sender, pocketmine\command\Command $command, string $label, array $args): bool
+File: SetVip-2.3/src/MCPEVN/SetVip(6) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code
+Line: 314
+Type: E_COMPILE_ERROR
+
+Code:
+
+Backtrace:
+
+Altay version: 3.0.7+dev [Protocol 274]
+Git commit: 0000000000000000000000000000000000000000
+uname -a: Windows NT WIN-VCQUKKDO8FH 6.3 build 9600 (Windows Server 2012 R2 Datacenter Edition) AMD64
+PHP Version: 7.2.8
+Zend version: 3.2.0
+OS : WINNT, win
+
+Loaded plugins:
+ClearLaggPE 2.0.0 by VMPE Development Team for API(s) 3.0.0, 4.0.0
+EnchantWings 1.3 by FBTEAM for API(s) 3.0.4
+
+----------------------REPORT THE DATA BELOW THIS LINE-----------------------
+
+===BEGIN CRASH DUMP===
+eNrtVN9v2jAQ/ldOFtJAS1MIDFjeWki1qvwaMPrQVJVJTLDqxJFtQKzif985oR3dpnXb8/Ji+7vz
++bvv7vJEDE8Z8Rsfms1Ot+t1PYcwpaQi/hMx+xxNJHjojYeT60HwEEyn4ylxSMq0pom19VkkqKKG
+ywzkCoa9SbAYheGMmQXPfV9mPZmmNIuruYwemUl5xsIwKrEwPBpnLIuZgop24HduUInS2IGKoEsm
+HKBK0T1UqEp0DdKNNrBkgHdyZLMUDHbcrF/Fy8Um4VkYTor1kmr21wSL9U2W5cYBbRTPkl8S9mEp
+pUApV1xYHUvBzjy3ea5VdF7qeF6i1XYNfGBbKqq1dzGmGLOq9zPU+A+VEKoqsDTEbzZaB4eUZSf+
+igrNHFJ4+Hf3DjGKRsdtwjKmqLBNn1E7D+RCGLrHSFumNDY3Ik237nbex2yL6HLDRUz8OkZX0sgI
+S+l7nZZDaM6fXdEt4QZP9T/88IKij4Iv7R234bkW2Rz53PIsljsNozncXo/OFr3PX25u+uPu1Sdo
+u00oCMHHdr0O1WfXGVPIHrx6w4OpB31qMN/MIBTE3E5sDS6G/XYLX8nXOb7RcT23i6ev2OZFFiUF
+ND5IbTlcj0ZzBIrDDjV9UVdb5XqCUTWgSTIJToQ8RU/lxNhFdLoxa6kwwB1ZDCcB9NmWCZmnyBTm
+jKbk/qjqXSGrvdIqVsRZRnHS45faxixH6rqsqZYr0z8FUmrb4DuhMBxIivNs+wU3aJqMZ/Pb8XTQ
+R2jHlpobm8FIGtBrubOzHG8YGAmaiRVgnEfg2UqqtPgBulaPIIvWNDNYg0SfqPAKPpWh4TZfi3B1
+OQ8uhj9k3frnbI8Ph+HQnt/IlBwOh28N4+FC
+===END CRASH DUMP===

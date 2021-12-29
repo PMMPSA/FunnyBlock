@@ -1,0 +1,42 @@
+#   _______                       __        __    __
+#  /       \                     /  |      /  |  /  |
+#  $$$$$$$  |  ______   _______  $$ |   __ $$ |  $$ |  ______
+#  $$ |__$$ | /      \ /       \ $$ |  /  |$$ |  $$ | /      \
+#  $$    $$<  $$$$$$  |$$$$$$$  |$$ |_/$$/ $$ |  $$ |/$$$$$$  |
+#  $$$$$$$  | /    $$ |$$ |  $$ |$$   $$<  $$ |  $$ |$$ |  $$ |
+#  $$ |  $$ |/$$$$$$$ |$$ |  $$ |$$$$$$  \ $$ \__$$ |$$ |__$$ |
+#  $$ |  $$ |$$    $$ |$$ |  $$ |$$ | $$  |$$    $$/ $$    $$/
+#  $$/   $$/  $$$$$$$/ $$/   $$/ $$/   $$/  $$$$$$/  $$$$$$$/
+#                                                    $$ |
+#  The easy prison rankup plugin for PocketMine-MP   $$ |
+#                                                    $$/
+
+unleash-the-rankupdoesgroups: true
+  # If you set this to false RankUpDoesGroups won't be loaded.
+  # This means that you can't set it as your groupmanager.
+  # It is highly recommended not to change this
+preferred-economy: false
+  # Set your preferred economy
+  # rankup\\economy\\Economy and rankup\\economy\\PocketMoney are available by default
+  # Set to false for autoloading (only officially supported economys will autoload).
+preferred-groupmanager: "rankup\\permission\\RankUpDoesGroups"
+  # Set your preferred group manager
+  # rankup\\permission\\RankUpDoesGroups and rankup\\permission\\PurePerms are available.
+  # RankUpDoesGroups is a super barebones alternative for users who don't use PurePerms
+
+ranks: # Define all your ranks here
+  Member: 0
+  God: 400000
+
+lang:
+  ranked-up-paid: "§aBạn đã lên rank§6 %s §athành công"
+  ranked-up-free: "§aBạn đã lên rank§6 %s §athành công §b(miễn phí)"
+  group-add-error-paid: "§cKhông thể mua rank. Hoàn trả giá."
+  group-add-error-free: "§cKhông thể mua rank. Thử lại lần sau."
+  need-more-money-1: "§cBạn không có đủ xu để mua rank"
+  need-more-money-2: "§eBạn cần có§b %s §enữa để mua rank."
+  missing-economy: "§cKhông thể mua bây giờ."
+  have-max-rank: "§eBạn đã đạt được rank tối đa. Không thể lên thêm"
+  command-permission-error: "§cBạn không có quyền lên rank."
+
+

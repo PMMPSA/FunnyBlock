@@ -1,0 +1,28 @@
+repairable-items:
+  # Format
+  # id:
+  #  name: ''
+  #  url/path: ''
+  #  price: 0
+
+  # If name is empty writes item name
+  268:
+    name: ''
+    price: 50
+    path: 'textures/items/wood_sword'
+  272:
+    name: 'Stone Sword'
+    price: 100
+    path: 'textures/items/stone_sword'
+  267:
+    name: 'Iron Sword'
+    price: 150
+    path: 'textures/items/iron_sword'
+  283:
+    name: 'Gold Sword'
+    price: 150
+    path: 'textures/items/gold_sword'
+  276:
+    name: 'Diamond Sword'
+    price: 200
+    path: 'textures/items/diamond_sword'

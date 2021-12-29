@@ -1,0 +1,39 @@
+name: Coins
+main: "PocketMoney\\PocketMoney"
+version: 4.0.1
+api: 
+ - 3.1.1
+ - 3.0.0
+ - 3.0.0-ALPHA12
+load: "POSTWORLD"
+author: "fb.com/roremi.cf" 
+ #edit: FRK
+authors: ["MinecrafterJPN"]
+description: "The core economy system with many APIs"
+website: "ht"
+commands:
+ coin:
+  description: "Coins command"
+  usage: "/coin [subcommand]"
+  permission: "pocketmoney.money"
+permissions:
+ pocketmoney:
+  default: "op"
+  description: "Allows using everything PocketMoney has"
+  children:
+  # The following permissions belong to commands
+   pocketmoney.money:
+    default: true
+    description: "Allows using \"/coin\" command"
+   pocketmoney.help:
+    default: true
+    description: "Allows using \"/coin help\" command"
+   pocketmoney.view:
+    default: true
+    description: "Allows using \"/coin view\" command"
+   pocketmoney.pay:
+    default: true
+    description: "Allows using \"/coin pay\" command"
+   pocketmoney.top:
+    default: true
+    description: "Allows using \"/coin top\" command"

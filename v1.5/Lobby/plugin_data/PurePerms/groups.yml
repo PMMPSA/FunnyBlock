@@ -1,0 +1,133 @@
+---
+Member:
+  alias: mem
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - advancedkits.Assassin
+  - advancedkits.Emerald
+  - advancedkits.PVP
+  - advancedkits.Pro
+  - altay.command.ping
+  - essentials.kit
+  - essentials.kit.other
+  - pchat.colored.format
+  - pocketmine.commamd.fix
+  - pocketmine.command.sethome
+  - tool.fix
+  - tools.fix
+  worlds: []
+  isDefault: true
+Admin:
+  alias: adm
+  inheritance:
+  - Guest
+  permissions:
+  - '*'
+  - -blockcmd
+  - -blockcmd.access
+  worlds:
+    Lobby:
+      isDefault: false
+      permissions: []
+Owner:
+  alias: owr
+  inheritance:
+  - Admin
+  permissions:
+  - '*'
+  worlds: []
+OP:
+  alias: op
+  inheritance: []
+  permissions:
+  - '*'
+  - -blockcmd
+  - -blockcmd.access
+  worlds: []
+Police:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - '*'
+  - -blockcmd
+  - -blockcmd.access
+  worlds: []
+MVP:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - pocketmine.command.heal
+  - pocketmine.command.size
+  worlds: []
+Co-Owner:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - '*'
+  - -blockcmd
+  - -blockcmd.access
+  worlds: []
+Co-OP:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - '*'
+  - -blockcmd
+  - -blockcmd.access
+  worlds: []
+YouTuber:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - '*'
+  - -blockcmd
+  - -blockcmd.access
+  - pocketmine.command.donator
+  - pocketmine.command.enchant
+  - pocketmine.command.size
+  worlds: []
+Coder:
+  alias: cd
+  inheritance: []
+  permissions:
+  - '*'
+  - -blockcmd
+  - -blockcmd.access
+  worlds: []
+Builder:
+  alias: bdr
+  isDefault: false
+  inheritance: []
+  permissions:
+  - '*'
+  - -blockcmd
+  - -blockcmd.access
+  - fly.command
+  worlds: []
+God:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - advancedkits.GodTools
+  - advancedkits.Pro
+  - altay.command.ping
+  - essentials.kit
+  - essentials.kit.other
+  - fly.command
+  - pchat.colored.format
+  - pocketmine.commamd.fix
+  - pocketmine.command.me
+  - pocketmine.command.sethome
+  - pocketmine.command.teleport
+  - tool.fix
+  - tools.fix
+...

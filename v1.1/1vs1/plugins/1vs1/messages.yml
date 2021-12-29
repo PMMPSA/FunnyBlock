@@ -1,0 +1,29 @@
+# Messages 1vs1 config.
+# Use colors with "&" or "§". You can find any help about formating codes here : http://minecraft.gamepedia.com/Formatting_codes .
+# Plugin by Minifixio.
+
+---
+###############
+#Queue messages
+###############
+queue_join: "&f• &aBạn vào 1vs1"
+queue_playersinqueue: "&f• &eĐang chờ đối thủ... "
+queue_popup: "&aBạn đã vào 1vs1"
+queue_alreadyinqueue: "&f• &eBạn đã vào 1vs1 rồi!"
+
+##############
+#Duel messages
+##############
+duel_tip: "&eBạn đang bắt đầu đấu !"
+duel_against: "&f• &6Đối thủ:&4 "
+duel_start: "&f&l++++++++=++++++++\n&f•&a Trận đấu bắt đầu!\n&f•&6 Bạn có &23 phút !\n&f•&6 Chúc may mắn!\n&f&l++++++++=++++++++"
+duel_winner: "&f• &aBạn đã thắng trận:&4 "
+duel_loser: "&f• &cBạn đã thua trận:&4 "
+duel_broadcast: "&&f• 6&l won a duel against "
+duel_timeover: "&f&l++++++++=++++++++\n&f•&6 Hết thời gian, chưa ai thắng!\n&f•&6 Cần nhanh hơn!\n&f&l++++++++=++++++++"
+
+###############
+#Arena messages
+###############
+arena_alreadyinarena: "&f• &4Bạn đã ở trong arena!"
+...

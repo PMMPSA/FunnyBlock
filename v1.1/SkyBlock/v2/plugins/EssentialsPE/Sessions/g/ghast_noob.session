@@ -1,0 +1,34 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "1": [
+            14493.4736,
+            69,
+            14488.1201,
+            "sb",
+            276,
+            -3
+        ],
+        "a": [
+            289.9536,
+            4,
+            163.0939,
+            "world2",
+            84,
+            -5
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": {
+        "381": "gmc",
+        "263": "tp Am",
+        "280": "dnop funnyblock2017"
+    },
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

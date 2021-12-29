@@ -1,0 +1,22 @@
+---
+- ID: 0
+  startX: -333
+  endX: -305
+  startZ: -311
+  endZ: -281
+  price: 89900
+  owner: chuc123z
+  level: survival
+  invitee: []
+  expires: ~
+- ID: 1
+  startX: 154
+  endX: 225
+  startZ: -522
+  endZ: -468
+  price: 396000
+  owner: Ghast_Noob
+  level: survival
+  invitee: []
+  expires: ~
+...

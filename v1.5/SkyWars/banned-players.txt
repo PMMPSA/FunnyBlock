@@ -1,0 +1,3 @@
+# Updated 07/19/18 13:58 by Altay 3.0.6+dev
+# victim name | ban date | banned by | banned until | reason
+

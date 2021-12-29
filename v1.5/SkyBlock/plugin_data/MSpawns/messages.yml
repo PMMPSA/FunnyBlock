@@ -1,0 +1,14 @@
+---
+#Hub message
+hub-message: "&7➡ &bChào mừng &6&l{PLAYER}&r &bđã trở về §5sảnh chính"
+#No hub message
+no-hub: "&7➡ &cChưa sđặt sảnh chính (hub)"
+#Spawn message
+spawn-message: "§7➡&a Đã dịch chuyển đến §bđiểm hồi sinh của &e&l{WORLD}&r"
+#No spawn message
+no-spawn: "&7➡ &cKhông tìm thấy &6điểm hồi sinh &cở thế giới này"
+#Invalid world
+invalid-world: "&7➡&cKhông tìm thấy &6thế giới"
+#Spawn aliases disabled
+aliases-disabled: "&7➡ &cSpawn aliases đã bị &4vô hiệu hóa&c ở thế giới này "
+...

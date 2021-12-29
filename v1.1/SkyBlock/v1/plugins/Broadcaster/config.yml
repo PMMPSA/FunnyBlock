@@ -1,0 +1,31 @@
+---
+prefix: "&aF&6B"
+suffix: "•"
+time: 15
+sendmessage-format: "&b[{PREFIX}] {SUFFIX} &a{SENDER}&e>&f {MESSAGE}"
+datetime-format: "H:i"
+broadcast-enabled: true
+messages:
+ - "&f{SUFFIX}&b Sử dụng lệnh &a/warp&b để biết warp của máy chủ này và&a /warp <tên>&b để warp đến nơi bạn muốn"
+ - "&f{SUFFIX}&b Vote cho máy chủ tại &abit.do/votefbvn &bđể có thưởng và cộng 1 điểm rank"
+ - "&f{SUFFIX}&b Số điểm yêu cầu để lên rank:\n&f{SUFFIX}&6 VIP&aI&f: &d10 điểm\n&f{SUFFIX}&6 VIP&aII&f: &d20 điểm\n&f{SUFFIX}&6 VIP&aIII&f: &d30 điểm"
+ - "&f{SUFFIX}&b Sử dụng lệnh &a/buyfly&b để mua fly (bay), xu để mua là &a$5000"
+ - "&f[&bEvent&f] &dTừ ngày &a15/11/2017&d đến &a19/11/2017&d, vote cho máy chủ bạn sẽ được &6VIP&aI&e 1 ngày"
+ - "&f{SUFFIX}&b Vui lòng đổi mật khẩu thường xuyên để tránh bị hack và tuyệt đối không cho người khác mượn tài khoản"
+ - "&f{SUFFIX}&b Sử dụng lệnh &a/pg&b để khóa hoặc mở khóa rương"
+popup-time: 15
+popup-duration: 5
+sendpopup-format: "&a{SENDER}&e>>&f {MESSAGE}"
+popup-broadcast-enabled: true
+popups:
+ - "&bChào mừng đến &a&lFunny &6Block!"
+ - "&bTổng cộng có &a{TOTALPLAYERS}&7/&c{MAXPLAYERS}&b người chơi trực tuyến"
+ - "&dThời gian hiện tại: &a{TIME}"
+ - "&bVote tại: &abit.do/votefbvn"
+ - "&bSử dụng lệnh &a/hub &bhoặc &a/lobby &bđể trở về sảnh chính"
+ - "&dIP mới:&a funnyblock.ddns.net"
+ - "&bSử dụng lệnh &a/pr&b để xem và cập nhật thông tin tên tuổi của mình :)"
+ - "&bSử dụng lệnh &a/rules &bđể biết luật của máy chủ này"
+ - "&bSử dụng lệnh &a/job&b để làm việc kiếm xu"
+ - "&bSử dụng lệnh &a/rankpoints&b để xem điểm của bạn"
+...

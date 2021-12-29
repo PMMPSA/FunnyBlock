@@ -1,0 +1,23 @@
+---
+Gh:
+  current-vip: 17-11-17,98725243211,Co-Owner
+  holding-vip:
+  - 9,OP
+  - 9999,Police
+  - 9997,Police
+  - 98876,Police
+  - 99999,OP
+  - 99999,Admin
+Ha:
+  current-vip: 17-11-17,6,Helper
+  holding-vip:
+  - 7,Helper
+Kai:
+  current-vip: 17-11-17,7,VIPI
+haru_YT:
+  current-vip: 2017-11-17,1,VIPI
+Killer:
+  current-vip: 2017-11-17,1,VIPI
+KaitoKiss:
+  current-vip: 2017-11-17,1,VIPI
+...

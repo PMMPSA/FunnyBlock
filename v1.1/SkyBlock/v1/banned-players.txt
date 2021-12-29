@@ -1,0 +1,9 @@
+# Updated 11/15/17 18:17 by GenisysPro 1.1dev
+# victim name | ban date | banned by | banned until | reason
+
+bongao|2017-11-15 17:34:30 +0700|Ghast_Noob|Forever|Banned by an operator.
+shen|2017-11-15 18:12:31 +0700|Ghast_Noob|Forever|Banned by an operator.
+zen|2017-11-15 18:12:37 +0700|Ghast_Noob|Forever|Banned by an operator.
+bongaoda|2017-11-15 18:12:44 +0700|Ghast_Noob|Forever|Banned by an operator.
+tml|2017-11-15 18:14:43 +0700|Ghast_Noob|Forever|Banned by an operator.
+dogenoob|2017-11-15 18:14:52 +0700|Ghast_Noob|Forever|Banned by an operator.

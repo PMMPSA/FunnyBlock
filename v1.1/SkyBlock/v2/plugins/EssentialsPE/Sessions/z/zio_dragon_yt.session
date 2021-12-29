@@ -1,0 +1,46 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "shop": [
+            91.5811,
+            69,
+            254.2998,
+            "sb",
+            183,
+            90
+        ],
+        "shop2": [
+            3833.2224,
+            74,
+            1216.7,
+            "sb",
+            258,
+            69
+        ],
+        "3": [
+            26.2242,
+            4,
+            15.1162,
+            "world2",
+            310,
+            7
+        ],
+        "6": [
+            3832.4077,
+            74,
+            1216.3,
+            "sb",
+            191,
+            79
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

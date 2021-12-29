@@ -1,0 +1,86 @@
+Altay Crash Dump Fri Jul 20 10:13:46 WIB 2018
+
+Error: Allowed memory size of 524288000 bytes exhausted (tried to allocate 4096 bytes)
+File: src/pocketmine/level/particle/GenericParticle
+Line: 43
+Type: E_ERROR
+
+Code:
+
+Backtrace:
+
+Altay version: 3.0.6+dev [Protocol 274]
+Git commit: 0000000000000000000000000000000000000000
+uname -a: Windows NT DESKTOP-7BLVAAK 10.0 build 17134 (Windows 10) AMD64
+PHP Version: 7.2.5
+Zend version: 3.2.0
+OS : WINNT, win
+
+Loaded plugins:
+MagicWE2 5.7.2 by XenialDan for API(s) 3.0.0
+BanItem 2.3.3 by LDX for API(s) 3.0.0
+BlockCMD 1.0.0-beta by kenygamer for API(s) 3.0.0-ALPHA10, 3.0.0-ALPHA11
+Broadcaster 1.5 by EvolSoft for API(s) 3.0.0
+CustomAlerts 2.0 by EvolSoft for API(s) 3.0.0
+DevTools 1.13.0 by PocketMine Team for API(s) 3.0.0, 4.0.0
+EconomyAPI 5.7.2 by onebone for API(s) 3.0.0
+EconomyAuction 2.0.2 by onebone for API(s) 2.0.0, 3.0.0, 3.0.0-ALPHA1, 3.0.0-ALPHA2, 3.0.0-ALPHA3, 3.0.0-ALPHA4, 3.0.0-ALPHA5, 3.0.0-ALPHA6, 3.0.0-ALPHA7, 3.0.0-ALPHA8, 3.0.0-ALPHA9, 3.0.0-ALPHA10, 3.0.0-ALPHA11, 3.0.0-ALPHA12, 3.0.0-ALPHA13, 3.0.0-ALPHA14, 3.0.0-ALPHA15
+EconomyCasino 2.0.2 by onebone for API(s) 3.0.0-ALPHA7, 3.0.0-ALPHA8, 3.0.0-ALPHA9, 3.0.0-ALPHA10, 3.0.0-ALPHA11, 3.0.0-ALPHA12, 3.0.0-ALPHA13, 3.0.0-ALPHA14, 3.0.0-ALPHA15
+EconomyJob 2.0.4 by onebone for API(s) 3.0.0-ALPHA7, 3.0.0-ALPHA8, 3.0.0-ALPHA9, 3.0.0-ALPHA10, 3.0.0-ALPHA11, 3.0.0-ALPHA12, 3.0.0-ALPHA13, 3.0.0-ALPHA14, 3.0.0-ALPHA15
+EconomyPShop 2.0.2 by onebone for API(s) 3.0.0-ALPHA7, 3.0.0-ALPHA8, 3.0.0-ALPHA9, 3.0.0-ALPHA10, 3.0.0-ALPHA11, 3.0.0-ALPHA12, 3.0.0-ALPHA13, 3.0.0-ALPHA14, 3.0.0-ALPHA15
+EconomySell 2.0.7 by onebone for API(s) 3.0.0-ALPHA7, 3.0.0-ALPHA8, 3.0.0-ALPHA9, 3.0.0-ALPHA10, 3.0.0-ALPHA11, 3.0.0-ALPHA12, 3.0.0-ALPHA13, 3.0.0-ALPHA14, 3.0.0-ALPHA15
+EconomyShop 2.0.7 by onebone for API(s) 3.0.0-ALPHA7, 3.0.0-ALPHA8, 3.0.0-ALPHA9, 3.0.0-ALPHA10, 3.0.0-ALPHA11, 3.0.0-ALPHA12, 3.0.0-ALPHA13, 3.0.0-ALPHA14, 3.0.0-ALPHA15
+EconomyUsury 1.0.1 by onebone for API(s) 3.0.0-ALPHA7, 3.0.0-ALPHA8, 3.0.0-ALPHA9, 3.0.0-ALPHA10, 3.0.0-ALPHA11, 3.0.0-ALPHA12, 3.0.0-ALPHA13, 3.0.0-ALPHA14, 3.0.0-ALPHA15
+essentialsTP 1.2.1 by  for API(s) 3.0.0
+ItemCloud 1.3.1 by onebone for API(s) 3.0.0
+MSpawns 2.2 by EvolSoft for API(s) 3.0.0
+PurePerms 1.4.2 by 64FF00 & ProjectInfinity for API(s) 3.0.0
+RealTime 1.0.0 by killer549 for API(s) 3.0.0
+SkyWars 1.1.0 by GamakCZ for API(s) 4.0.0
+Slapper 1.4.0 by jojoe77777 for API(s) 3.0.0
+StairSeatDown 1.0.0 by gamesukimanIRS, maru(このプラグインの型の製作者), DusKong(パケット関連サンプルコードを頂きました) for API(s) 3.0.0-ALPHA9
+WorldBackup 1.0 by Jhelom for API(s) 3.0.0-ALPHA12, 3.0.0
+WorldProtect 2.3.7 by aliuly for API(s) 3.0.0
+Worlds 2.0.3 by survanetwork for API(s) 3.0.0
+EconomyAirport 2.0.4 by onebone for API(s) 3.0.0-ALPHA7, 3.0.0-ALPHA8, 3.0.0-ALPHA9, 3.0.0-ALPHA10, 3.0.0-ALPHA11, 3.0.0-ALPHA12, 3.0.0-ALPHA13, 3.0.0-ALPHA14, 3.0.0-ALPHA15
+FactionsProBeta 1.4.6 by Tethered_, HostingItAll.com for API(s) 3.0.0
+GrabBag 2.4.3 by aliuly for API(s) 3.0.0
+PureChat 1.4.11 by 64FF00 for API(s) 3.0.0
+SimpleWarp 4.0.1 by Falkirks for API(s) 3.0.0
+
+----------------------REPORT THE DATA BELOW THIS LINE-----------------------
+
+===BEGIN CRASH DUMP===
+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
+===END CRASH DUMP===

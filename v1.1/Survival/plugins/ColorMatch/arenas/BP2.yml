@@ -1,0 +1,49 @@
+---
+type: stoned
+material: wool
+enabled: "true"
+signs:
+  join_sign_x: 108
+  join_sign_y: 67
+  join_sign_z: 63
+  join_sign_world: spawnhub_doomgary_v3
+  enable_status: "true"
+  status_line_1: '&6&l[&bBP2&6]'
+  status_line_2: '&a%alive&7/&a%max'
+  status_line_3: '&a%alive người chơi'
+  status_line_4: '&fNhấn vào để chơi'
+  sign_update_time: 2
+  return_sign_x: -160
+  return_sign_y: 84
+  return_sign_z: 131
+arena:
+  arena_world: colormatch2
+  join_position_x: -253
+  join_position_y: 5
+  join_position_z: 132
+  lobby_position_x: -164
+  lobby_position_y: 84
+  lobby_position_z: 131
+  first_corner_x: -233
+  first_corner_z: 152
+  second_corner_x: -273
+  second_corner_z: 112
+  floor_y: 4
+  spectator_mode: "true"
+  spec_spawn_x: -253
+  spec_spawn_y: 19
+  spec_spawn_z: 132
+  leave_position_x: 63
+  leave_position_y: 69
+  leave_position_z: 64
+  leave_position_world: spawnhub_doomgary_v3
+  max_game_time: "600"
+  max_players: "10"
+  min_players: "1"
+  starting_time: 30
+  color_wait_time: "7"
+  finish_msg_levels: spawnhub_doomgary_v3
+  time: day
+  item_reward: 0
+  money_reward: 250
+...

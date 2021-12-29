@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/RushToEasy/Water-Wings
+branches:
+- master
+projects:
+  Water-Wings:
+    path: ""
+...

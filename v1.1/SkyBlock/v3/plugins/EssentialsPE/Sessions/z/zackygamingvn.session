@@ -1,0 +1,16 @@
+{
+    "isAFK": false,
+    "isGod": true,
+    "homes": [],
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": {
+        "24": "say Mik",
+        "276": "say đó là chuyện của m"
+    },
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

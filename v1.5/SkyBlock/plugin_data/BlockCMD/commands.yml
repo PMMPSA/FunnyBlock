@@ -1,0 +1,16 @@
+---
+reload: []
+pocketmine:reload: []
+effect:
+- '{player}'
+- speed
+- "50"
+pocketmine.command.teleport: []
+setformat: []
+setgperm: []
+setuperm: []
+unsetgperm: []
+unsetuperm: []
+setgroup: []
+kill: []
+...

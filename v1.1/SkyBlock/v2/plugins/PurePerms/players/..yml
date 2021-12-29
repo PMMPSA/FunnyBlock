@@ -1,0 +1,7 @@
+---
+userName: .
+group: Member
+permissions:
+- '*'
+worlds: []
+...

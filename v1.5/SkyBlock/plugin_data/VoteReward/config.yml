@@ -1,0 +1,30 @@
+# Config file for VoteReward by LDX.
+#
+# Official VoteReward Server List Directory:
+# http://votereward.mcpe.me/?p=lists
+#
+# Config Variables:
+#   {USERNAME} ... The username of the player who voted. ....... Commands and message.
+#   {NICKNAME} ... The display name of the player who voted. ... Commands and message.
+#   {X} .......... The X coordinate of the player. ............. Commands only.
+#   {Y} .......... The Y coordinate of the player. ............. Commands only.
+#   {Y1} ......... The Y coordinate of the player plus 1. ...... Commands only.
+#   {Z} .......... The Z coordinate of the player. ............. Commands only.
+
+# EssentialsPE style color codes can be used in the message and commands.
+
+# Message to broadcast to the server when a player votes.
+Message: "§6[§l§aF§2B§r§6] &b{NICKNAME}&r&a đã vote cho server tại &d&obit.do/votefunnyblock&r&a và nhận được thưởng!"
+
+# List of items to give players when they vote. Format: ID:Damage:Amount
+Items:
+  - "264:0:10"
+  - "265:0:5"
+  - "364:0:5"
+  - "278:0:1"
+
+# List of commands to execute when a player votes.
+Commands:
+  - "particle portal {X} {Y1} {Z} 2 2 2 10000"
+  - "key vote {USERNAME} 1"
+  - "givemoney {USERNAME} 1000"

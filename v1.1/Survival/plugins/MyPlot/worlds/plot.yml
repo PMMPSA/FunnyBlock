@@ -1,0 +1,7 @@
+---
+RestrictEntityMovement: true
+ClaimPrice: 600
+ClearPrice: 600
+DisposePrice: 1000
+ResetPrice: 1050
+...

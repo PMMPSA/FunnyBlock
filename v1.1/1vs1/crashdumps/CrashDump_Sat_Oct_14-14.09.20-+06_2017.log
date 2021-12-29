@@ -1,0 +1,53 @@
+GenisysPro Crash Dump Sat Oct 14 14:09:20 +06 2017
+
+Error: Cannot use pocketmine\nbt\tag\String as String because 'String' is a special class name
+File: /EconomyProperty_v2.0.6.phar/src/onebone/economyproperty/EconomyProperty
+Line: 38
+Type: E_COMPILE_ERROR
+
+THIS CRASH WAS CAUSED BY A PLUGIN
+
+Code:
+[29] use pocketmine\level\Level;
+[30] use pocketmine\level\Position;
+[31] use pocketmine\math\Vector3;
+[32] use pocketmine\block\SignPost;
+[33] use pocketmine\block\Air;
+[34] use pocketmine\tile\Sign;
+[35] use pocketmine\block\Block;
+[36] use pocketmine\item\Item;
+[37] use pocketmine\nbt\tag\Compound;
+[38] use pocketmine\nbt\tag\String;
+[39] use pocketmine\nbt\tag\Int;
+[40] use pocketmine\tile\Tile;
+[41] 
+[42] use onebone\economyapi\EconomyAPI;
+[43] 
+[44] use onebone\economyland\EconomyLand;
+[45] 
+[46] class EconomyProperty extends PluginBase implements Listener{
+[47] 	/**
+[48] 	 * @var \SQLite3
+
+Backtrace:
+#0 (): pocketmine\Server->crashDump(boolean)
+
+GenisysPro version: e09b2049b107b3f36e8ceb48e1b5c42de26e2fac [Protocol 113; API 3.0.1]
+uname -a: Windows NT DESKTOP-U4NNI1B 10.0 build 15063 (Windows 10) AMD64
+PHP version: 7.0.17
+Zend version: 3.0.0
+OS : WINNT, win
+
+Server uptime: 1 seconds
+Number of loaded worlds: 0
+Players online: 0/25
+
+Loaded plugins:
+AntiServerStop 1.1 by paetti for API(s) 1.0.0, 2.0.0, 3.0.0, 3.0.1, 3.1.0, 3.0.0-ALPHA1, 4.0.0, 5.0.0
+ColorMatch 1.1.2 by CreeperFace for API(s) 1.12.0
+CustomAlerts 1.6 by EvolSoft for API(s) 3.0.0-ALPHA5, 3.0.0-ALPHA7
+EconomyAPI 2.0.9 by onebone for API(s) 1.0.0, 1.1.0, 1.2.0, 1.2.1, 1.3.0, 1.3.1, 1.4.0, 1.4.1
+EconomyAuction 2.0.2 by onebone for API(s) 1.0.0, 1.1.0, 1.2.0, 1.2.1, 1.3.0, 1.3.1, 1.4.0, 1.4.1
+EconomyCasino 2.0.2 by onebone for API(s) 1.0.0, 1.1.0, 1.2.0, 1.2.1, 1.3.0, 1.3.1, 1.4.0, 1.4.1
+EconomyJob 2.0.4 by onebone for API(s) 1.0.0, 1.1.0, 1.2.0, 1.2.1, 1.3.0, 1.3.1, 1.4.0, 1.4.1
+EconomyLand 2.0.9 by onebone for API(s) 1.12.0

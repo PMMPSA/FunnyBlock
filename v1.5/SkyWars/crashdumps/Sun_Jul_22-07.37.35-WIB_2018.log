@@ -1,0 +1,87 @@
+Altay Crash Dump Sun Jul 22 07:37:35 WIB 2018
+
+Error: Declaration of FaigerSYS\MapImageEngine\packet\CustomClientboundMapItemDataPacket::handle(pocketmine\network\mcpe\NetworkSession $session): bool must be compatible with pocketmine\network\mcpe\protocol\DataPacket::handle(pocketmine\network\mcpe\handler\SessionHandler $handler): bool
+File: MapImageEngine/src/FaigerSYS/MapImageEngine/packet/CustomClientboundMapItemDataPacket
+Line: 224
+Type: E_COMPILE_ERROR
+
+THIS CRASH WAS CAUSED BY A PLUGIN
+BAD PLUGIN: MapImageEngine v1.1.1
+
+Code:
+
+Backtrace:
+
+Altay version: 3.0.7+dev [Protocol 274]
+Git commit: 0000000000000000000000000000000000000000
+uname -a: Windows NT DESKTOP-7BLVAAK 10.0 build 17134 (Windows 10) AMD64
+PHP Version: 7.2.5
+Zend version: 3.2.0
+OS : WINNT, win
+
+Loaded plugins:
+MagicWE2 5.7.2 by XenialDan for API(s) 3.0.0
+MapImageEngine 1.1.1 by FaigerSYS for API(s) 3.0.0, 4.0.0
+MIE_Converter 1.0.2 by FaigerSYS for API(s) 3.0.0, 4.0.0
+MIE_Protector 1.0.4 by FaigerSYS for API(s) 3.0.0, 4.0.0
+SlapperRotation 1.2.0 by jojoe77777 for API(s) 3.0.0
+BanItem 2.3.3 by LDX for API(s) 3.0.0
+BlockCMD 1.0.0-beta by kenygamer for API(s) 3.0.0-ALPHA10, 3.0.0-ALPHA11
+Broadcaster 1.5 by EvolSoft for API(s) 3.0.0
+CustomAlerts 2.0 by EvolSoft for API(s) 3.0.0
+DevTools 1.13.0 by PocketMine Team for API(s) 3.0.0, 4.0.0
+ItemCloud 1.3.1 by onebone for API(s) 3.0.0
+MSpawns 2.2 by EvolSoft for API(s) 3.0.0
+MyStats 1.4.13 by CzechMPDevs, VixikCZ for API(s) 3.0.0-ALPHA7, 3.0.0-ALPHA8, 3.0.0-ALPHA9, 3.0.0-ALPHA10, 3.0.0-ALPHA11, 3.0.0-ALPHA12, 3.0.0
+PurePerms 1.4.2 by 64FF00 & ProjectInfinity for API(s) 3.0.0
+SizePlayer 1.0.3 by  for API(s) 3.0.0
+SkyWars 1.1.0 by GamakCZ for API(s) 4.0.0
+Slapper 1.4.0 by jojoe77777 for API(s) 3.0.0
+SignServerStats 1.1.1 by robske_110 for API(s) 3.0.0
+StatusList 1.1.1 by robske_110 for API(s) 3.0.0
+TimeStopper 1.0.2 by RevivalPMMP, 95CivicSi, jasonwynn10 for API(s) 3.0.0-ALPHA10, 3.0.0-ALPHA11, 3.0.0-ALPHA12
+TopVoter 3.0.0 by SalmonDE for API(s) 3.0.0
+WorldBackup 1.0 by Jhelom for API(s) 3.0.0-ALPHA12, 3.0.0
+WorldProtect 2.3.7 by aliuly for API(s) 3.0.0
+Worlds 2.0.3 by survanetwork for API(s) 3.0.0
+LinkPlayerCount 1.0.1 by robske_110 for API(s) 3.0.0
+FactionsPro 1.3.11-11 by Tethered_ for API(s) 3.0.0-ALPHA7, 3.0.0-ALPHA8, 3.0.0-ALPHA9, 3.0.0-ALPHA10, 3.0.0-ALPHA11, 3.0.0-ALPHA12
+GrabBag 2.4.3 by aliuly for API(s) 3.0.0
+PureChat 1.4.11 by 64FF00 for API(s) 3.0.0
+SimpleWarp 4.0.1 by Falkirks for API(s) 3.0.0
+
+----------------------REPORT THE DATA BELOW THIS LINE-----------------------
+
+===BEGIN CRASH DUMP===
+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
+===END CRASH DUMP===

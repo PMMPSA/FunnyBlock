@@ -1,0 +1,11 @@
+---
+pvp: false
+no-explode: world
+banitem:
+  46: TNT
+  11: Still Lava
+  9: Still Water
+  8: Water
+  10: Lava
+protect: lock
+...

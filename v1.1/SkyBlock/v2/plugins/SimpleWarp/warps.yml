@@ -1,0 +1,37 @@
+---
+hub:
+  x: -811.240100
+  "y": 6.000000
+  z: 303.464900
+  level: castellum
+  public: true
+  metadata: []
+afk:
+  x: 1042.415500
+  "y": 69.000000
+  z: 1024.766500
+  level: sb
+  public: false
+  metadata: []
+command:
+  x: 59.284200
+  "y": 72.000000
+  z: 1430.550000
+  level: sb
+  public: false
+  metadata: []
+sb:
+  x: 89.870800
+  "y": 69.000000
+  z: 1400.558200
+  level: sb
+  public: false
+  metadata: []
+shop:
+  x: 3842.420200
+  "y": 69.000000
+  z: 1218.107200
+  level: sb
+  public: false
+  metadata: []
+...

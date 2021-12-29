@@ -1,0 +1,20 @@
+{
+    "hub": {
+        "Welcome": {
+            "Xvec": "-67.0",
+            "Yvec": "23.0",
+            "Zvec": "-0.2",
+            "TITLE": "§6§l[§a§lFunny §2Block §7- §eLobby§6]",
+            "TEXT": "§l§6-++-=-++-=-++-=-++-\n§r§6● §bChào mừng đến §a§lFunny §2Block!§6 ●\n§6● §bVote cho server tại: §dbit.do/votefunnyblock§6 ●\n§6● §bFanpage: §dfacebook.com/funnyblockserver§6 ●\n§6● §eChúc bạn chơi vui vẻ!§6 ●\n§l§6-++-=-++-=-++-=-++-",
+            "OWNER": "khoagamingpro"
+        },
+        "TapNPCtojoin": {
+            "Xvec": "-67.0",
+            "Yvec": "21.0",
+            "Zvec": "41.6",
+            "TITLE": "§6§l[§aFunny §2Block §7- §bLobby§6]",
+            "TEXT": "§6• §eNhấn vào §dNPC§e để tham gia §6•",
+            "OWNER": "khoagamingpro"
+        }
+    }
+}

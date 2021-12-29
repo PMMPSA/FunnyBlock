@@ -1,0 +1,127 @@
+---
+# ---------------------------------------------------------------------------- #
+
+# Configuration file for MyStats
+# ScoreboardStats by CzechPMDevs (@VixikCZ)
+
+# ---------------------------------------------------------------------------- #
+
+#
+## ConfigVersion
+#
+
+# DO NOT CHANGE THIS!
+config-version: '1.4.6'
+
+# ---------------------------------------------------------------------------- #
+
+
+#
+## Formatting
+#
+
+
+# %line for new line
+
+# %name -> players name
+# %level -> players level
+# %x -> players x
+# %y -> players y
+# %z -> players z
+
+# %itemid -> players item in hand id
+# %itemname -> players item in hand name
+
+# %broken -> broken blocks
+# %placed -> placed blocks
+# %kills -> kills
+# %deaths -> deaths
+
+# %money -> players money
+# %faction -> players faction
+# %rank -> players rank
+
+# %online -> count online players
+# %version -> server version
+# %ip -> server ip
+# %port -> server port
+# %tps -> server tps
+
+# & -> §
+
+# ---------------------------------------------------------------------------- #
+
+
+# Prefix
+prefix: '&5&l[ &r&aFunny &bBlock &l&5]'
+
+# ---------------------------------------------------------------------------- #
+
+##
+### Economy
+##
+
+# Economy types: EconomyAPI
+# To enable economy type Economy type
+#economy: 'EconomyAPI'
+economy: 'false'
+
+# ---------------------------------------------------------------------------- #
+
+##
+### Factions
+##
+
+# Enable faction
+factions: 'false'
+
+# ---------------------------------------------------------------------------- #
+
+
+##
+### PurePerms
+##
+
+# Enable pureperms
+ranks: 'false'
+
+# ---------------------------------------------------------------------------- #
+
+# Format on screen stats
+mainFormat:
+  - '&5-- == &6[&e%name Stats&6] &5== ---'
+  - '&3Welcome to &aFunny &bBlock!'
+  - '&3You are playing on &b%level'
+  - '&9- &3Kills: %kills'
+  - '&9- &3Deaths: %deaths'
+
+# Format for command /stats (/mystats)
+cmdFormat:
+  - '&5--- == &6[&eStats&6] &5== ---'
+  - '&9- &3Name: &b%name'
+  - '&9- &3K/D: &b%kills / %deaths'
+  - '&9- &3Broken Blocks: &b%broken'
+  - '&9- &3Placed Blocks: &b%placed'
+  - '&9- &3Joins: &b%joins'
+
+# ---------------------------------------------------------------------------- #
+
+##
+### World filter
+##
+
+# The filter can be set to true to send messages to selected worlds only.
+filter: 'true'
+
+# Default format works when is filter set to false
+# 0 -> popup
+# 1 -> tip
+defaultFormat: '1'
+
+# Popups and Tip worlds works only when is filter set to true
+popupWorlds: []
+tipWorlds:
+  - Lobby
+
+# ---------------------------------------------------------------------------- #
+...

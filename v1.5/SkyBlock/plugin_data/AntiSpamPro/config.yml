@@ -1,0 +1,26 @@
+#delay is the minimum time in seconds allowed between chats, including warnings
+#message that will be sent if player is spamming
+#action that will be performed after warnings, "kick" or "ban"
+#kickmessage is displayed when kicked
+#warnings is the number offenses before action is taken
+delay: 2
+message1: "§7➡ §cVui lòng trò chuyện từ từ, không trò chuyện nhanh"
+message2: "§7➡ §eKhoảng 3 giây thì trò chuyện lại"
+action: "kick"
+kickmessage: "Không spam nhé!"
+warnings: 5
+setkickmessage: "§7➡ §cSpam sẽ bị §b§odKICK§r"
+setbanmessage: "§7➡ §cSpam sẽ bị §b§oBAN (không thể vào)"
+setbanipmessage: "§7➡ §cSpam sẽ bị §b§oBAN-IP (không thể vào)"
+setbancidmessage: "§7➡ §cSpam sẽ bị §b§oBAN-CID (không thể vào)"
+banmessage: "§7➡ §cKhông spam!"
+setdelay: "§7➡ §aCấu hình §eAntiSpamPro§a đã được thay đổi."
+invaliddelay: "§7➡ §cVui lòng nhập thời gian §e(1, 2 hoặc 3)"
+help1: "§b/asp kick §6➡§a Đặt hình phạt kick"
+help2: "§b/asp ban §6➡§a Đặt hình phạt ban"
+help3: "§b/asp set 2 §6➡§a Đặt thời gian được trò chuyện lại §d(1,2 hoặc 3)"
+help4: "§b/asp §6➡§a Hiển thị thời gian trò chuyện lại tối thiểu"
+lastwarning: "§cHÃY CẨN THẬN... ĐÂY LÀ LẦN CẢNH BÁO CUỐI CÙNG"
+swearmessage: "§7➡ §cChữ bạn vừa trò chuyện không được chấp nhận!"
+antiswearwords: true
+antirudenames: true

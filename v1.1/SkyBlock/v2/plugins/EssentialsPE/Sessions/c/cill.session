@@ -1,0 +1,22 @@
+{
+    "isAFK": true,
+    "isGod": false,
+    "homes": {
+        "1": [
+            464.4043,
+            69,
+            1397.8506,
+            "sb",
+            83,
+            54
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

@@ -1,0 +1,542 @@
+---
+2:
+  pos:
+    x: 282
+    "y": 12
+    z: 238
+    level: jail
+  c1:
+    x: 280
+    "y": 11
+    z: 239
+    level: jail
+  c2:
+    x: 281
+    "y": 11
+    z: 238
+    level: jail
+  allow-bail: true
+  allow-visit: true
+  mine:
+    isSet: false
+3:
+  pos:
+    x: 280
+    "y": 12
+    z: 244
+    level: jail
+  c1:
+    x: 280
+    "y": 11
+    z: 244
+    level: jail
+  c2:
+    x: 280
+    "y": 11
+    z: 244
+    level: jail
+  allow-bail: true
+  allow-visit: true
+  mine:
+    isSet: false
+4:
+  pos:
+    x: 282
+    "y": 12
+    z: 249
+    level: jail
+  c1:
+    x: 281
+    "y": 11
+    z: 249
+    level: jail
+  c2:
+    x: 281
+    "y": 11
+    z: 249
+    level: jail
+  allow-bail: true
+  allow-visit: true
+  mine:
+    isSet: false
+5:
+  pos:
+    x: 281
+    "y": 12
+    z: 254
+    level: jail
+  c1:
+    x: 281
+    "y": 11
+    z: 254
+    level: jail
+  c2:
+    x: 281
+    "y": 11
+    z: 254
+    level: jail
+  allow-bail: true
+  allow-visit: true
+  mine:
+    isSet: false
+6:
+  pos:
+    x: 281
+    "y": 12
+    z: 261
+    level: jail
+  c1:
+    x: 282
+    "y": 11
+    z: 261
+    level: jail
+  c2:
+    x: 282
+    "y": 11
+    z: 261
+    level: jail
+  allow-bail: true
+  allow-visit: true
+  mine:
+    isSet: false
+7:
+  pos:
+    x: 280
+    "y": 12
+    z: 267
+    level: jail
+  c1:
+    x: 280
+    "y": 11
+    z: 267
+    level: jail
+  c2:
+    x: 280
+    "y": 11
+    z: 267
+    level: jail
+  allow-bail: true
+  allow-visit: true
+  mine:
+    isSet: false
+8:
+  pos:
+    x: 280
+    "y": 12
+    z: 274
+    level: jail
+  c1:
+    x: 280
+    "y": 11
+    z: 274
+    level: jail
+  c2:
+    x: 280
+    "y": 11
+    z: 274
+    level: jail
+  allow-bail: true
+  allow-visit: true
+  mine:
+    isSet: false
+9:
+  pos:
+    x: 281
+    "y": 12
+    z: 280
+    level: jail
+  c1:
+    x: 281
+    "y": 11
+    z: 280
+    level: jail
+  c2:
+    x: 281
+    "y": 11
+    z: 280
+    level: jail
+  allow-bail: true
+  allow-visit: true
+  mine:
+    isSet: false
+10:
+  pos:
+    x: 247
+    "y": 12
+    z: 231
+    level: jail
+  c1:
+    x: 247
+    "y": 11
+    z: 231
+    level: jail
+  c2:
+    x: 247
+    "y": 11
+    z: 231
+    level: jail
+  allow-bail: true
+  allow-visit: true
+  mine:
+    isSet: false
+11:
+  pos:
+    x: 247
+    "y": 12
+    z: 238
+    level: jail
+  c1:
+    x: 247
+    "y": 11
+    z: 238
+    level: jail
+  c2:
+    x: 247
+    "y": 11
+    z: 239
+    level: jail
+  allow-bail: true
+  allow-visit: true
+  mine:
+    isSet: false
+12:
+  pos:
+    x: 248
+    "y": 12
+    z: 244
+    level: jail
+  c1:
+    x: 248
+    "y": 11
+    z: 244
+    level: jail
+  c2:
+    x: 248
+    "y": 11
+    z: 244
+    level: jail
+  allow-bail: true
+  allow-visit: true
+  mine:
+    isSet: false
+14:
+  pos:
+    x: 247
+    "y": 12
+    z: 250
+    level: jail
+  c1:
+    x: 247
+    "y": 11
+    z: 250
+    level: jail
+  c2:
+    x: 247
+    "y": 11
+    z: 250
+    level: jail
+  allow-bail: true
+  allow-visit: true
+  mine:
+    isSet: false
+15:
+  pos:
+    x: 248
+    "y": 12
+    z: 256
+    level: jail
+  c1:
+    x: 248
+    "y": 11
+    z: 256
+    level: jail
+  c2:
+    x: 248
+    "y": 11
+    z: 256
+    level: jail
+  allow-bail: true
+  allow-visit: true
+  mine:
+    isSet: false
+16:
+  pos:
+    x: 247
+    "y": 12
+    z: 262
+    level: jail
+  c1:
+    x: 247
+    "y": 11
+    z: 262
+    level: jail
+  c2:
+    x: 248
+    "y": 11
+    z: 262
+    level: jail
+  allow-bail: true
+  allow-visit: true
+  mine:
+    isSet: false
+17:
+  pos:
+    x: 247
+    "y": 12
+    z: 268
+    level: jail
+  c1:
+    x: 247
+    "y": 11
+    z: 268
+    level: jail
+  c2:
+    x: 247
+    "y": 11
+    z: 268
+    level: jail
+  allow-bail: true
+  allow-visit: true
+  mine:
+    isSet: false
+18:
+  pos:
+    x: 246
+    "y": 12
+    z: 274
+    level: jail
+  c1:
+    x: 246
+    "y": 11
+    z: 274
+    level: jail
+  c2:
+    x: 246
+    "y": 11
+    z: 275
+    level: jail
+  allow-bail: true
+  allow-visit: true
+  mine:
+    isSet: false
+19:
+  pos:
+    x: 248
+    "y": 12
+    z: 280
+    level: jail
+  c1:
+    x: 248
+    "y": 11
+    z: 280
+    level: jail
+  c2:
+    x: 248
+    "y": 11
+    z: 280
+    level: jail
+  allow-bail: true
+  allow-visit: true
+  mine:
+    isSet: false
+20:
+  pos:
+    x: 280
+    "y": 5
+    z: 280
+    level: jail
+  c1:
+    x: 280
+    "y": 4
+    z: 280
+    level: jail
+  c2:
+    x: 280
+    "y": 4
+    z: 280
+    level: jail
+  allow-bail: true
+  allow-visit: true
+  mine:
+    isSet: false
+21:
+  pos:
+    x: 279
+    "y": 5
+    z: 275
+    level: jail
+  c1:
+    x: 279
+    "y": 4
+    z: 275
+    level: jail
+  c2:
+    x: 279
+    "y": 4
+    z: 275
+    level: jail
+  allow-bail: true
+  allow-visit: true
+  mine:
+    isSet: false
+22:
+  pos:
+    x: 281
+    "y": 5
+    z: 269
+    level: jail
+  c1:
+    x: 281
+    "y": 4
+    z: 269
+    level: jail
+  c2:
+    x: 281
+    "y": 4
+    z: 269
+    level: jail
+  allow-bail: true
+  allow-visit: true
+  mine:
+    isSet: false
+23:
+  pos:
+    x: 280
+    "y": 5
+    z: 263
+    level: jail
+  c1:
+    x: 280
+    "y": 4
+    z: 263
+    level: jail
+  c2:
+    x: 280
+    "y": 4
+    z: 263
+    level: jail
+  allow-bail: true
+  allow-visit: true
+  mine:
+    isSet: false
+24:
+  pos:
+    x: 280
+    "y": 5
+    z: 257
+    level: jail
+  c1:
+    x: 281
+    "y": 4
+    z: 257
+    level: jail
+  c2:
+    x: 281
+    "y": 4
+    z: 257
+    level: jail
+  allow-bail: true
+  allow-visit: true
+  mine:
+    isSet: false
+25:
+  pos:
+    x: 279
+    "y": 5
+    z: 251
+    level: jail
+  c1:
+    x: 281
+    "y": 4
+    z: 251
+    level: jail
+  c2:
+    x: 282
+    "y": 4
+    z: 251
+    level: jail
+  allow-bail: true
+  allow-visit: true
+  mine:
+    isSet: false
+26:
+  pos:
+    x: 279
+    "y": 5
+    z: 246
+    level: jail
+  c1:
+    x: 279
+    "y": 4
+    z: 246
+    level: jail
+  c2:
+    x: 279
+    "y": 4
+    z: 246
+    level: jail
+  allow-bail: true
+  allow-visit: true
+  mine:
+    isSet: false
+27:
+  pos:
+    x: 280
+    "y": 5
+    z: 240
+    level: jail
+  c1:
+    x: 280
+    "y": 4
+    z: 239
+    level: jail
+  c2:
+    x: 280
+    "y": 4
+    z: 239
+    level: jail
+  allow-bail: true
+  allow-visit: true
+  mine:
+    isSet: false
+28:
+  pos:
+    x: 281
+    "y": 5
+    z: 231
+    level: jail
+  c1:
+    x: 281
+    "y": 4
+    z: 231
+    level: jail
+  c2:
+    x: 281
+    "y": 4
+    z: 231
+    level: jail
+  allow-bail: true
+  allow-visit: true
+  mine:
+    isSet: false
+1:
+  pos:
+    x: 281
+    "y": 12
+    z: 232
+    level: jail
+  c1:
+    x: 285
+    "y": 11
+    z: 227
+    level: jail
+  c2:
+    x: 278
+    "y": 16
+    z: 235
+    level: jail
+  allow-bail: true
+  allow-visit: true
+  mine:
+    isSet: false
+...

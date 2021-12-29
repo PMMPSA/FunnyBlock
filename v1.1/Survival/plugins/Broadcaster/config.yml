@@ -1,0 +1,28 @@
+---
+prefix: "&aF&6C"
+suffix: "•"
+time: 15
+sendmessage-format: "&b[{PREFIX}] {SUFFIX} &a{SENDER}&e>&f {MESSAGE}"
+datetime-format: "H:i:s"
+broadcast-enabled: true
+messages:
+ - "&f{SUFFIX} &bSử dụng lệnh &a/hub &bhoặc &a/lobby &bđể trở về sảnh chính"
+ - "&f{SUFFIX} &bSử dụng lệnh &a/rules &bđể biết luật của máy chủ này"
+ - "&f{SUFFIX} &bBạn có thể gọi tắt tên máy chủ này là &aF&6C"
+ - "&f{SUFFIX} &bSử dụng lệnh &a/job&b để làm việc kiếm xu"
+ - "&f{SUFFIX}&b Sử dụng lệnh &a/warp&b để biết warp của máy chủ này và&a /warp <tên>&b để warp đến nơi bạn muốn"
+ - "&f{SUFFIX}&b Vote cho máy chủ tại &abit.do/votefc &bđể có thưởng và cộng 1 điểm rank"
+ - "&f{SUFFIX}&b Số điểm yêu cầu để lên rank:\n&f{SUFFIX}&6 VIP: &a20 điểm\n&f{SUFFIX}&b Pro: &a30 điểm"
+ - "&f{SUFFIX}&b Sử dụng lệnh &a/buyfly&b để mua fly (bay), xu để mua là &a$5000"
+ - "&f{SUFFIX}&b Mua plot với giá &a$600!"
+ - "&f{SUFFIX}&b Sử dụng&a /p claim&b để làm chủ plot đó"
+ - "&f{SUFFIX}&b Sử dụng&a /p auto&b để kiếm plot tự động"
+popup-time: 15
+popup-duration: 5
+sendpopup-format: "&a{SENDER}&e>>&f {MESSAGE}"
+popup-broadcast-enabled: false
+popups:
+ - "&aWelcome to your server"
+ - "&d{TOTALPLAYERS} &eof &d{MAXPLAYERS} &eonline"
+ - "&bCurrent Time: &a{TIME}"
+...

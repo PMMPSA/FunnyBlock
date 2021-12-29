@@ -1,0 +1,16 @@
+---
+shop:
+  x: 90.845900
+  "y": 70.000000
+  z: 279.092100
+  level: sb
+  public: true
+  metadata: []
+sb:
+  x: 90.420100
+  "y": 69.000000
+  z: 90.897300
+  level: sb
+  public: false
+  metadata: []
+...

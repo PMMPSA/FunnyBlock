@@ -1,0 +1,80 @@
+---
+Emerald:
+  items:
+  - 'diamond_sword:0:1:DEFAULT:sharpness:2'
+  - 'diamond_pickaxe:0:1:DEFAULT:efficiency:2'
+  - 'golden_apple:0:3'
+  - 'stone:0:16'
+  helmet: 'diamond_helmet:0:1:DEFAULT:protection:2'
+  chestplate: 'diamond_chestplate:0:1:DEFAULT:protection:2'
+  leggings: 'diamond_leggings:0:1:DEFAULT:protection:2'
+  boots: 'diamond_boots:0:1:DEFAULT:protection:2'
+  commands:
+  - 'tell {player} §lBạn đã nhận được kit!'
+  - 'sm {player} §dĐã mua thành công kit §aEmerald!'
+  cooldown:
+    hours: 24
+    minutes: 0
+  money: 400000
+Assassin:
+  items:
+  - 'diamond_sword:0:1:DEFAULT:sharpness:5'
+  - 'golden_apple:0:4'
+  helmet: 'golden_helmet:0:1'
+  chestplate: 'chain_chestplate:0:1'
+  leggings: 'chain_leggings:0:1:DEFAULT:protection:2'
+  boots: 'leather_boots:0:1'
+  commands:
+  - 'tell {player} §b§lBạn đã nhận được kit!'
+  - 'sm {player} §aĐã mua thành công kit §cAssassin!'
+  cooldown:
+    hours: 24
+    minutes: 0
+  money: 340000
+PVP:
+  items:
+  - 'diamond_sword:0:1:DEFAULT:sharpness:5'
+  - 'golden_apple:0:4'
+  helmet: 'diamond_helmet:0:1:DEFAULT:fire_protection:2'
+  chestplate: 'diamond_chestplate:0:1:DEFAULT:unbreaking:2'
+  leggings: 'diamond_leggings:0:1:DEFAULT:protection:2'
+  boots: 'diamond_boots:0:1:DEFAULT:protection:2'
+  commands:
+  - 'tell {player} §b§lBạn đã nhận được kit!'
+  - 'sm {player} §dĐã mua thành công kit §cPVP!'
+  cooldown:
+    hours: 24
+    minutes: 0
+  money: 450000
+God:
+  items:
+  - 'diamond_pickaxe:0:1:DEFAULT:unbreaking:2:efficiency:2'
+  - 'diamond_axe:0:1:DEFAULT:unbreaking:2:efficiency:2'
+  - 'diamond_sword:0:1:DEFAULT:unbreaking:2:sharpness:3:fire_aspect:2'
+  helmet: "diamond_helmet:0:1:DEFAULT:unbreaking:2:protection:3"
+  chestplate: "diamond_chestplate:0:1:DEFAULT:unbreaking:2:protection:3"
+  leggings: "diamond_leggings:0:1DEFAULT:unbreaking:2:protection:3"
+  boots: "diamond_boots:0:1:DEFAULT:unbreaking:2:protection:3"
+  commanda:
+  - 'sm {player} §aBạn đã có được kit §6§lGod§r'
+  cooldown:
+    hours: 24
+    minutes: 0
+  money: 0
+Pro:
+  items:
+  - 'diamond_pickaxe:0:1'
+  - 'diamond_axe:0:1'
+  - 'diamond_sword:0:1'
+  - 'diamond_hoe:0:1'
+  helmet: "diamond_helmet:0:1"
+  chestplate: "diamond_chestplate:0:1"
+  leggings: "diamond_leggings:0:1"
+  boots: "diamond_boots:0:1"
+  commands:
+  - 'sm {player} §aBạn đã có được kit §b§lPro§r'
+  cooldown:
+    hours: 24
+    minutes: 0
+  money: 400000
+...

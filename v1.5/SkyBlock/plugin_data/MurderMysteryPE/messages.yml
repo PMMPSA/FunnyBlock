@@ -1,0 +1,8 @@
+---
+plugin:
+  enabling: "Enabling..."
+  enabled: "Enabled ({:time}s)"
+  disabling: "Disabling..."
+  disabled: "Disabled"
+  games-loaded: "Games loaded: (:count) :games"
+...

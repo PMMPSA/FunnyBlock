@@ -1,0 +1,21 @@
+#Để vô hiệu hoá một trong số này chỉ cần xóa các tin nhắn giữa ' ' , không phải toàn bộ dòng
+#Bạn có thể sử dụng " @ " để làm chữ màu và _EOL_ để xuống dòng
+---
+banned.command.msg: '@b• @cBạn không thể sử dụng lệnh ở đây'
+sign.game.full: '@b• @cGame đã đầy, vui lòng chờ'
+sign.game.running: '@b• @cGame đang hoạt động, vui lòng chờ'
+game.join: '@b• @f{PLAYER} @eđã vào game @b{COUNT}'
+popup.countdown: '@bGame bắt đầu trong @f{N}'
+chat.countdown: '@b• @7Game bắt đầu trong @b{N}'
+game.start: '@b• @aGame đã bắt đầu, chúc may mắn !'
+game.chest.refill: '@b• @aĐã nạp lại tất cả các rương !'
+game.left: '@f• @7{PLAYER} đã rời khỏi game @b{COUNT}'
+death.player: '@c• @f{PLAYER} @cđã bị giết bởi @f{KILLER} @b{COUNT}'
+death.arrow: '@c• @f{PLAYER} @cđã bị giết bởi @f{KILLER}@c bằng cung tên @b{COUNT}'
+death.void: '@c• @f{PLAYER} @cđã rơi xuống @fVOID @b{COUNT}'
+death.lava: '@c• @f{PLAYER} @cđã thử bơi trong @fdung hham @b{COUNT}'
+death.spectator: '@f• @bGiờ bạn là khán giả!_EOL_@f• @bSử dụng @f/sw quit @bđể rời
+  khỏi game'
+server.broadcast.winner: '@0• @f{PLAYER} @bđã giành chiến thắng trong: @f{SWNAME}'
+winner.reward.msg: '@bBạn đã thắng @f{VALUE}$_EOL_@7Tiền của bạn: @f{MONEY}$'
+...

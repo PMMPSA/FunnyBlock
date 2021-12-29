@@ -1,0 +1,14 @@
+dev: false
+version: 4
+identity: NPRM9878NP
+secret: MNNEFKJP5CEE8D69ENB2JR
+lock: false
+vote-expiration: 0
+multi-server:
+    enabled: false
+    role: master
+    mysql: { host: null, port: 0, username: khoagaming123@gmail.com, password: Khoabui03, database: null }
+onvote:
+    run-cmd: {  }
+    online-cmd: ['sm {player} Thanks for voting for us at %site, %player!']
+votes: {  }

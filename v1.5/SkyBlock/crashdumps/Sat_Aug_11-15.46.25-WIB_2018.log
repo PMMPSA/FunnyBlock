@@ -1,0 +1,42 @@
+Altay Crash Dump Sat Aug 11 15:46:25 WIB 2018
+
+Error: Declaration of SalmonDE\SkinChanger\Skin::onCommand(pocketmine\command\CommandSender $sender, pocketmine\command\Command $cmd, $label, array $args) must be compatible with pocketmine\plugin\PluginBase::onCommand(pocketmine\command\CommandSender $sender, pocketmine\command\Command $command, string $label, array $args): bool
+File: SkinChanger-master/src/SalmonDE/SkinChanger/Skin
+Line: 18
+Type: E_COMPILE_ERROR
+
+THIS CRASH WAS CAUSED BY A PLUGIN
+
+Code:
+
+Backtrace:
+
+Altay version: 3.0.7+dev [Protocol 274]
+Git commit: 0000000000000000000000000000000000000000
+uname -a: Windows NT WIN-VCQUKKDO8FH 6.3 build 9600 (Windows Server 2012 R2 Datacenter Edition) AMD64
+PHP Version: 7.2.8
+Zend version: 3.2.0
+OS : WINNT, win
+
+Loaded plugins:
+ClearLaggPE 2.0.0 by VMPE Development Team for API(s) 3.0.0, 4.0.0
+Coins 4.0.1 by fb.com/roremi.cf, MinecrafterJPN for API(s) 3.1.1, 3.0.0, 3.0.0-ALPHA12
+EnchantWings 1.3 by FBTEAM for API(s) 3.0.4
+
+----------------------REPORT THE DATA BELOW THIS LINE-----------------------
+
+===BEGIN CRASH DUMP===
+eNq1VG1P2zAQ/iuWxQfQQvoKLflW2iAYfcnaDj4QhJzESa06dmS7VB3qf985bUc6TWxCWr7Yd+c7
+P89z57xhw3KKvcZFq3XV6TS6Fw6mSkmFvTdsNgWEsP/Sn4yCu6H/4k+nkyl2cE61JpmNDWjMiSKG
+SYFkimaE51IM/DCcLZnoL4jIqNoZnidFX+Y5EclpIeMlNTkTNAzjnS8M98EZFQlV6ESXq4M+OotO
+4jxx0AknEeUOIkqRDTohKtNnKF9pgyKKIKcAfBGnaM3M4qhewVcZE2EYlOs10fQ/odxtHKSNYiL7
+I2APRVJyEDdl3CpbEfA8J9pQVdMqrh0UrlXi5R4yOVwPrexuHbxjhj2jVtTBsUwg8PTsYKNIvN9m
+VFBFuG20IHYGcI8bsoE6r1RpaCh4Wm7d7XxJ6Ct4oxXjCfbqUFxJI2MA6zU7bQeTgh2OwrGMGbDq
+//hBgiJLziKb4zaarvWs9ngemUjkWqPxHD3ejc8f+t++398PJt2bW3TptlAJCF1d1uvo9HB0RhWg
+R816o4mmTTQgBvgKEA/5CbNTeoZ6o8FlG24pFgXc0XGbbhesH9DIksUOAgRfpLYY7sbjOThKYw2S
+/hJXW+X6nBI1JFkW+BUhq96qnFC7rE5WZiEVFHjCD6PARwP6SrksckCK5pTk+Hmv6lMpq01plyv4
+qSAwy4A1JVxDbxNaAHS966mWqRlUHTmxU/AOKAyHksDE2mmBDYSCyWz+OJkOB+Ba00gzYxmMpUF6
+Idd2WpMVRUYiTXmKoM4SMZFKlZeP3rV69OVejQP90q4St+gbx8TTyIVnUYNfDc2ZG6cQHcH8xoqk
+0K6vwfhIhEaZfhCjXM97w+C212h+WpSgfLMjKegGfgHvxt+0WRhL2hcxvD4Dg5dVuR+5qxI03Nax
+ADfXc783+q3V7U+z2V8chiOy+xl8RAFvt9ufRjnpAA==
+===END CRASH DUMP===

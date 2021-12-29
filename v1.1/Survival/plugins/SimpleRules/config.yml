@@ -1,0 +1,20 @@
+---
+##############################
+# xRulesx Created by KhoaGaming123.
+# Your using version 1.0
+# Check for updates regularly!
+##############################
+
+
+#Add rules below, You may leave some blank.
+rule1: "Không sử dụng hack hoặc mod"
+rule2: "Không chửi bậy"
+rule3: "Không đòi op"
+rule4: "Không phá hoại"
+rule5: "Không tự đặt rank, thay đổi rank tùy ý (đối với admin/op)"
+rule6: "Không op lung tung (đối với op)"
+rule7: "Không chơi khăm người chơi (đối với admin/op)"
+rule8: "Không phá máy chủ khác, nói xấu máy chủ khác (đối với guest/admin/op)"
+#Please do not add more rule slots!
+#It may corrupt the config file!
+...

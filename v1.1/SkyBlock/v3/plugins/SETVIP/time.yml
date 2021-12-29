@@ -1,0 +1,48 @@
+---
+Gh:
+  current-vip: 17-12-24,99999999999979,Co-Owner
+  holding-vip:
+  - 9,OP
+  - 9999,Police
+  - 9997,Police
+  - 98876,Police
+  - 99999,OP
+  - 99999,Admin
+  - 98725243192,Co-Owner
+  - 99,Owner
+P:
+  current-vip: 17-12-24,9999961,OP
+  holding-vip:
+  - 9,OP
+  - 99999,Admin
+  - 9,OP
+  - 1,Owner
+  - 999,Admin
+p:
+  current-vip: 17-12-24,99961,OP
+  holding-vip:
+  - 9999999,OP
+  - 999,Owner
+vn:
+  current-vip: 17-12-24,1.0E+31,OP
+Ghast_Noob:
+  current-vip: 17-12-24,63,Admin
+"y":
+  current-vip: 17-12-24,99999999963,OP
+  holding-vip:
+  - 999999999999999999,Member
+  - 999999999,OP
+  - 9,Admin
+  - 999999999,OP
+  - 999999999998,OP
+  - 9999998,OP
+  - 1,Builder
+"Y":
+  current-vip: 17-12-24,999999963,OP
+  holding-vip:
+  - 9,Admin
+  - 999999999999,OP
+  - 9,Helper
+Th:
+  current-vip: 17-12-24,9999999999999964,Member
+...

@@ -1,0 +1,11 @@
+---
+userName: khoagamingpro
+group: Owner
+permissions:
+- essentials.warp.other
+- essentials.warp.sb
+- essentials.warp.use.sb
+- essentials.warp.other
+- essentials
+worlds: []
+...

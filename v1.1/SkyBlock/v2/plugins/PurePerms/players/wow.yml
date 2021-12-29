@@ -1,0 +1,7 @@
+---
+userName: wow
+group: Member
+permissions:
+- '*'
+worlds: []
+...

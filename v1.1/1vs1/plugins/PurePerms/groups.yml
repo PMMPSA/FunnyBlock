@@ -1,0 +1,144 @@
+---
+Guest:
+  alias: gst
+  inheritance: []
+  permissions:
+  - advancedkits.command
+  - essentials.kit
+  - essentials.kit.other
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.me
+  - pocketmine.command.transfer
+  - pocketmine.command.transferserver
+  - pperms.command.ppinfo
+  worlds: []
+  isDefault: true
+Admin:
+  alias: adm
+  inheritance:
+  - Guest
+  permissions:
+  - essentials.gamemode
+  - fly.me
+  - mw.cmd.load
+  - mw.cmd.ls
+  - mw.cmd.tp
+  - mw.cmd.tp.other
+  - mw.cmds
+  - pocketmine.broadcast
+  - pocketmine.command.ban.player
+  - pocketmine.command.effect
+  - pocketmine.command.gamemode
+  - pocketmine.command.give
+  - pocketmine.command.kick
+  - pocketmine.command.kill.self
+  - pocketmine.command.op.give
+  - pocketmine.command.plugins
+  - pocketmine.command.status
+  - pocketmine.command.teleport
+  - pocketmine.command.time
+  - pocketmine.command.title
+  - pocketmine.command.transferserver
+  - pocketmine.command.version
+  - slapper
+  - slapper.command
+  - we.commands.admin
+  worlds: []
+Owner:
+  alias: owr
+  inheritance:
+  - Admin
+  permissions:
+  - '*'
+  - pocketmine.command.op
+  worlds: []
+OP:
+  alias: op
+  inheritance: []
+  permissions:
+  - '*'
+  worlds: []
+YouTuber:
+  alias: yt
+  inheritance: []
+  permissions:
+  - essentials.kit
+  - essentials.kit.other
+  - fly.me
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.gamemode
+  - pocketmine.command.list
+  - pocketmine.command.me
+  - pocketmine.command.plugins
+  - pocketmine.command.status
+  - pocketmine.command.teleport
+  - pocketmine.command.transferserver
+  - pperms.command.ppinfo
+  worlds: []
+VIP:
+  alias: vip
+  inheritance: []
+  permissions:
+  - essentials.kit
+  - essentials.kit.other
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.me
+  - pocketmine.command.transferserver
+  - pperms.command.ppinfo
+  worlds: []
+VIP+:
+  alias: vipplus
+  inheritance: []
+  permissions:
+  - essentials.kit
+  - essentials.kit.other
+  - fly.me
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.me
+  - pocketmine.command.transferserver
+  - pperms.command.ppinfo
+  worlds: []
+Pro:
+  alias: pr
+  inheritance: []
+  permissions:
+  - essentials.kit
+  - essentials.kit.other
+  - fly.me
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.broadcast.user
+  - pocketmine.command.enchant
+  - pocketmine.command.list
+  - pocketmine.command.me
+  - pocketmine.command.plugins
+  - pocketmine.command.status
+  - pocketmine.command.transferserver
+  - pperms.command.ppinfo
+  worlds: []
+Police:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - essentials.fly
+  - pocketmine.command.fly
+  - pocketmine.command.kick
+  - pocketmine.command.mute
+  worlds: []
+Helper:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - essentials.tp.me
+  - pocketmine.command.tp
+  worlds: []
+...

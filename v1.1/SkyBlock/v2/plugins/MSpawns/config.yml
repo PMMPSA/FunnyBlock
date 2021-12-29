@@ -1,0 +1,19 @@
+---
+show-prefix: false
+show-messages-onjoin: true
+force-hub: false
+enable-hub-message: true
+hub-message: §f• §eTrở về sảnh chính...
+force-spawn: false
+enable-spawn-message: false
+spawn-message: Teleported To {WORLD} Spawn
+enable-aliases: true
+teleport-on-death: 1
+hub:
+  world: sb
+  X: 1047.488500
+  "Y": 58.235200
+  Z: 1019.609900
+  Yaw: 86
+  Pitch: 77
+...

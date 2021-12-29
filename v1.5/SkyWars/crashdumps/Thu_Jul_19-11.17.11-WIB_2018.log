@@ -1,0 +1,50 @@
+Altay Crash Dump Thu Jul 19 11:17:11 WIB 2018
+
+Error: Declaration of rang\rang\rang::onCommand(pocketmine\command\CommandSender $player, pocketmine\command\Command $cmd, $label, array $args) must be compatible with pocketmine\plugin\PluginBase::onCommand(pocketmine\command\CommandSender $sender, pocketmine\command\Command $command, string $label, array $args): bool
+File: RangReload.phar/src/rang/rang/rang
+Line: 20
+Type: E_COMPILE_ERROR
+
+THIS CRASH WAS CAUSED BY A PLUGIN
+
+Code:
+
+Backtrace:
+
+Altay version: 3.0.6+dev [Protocol 274]
+Git commit: 0000000000000000000000000000000000000000
+uname -a: Windows NT DESKTOP-7BLVAAK 10.0 build 17134 (Windows 10) AMD64
+PHP Version: 7.2.5
+Zend version: 3.2.0
+OS : WINNT, win
+
+Loaded plugins:
+MagicWE2 5.7.2 by XenialDan for API(s) 3.0.0
+Murder 0.9 by TheNewHEROBRINE for API(s) 3.0.0-ALPHA11
+WorldLoadAll 1.0.0 by Nid for API(s) 1.0.0, 2.0.0, 3.0.0-ALPHA5, 3.0.0-ALPHA7
+BlockCMD 1.0.0-beta by kenygamer for API(s) 3.0.0-ALPHA10, 3.0.0-ALPHA11
+Broadcaster 1.5 by EvolSoft for API(s) 3.0.0
+CustomAlerts 2.0 by EvolSoft for API(s) 3.0.0
+MSpawns 2.2 by EvolSoft for API(s) 3.0.0
+PurePerms 1.4.2 by 64FF00 & ProjectInfinity for API(s) 3.0.0
+
+----------------------REPORT THE DATA BELOW THIS LINE-----------------------
+
+===BEGIN CRASH DUMP===
+eNq1lm1v2zYQx78KQQRFiymy5Id41TsldtGgfoLtLgOiIqAl2uZCkQJJR/WKfPcd5YdQ7tZ0WeYX
+lng83v1/d5Sob9iwnOIo7LTC993Wr63Qw1QpqXD0DZttAVO4f3c1Hk6uB/27/nQ6nmIP51RrsrJz
+PZpyoohhUiC5RIqIVZI8/UeRFFcyz4nI3hYyvacmZ4ImSbqzJcl+ckZFRhU6KzjZUuWhH/miszTP
+PHTGyYJyDxGlyBadEbXS71C+0QYtKII1BYhacIpKZta1eAXfrJhIkkl1vSSa/luVuro+q3J34yFt
+FBOrvxUcoYWUHCq6ZNyWcwo1m1IuSeYXa6IaWqUNW8enP/DlkBBHzeDRwzsWHBm1oR5OZQYTt188
+bBRJ97crKqgi3PZTENtqHHNDthDngSoNfQNLyw/8i18y+gDWxYbxDEcBBFfSyBTkRc1u28OkYAdX
+cFsxA6PgJ3+wQJF7zhZ2jR82fWvZ7PXcMJHJUqPRHPX6s0/z8eS8ezn4LY4/oTDwA1QpQmE3bLXR
+24NzGLxD8bB30YZAxbqAMF2/6Xdg9Cd0pxK6ywKTd1LbNNej0RwM1aCEqh3rp21xhmTF0pt+0ynU
+0eTWquNDIrCQjVlLBUtv8e9UMMJ7ROAv+zLdVnUK7JgKAtsQFC0J19CkjBYgUO+ao+XS9FxDTmw7
+8dcqYkZgmx5EJMkAtgVVdgPADTjN5vF0/nkChpIuNDNWsoUabpT1czh2Bpci8N/XGeZrOqLlx/50
+fDm9HvVPSc7jweRjHIYvJjqJD1yVqMN1aL2OZJPxbH4zng5637HdSMUzW4iYu1u6ZnY5w6oNNdIR
+yxy6g0Nzf3VoO/Vh98XsgsF7If9JwksOb5WrYc+hO5q+IztfUEPqePdUbFewTv1DC08g/0NLD7KS
+xBH4PJ8Cj5RoU9uirrVO2anj9R8kn4GgV3vUnMwAUpPxg+dsbUyho0ajLEufgiQb3Tf3FvAKziCZ
+x5wqox3CmtlFbJ5u0FdHdFPDAVUX8jLI4awgpXD5DpY6WvN/RttnhdfIMf3LgCYbRSdU5S7Sk62+
+JdunWBftDx+CAL1BEyX/oKm5FksmmNm+GubdLgN8tBwkObfPPXUHajiy15uFD98ljWrt7uxrPMV5
+fHz8C7f3NA8=
+===END CRASH DUMP===

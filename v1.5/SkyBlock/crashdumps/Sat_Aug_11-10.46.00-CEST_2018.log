@@ -1,0 +1,42 @@
+Altay Crash Dump Sat Aug 11 10:46:00 CEST 2018
+
+Error: Declaration of SalmonDE\SkinChanger\Skin::onCommand(pocketmine\command\CommandSender $sender, pocketmine\command\Command $cmd, $label, array $args) must be compatible with pocketmine\plugin\PluginBase::onCommand(pocketmine\command\CommandSender $sender, pocketmine\command\Command $command, string $label, array $args): bool
+File: SkinChanger-master/src/SalmonDE/SkinChanger/Skin
+Line: 18
+Type: E_COMPILE_ERROR
+
+THIS CRASH WAS CAUSED BY A PLUGIN
+
+Code:
+
+Backtrace:
+
+Altay version: 3.0.7+dev [Protocol 274]
+Git commit: 0000000000000000000000000000000000000000
+uname -a: Windows NT WIN-VCQUKKDO8FH 6.3 build 9600 (Windows Server 2012 R2 Datacenter Edition) AMD64
+PHP Version: 7.2.8
+Zend version: 3.2.0
+OS : WINNT, win
+
+Loaded plugins:
+ClearLaggPE 2.0.0 by VMPE Development Team for API(s) 3.0.0, 4.0.0
+Coins 4.0.1 by fb.com/roremi.cf, MinecrafterJPN for API(s) 3.1.1, 3.0.0, 3.0.0-ALPHA12
+EnchantWings 1.3 by FBTEAM for API(s) 3.0.4
+
+----------------------REPORT THE DATA BELOW THIS LINE-----------------------
+
+===BEGIN CRASH DUMP===
+eNq1VG1v2jAQ/iuWxYdWS8ProM03CqnajZcMWPuhqSoncYKFY0e2KWIV/33nAGuYpm6qtHyx7853
+fp7nznnFhuUUe83P7fZVr9fsNhxMlZIKe6/YbAsIYf95MB0HdyP/2Z/NpjPs4JxqTTIbG9KYE0UM
+kwLJFM0Jz6UY+mE4XzExWBKRUbU3PE+KgcxzIpKzQsYranImaBjGe18YHoJzKhKqUE2Xq4PeO4tq
+cZ44qMZJRLmDiFJki2pEZfoc5WttUEQR5BSAL+IUbZhZntQr+DpjIgyDcr0mmv4nlPuNg7RRTGR/
+BOyhSEoO4qaMW2UrAl7kRBuq6lrF9aPC9Uq83EMmh+uhlZc7B++ZYc+oNXVwLBMIPD452CgSH7YZ
+FVQRbhstiJ0B3OeGbKHOC1UaGgqetttwe58S+gLeaM14gj0YkEJJI2MA67V6HQeTgh2PwrGMGbAa
+//hBgiIrziKb4zZbrvWsD3gemEjkRqPJAj3cTS7uB9++f/06nF7e3KKu20YlIHTVbTTQ2fHonCpA
+j1qNZgvNWmhIDPAVIB7yE2an9Bz1x8NuB24plgXc0XNb7iVYP6CRJYs9BAg+S20x3E0mC3CUxgYk
+/SWutsoNOCVqRLIs8CtCVr1VOaF2WZ2szVIqKPCI78eBj4b0hXJZ5IAULSjJ8dNB1cdSVpvSKVfw
+U0FglgFrSriG3ia0AOh631MtUzOsOnJip+ANUBiOJIGJtdMCGwgF0/niYTobDcG1oZFmxjKYSIP0
+Um7stCZrioxEmvIUQZ0VYiKVKi8fvWv1GMiDGkf6pV0lbtE3T4mnkQvPog6/GpozN04hOob5jRVJ
+oV1fgsmJCM0y/ShGuV70R8Ftv9n6sChB+WbHUtAt/ALejL9pszSWtC9ieH0GBi+rcj9xVyVouu1T
+AW6uF35//FurOx9mc7g4DMdk/zN4jwLe7XY/ARzR6Pk=
+===END CRASH DUMP===

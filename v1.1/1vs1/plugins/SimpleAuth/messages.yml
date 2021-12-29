@@ -1,0 +1,29 @@
+# SimpleAuth 1.8 language file
+# Lệnh đăng nhập khác: /dn, /dangnhap
+# Lệnh đăng ký khác: /dk, /dangky
+
+join:
+ message1: "§f• §bChào mừng đến §aFun §6Craft!"
+ message2: "§f• §eBạn phải đăng ký/đăng nhập trước khi chơi"
+ register: "§f• §bNhập mật khẩu bằng thanh trò chuyện để đăng ký:"
+ login: "§f•§b Nhập mật khẩu bằng thanh trò chuyện để đăng nhập:"
+ popup: "Bạn chưa đăng nhập"
+
+register:
+ usage: "/register <mật khẩu>"
+ description: "Tạo một tài khoản"
+ permission: "§f•§c Bạn không có quyền sử dụng lệnh đăng ký /register!"
+ error:
+  password: "§f•§c Mật khẩu của bạn quá ngắn!"
+  registered: "§f•§e Tài khoản này đã được đăng ký."
+  general: "§f•§c Lỗi khi đăng nhập."
+
+login:
+ usage: "/login <mật khẩu>"
+ description: "Đăng nhập vào tài khoản"
+ permission: "§f•§c Bạn không có quyền sử dụng lệnh đăng nhập /login!"
+ success: "§a✔ Đăng nhập thành công."
+ error:
+  password: "§c✖ Mật khẩu không chính xác!"
+  registered: "§f•§c Tài khoản này chưa được đăng ký."
+  block: "§f•§c Bạn đã quá cố gắng!"

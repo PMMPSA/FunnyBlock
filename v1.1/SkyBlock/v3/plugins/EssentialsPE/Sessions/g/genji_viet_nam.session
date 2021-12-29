@@ -1,0 +1,70 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "n": [
+            651,
+            69,
+            275,
+            "sb",
+            8,
+            0
+        ],
+        "k": [
+            3790.4973,
+            70,
+            1275.0438,
+            "sb",
+            133,
+            45
+        ],
+        "fa": [
+            -91.4362,
+            70.875,
+            -669.0629,
+            "sb",
+            31,
+            33
+        ],
+        "pvp": [
+            357.8944,
+            13.503,
+            -77.1049,
+            "world2",
+            157,
+            53
+        ],
+        "ww": [
+            1024.6523,
+            69,
+            -282.7956,
+            "sb",
+            238,
+            34
+        ],
+        "shop": [
+            96.3503,
+            80,
+            260.7005,
+            "sb",
+            159,
+            72
+        ],
+        "shopmoi": [
+            3830.7,
+            69,
+            1215.0968,
+            "sb",
+            191,
+            22
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

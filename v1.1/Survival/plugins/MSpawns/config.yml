@@ -1,0 +1,19 @@
+---
+show-prefix: false
+show-messages-onjoin: true
+force-hub: false
+enable-hub-message: true
+hub-message: §f• §eTrở về sảnh chính...
+force-spawn: false
+enable-spawn-message: false
+spawn-message: Teleported To {WORLD} Spawn
+enable-aliases: true
+teleport-on-death: 1
+hub:
+  world: spawnhub_doomgary_v3
+  X: 63.362400
+  "Y": 69.000000
+  Z: 64.351600
+  Yaw: 176
+  Pitch: 3
+...

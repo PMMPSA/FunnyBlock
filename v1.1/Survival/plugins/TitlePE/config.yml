@@ -1,0 +1,28 @@
+#Welcome to TitlePE!
+#Send and Broadcast Titles!
+
+#Messages:
+#Set the Plugins Messages!
+
+#I'm german so don't roast me xD
+
+P-NOTONLINE: "This Player is'nt online! (/titlehelp)"
+S-SENT: "Your Title has been sent!"
+S-USAGE: "Usage: /stitle <Player> <Title> <Subtitles...>"
+B-SENT: "Your Title has been broadcasted!"
+B-USAGE: "Usage: /btitle <Title> <Subtitles...>"
+
+#Translate Words
+HELP: "Help"
+PLAYER: "Player"
+TITLE: "Title"
+SUBTITLES: "Subtitles"
+
+#Modify the Help commands Messages
+INFO-HELP: "Shows Plugins Info"
+HELP-HELP: "Shows Plugins Help"
+S-HELP: "Sends a Title to the specific Player"
+B-Help: "Broadcasts a Title to all Players"
+
+#This is a Plugin by LordHippo!
+#Please read the LICENSE on my Website (pocketclub.net)!

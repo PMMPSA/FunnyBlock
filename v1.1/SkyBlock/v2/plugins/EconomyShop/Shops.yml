@@ -1,0 +1,1282 @@
+---
+70:69:288:sb:
+  x: 70
+  "y": 69
+  z: 288
+  level: sb
+  price: 80
+  item: 350
+  itemName: Cooked Fish
+  meta: 0
+  amount: 5
+71:69:288:sb:
+  x: 71
+  "y": 69
+  z: 288
+  level: sb
+  price: 80
+  item: 393
+  itemName: Baked Potato
+  meta: 0
+  amount: 5
+73:69:288:sb:
+  x: 73
+  "y": 69
+  z: 288
+  level: sb
+  price: 80
+  item: 360
+  itemName: Melon
+  meta: 0
+  amount: 5
+72:69:288:sb:
+  x: 72
+  "y": 69
+  z: 288
+  level: sb
+  price: 80
+  item: 357
+  itemName: Cookie
+  meta: 0
+  amount: 5
+74:69:294:sb:
+  x: 74
+  "y": 69
+  z: 294
+  level: sb
+  price: 100
+  item: 366
+  itemName: Cooked Chicken
+  meta: 0
+  amount: 5
+81:74:260:sb:
+  x: 81
+  "y": 74
+  z: 260
+  level: sb
+  price: 1000
+  item: 159
+  itemName: White Stained Clay
+  meta: 0
+  amount: 64
+89:74:260:sb:
+  x: 89
+  "y": 74
+  z: 260
+  level: sb
+  price: 1000
+  item: 159
+  itemName: Red Stained Clay
+  meta: 14
+  amount: 64
+91:74:260:sb:
+  x: 91
+  "y": 74
+  z: 260
+  level: sb
+  price: 1000
+  item: 159
+  itemName: Brown Stained Clay
+  meta: 12
+  amount: 64
+93:74:260:sb:
+  x: 93
+  "y": 74
+  z: 260
+  level: sb
+  price: 1000
+  item: 159
+  itemName: Orange Stained Clay
+  meta: 1
+  amount: 64
+95:74:260:sb:
+  x: 95
+  "y": 74
+  z: 260
+  level: sb
+  price: 1000
+  item: 159
+  itemName: Yellow Stained Clay
+  meta: 4
+  amount: 64
+97:74:260:sb:
+  x: 97
+  "y": 74
+  z: 260
+  level: sb
+  price: 1000
+  item: 159
+  itemName: Lime Stained Clay
+  meta: 5
+  amount: 64
+120:69:285:sb:
+  x: 120
+  "y": 69
+  z: 285
+  level: sb
+  price: 1000
+  item: 276
+  itemName: Diamond Sword
+  meta: 0
+  amount: 1
+123:69:285:sb:
+  x: 123
+  "y": 69
+  z: 285
+  level: sb
+  price: 1000
+  item: 279
+  itemName: Diamond Axe
+  meta: 0
+  amount: 1
+126:69:285:sb:
+  x: 126
+  "y": 69
+  z: 285
+  level: sb
+  price: 1000
+  item: 278
+  itemName: Diamond Pickaxe
+  meta: 0
+  amount: 1
+129:69:285:sb:
+  x: 129
+  "y": 69
+  z: 285
+  level: sb
+  price: 1000
+  item: 277
+  itemName: Diamond Shovel
+  meta: 0
+  amount: 1
+129:69:272:sb:
+  x: 129
+  "y": 69
+  z: 272
+  level: sb
+  price: 1000
+  item: 310
+  itemName: Diamond Helmet
+  meta: 0
+  amount: 1
+129:69:276:sb:
+  x: 129
+  "y": 69
+  z: 276
+  level: sb
+  price: 1000
+  item: 312
+  itemName: Diamond Leggings
+  meta: 0
+  amount: 1
+123:69:272:sb:
+  x: 123
+  "y": 69
+  z: 272
+  level: sb
+  price: 200
+  item: 262
+  itemName: Arrow
+  meta: 0
+  amount: 20
+128:75:285:sb:
+  x: 128
+  "y": 75
+  z: 285
+  level: sb
+  price: 1000
+  item: 387
+  itemName: Unknown
+  meta: 0
+  amount: 1
+126:75:285:sb:
+  x: 126
+  "y": 75
+  z: 285
+  level: sb
+  price: 1000
+  item: 397
+  itemName: Skull
+  meta: 1
+  amount: 1
+124:75:285:sb:
+  x: 124
+  "y": 75
+  z: 285
+  level: sb
+  price: 1000
+  item: 397
+  itemName: Skull
+  meta: 3
+  amount: 1
+124:75:269:sb:
+  x: 124
+  "y": 75
+  z: 269
+  level: sb
+  price: 500
+  item: 338
+  itemName: Sugar Cane
+  meta: 0
+  amount: 3
+129:75:280:sb:
+  x: 129
+  "y": 75
+  z: 280
+  level: sb
+  price: 5000
+  item: 52
+  itemName: Monster Spawner
+  meta: 0
+  amount: 1
+129:75:282:sb:
+  x: 129
+  "y": 75
+  z: 282
+  level: sb
+  price: 2500
+  item: 383
+  itemName: Spawn Egg
+  meta: 12
+  amount: 1
+129:75:278:sb:
+  x: 129
+  "y": 75
+  z: 278
+  level: sb
+  price: 5000
+  item: 130
+  itemName: Ender Chest
+  meta: 0
+  amount: 1
+129:75:274:sb:
+  x: 129
+  "y": 75
+  z: 274
+  level: sb
+  price: 600
+  item: 362
+  itemName: Melon Seeds
+  meta: 0
+  amount: 5
+129:75:272:sb:
+  x: 129
+  "y": 75
+  z: 272
+  level: sb
+  price: 600
+  item: 361
+  itemName: Pumpkin Seeds
+  meta: 0
+  amount: 10
+129:75:270:sb:
+  x: 129
+  "y": 75
+  z: 270
+  level: sb
+  price: 400
+  item: 295
+  itemName: Wheat Seeds
+  meta: 0
+  amount: 10
+89:69:260:sb:
+  x: 89
+  "y": 69
+  z: 260
+  level: sb
+  price: 1500
+  item: 88
+  itemName: Soul Sand
+  meta: 0
+  amount: 32
+81:69:260:sb:
+  x: 81
+  "y": 69
+  z: 260
+  level: sb
+  price: 700
+  item: 17
+  itemName: Jungle Wood
+  meta: 3
+  amount: 15
+83:69:260:sb:
+  x: 83
+  "y": 69
+  z: 260
+  level: sb
+  price: 300
+  item: 17
+  itemName: Oak Wood
+  meta: 0
+  amount: 32
+85:69:260:sb:
+  x: 85
+  "y": 69
+  z: 260
+  level: sb
+  price: 300
+  item: 17
+  itemName: Birch Wood
+  meta: 2
+  amount: 32
+80:74:258:sb:
+  x: 80
+  "y": 74
+  z: 258
+  level: sb
+  price: 657
+  item: 259
+  itemName: Flint and Steel
+  meta: 0
+  amount: 1
+82:74:254:sb:
+  x: 82
+  "y": 74
+  z: 254
+  level: sb
+  price: 3500
+  item: 379
+  itemName: Brewing Stand
+  meta: 0
+  amount: 1
+88:74:254:sb:
+  x: 88
+  "y": 74
+  z: 254
+  level: sb
+  price: 5000
+  item: 208
+  itemName: End Rod
+  meta: 0
+  amount: 32
+90:74:254:sb:
+  x: 90
+  "y": 74
+  z: 254
+  level: sb
+  price: 1000
+  item: 47
+  itemName: Bookshelf
+  meta: 0
+  amount: 10
+86:74:254:sb:
+  x: 86
+  "y": 74
+  z: 254
+  level: sb
+  price: 1000
+  item: 111
+  itemName: Lily Pad
+  meta: 0
+  amount: 32
+84:74:254:sb:
+  x: 84
+  "y": 74
+  z: 254
+  level: sb
+  price: 2000
+  item: 380
+  itemName: Cauldron
+  meta: 0
+  amount: 1
+122:75:275:sb:
+  x: 122
+  "y": 75
+  z: 275
+  level: sb
+  price: 1000
+  item: 392
+  itemName: Potato
+  meta: 0
+  amount: 20
+79:69:254:sb:
+  x: 79
+  "y": 69
+  z: 254
+  level: sb
+  price: 15000
+  item: 264
+  itemName: Diamond
+  meta: 0
+  amount: 15
+90:69:272:sb:
+  x: 90
+  "y": 69
+  z: 272
+  level: sb
+  price: 100
+  item: 8
+  itemName: Water
+  meta: 0
+  amount: 1
+95:69:291:sb:
+  x: 95
+  "y": 69
+  z: 291
+  level: sb
+  price: 3000
+  item: 35
+  itemName: Magenta Wool
+  meta: 2
+  amount: 64
+90:71:278:sb:
+  x: 90
+  "y": 71
+  z: 278
+  level: sb
+  price: 100
+  item: 10
+  itemName: Lava
+  meta: 0
+  amount: 1
+91:71:278:sb:
+  x: 91
+  "y": 71
+  z: 278
+  level: sb
+  price: 100
+  item: 8
+  itemName: Water
+  meta: 0
+  amount: 1
+90:71:279:sb:
+  x: 90
+  "y": 71
+  z: 279
+  level: sb
+  price: 0
+  item: 260
+  itemName: Apple
+  meta: 0
+  amount: 5
+73:4:35:world2:
+  x: 73
+  "y": 4
+  z: 35
+  level: world2
+  price: 7000
+  item: 264
+  itemName: Diamond
+  meta: 0
+  amount: 10
+73:4:36:world2:
+  x: 73
+  "y": 4
+  z: 36
+  level: world2
+  price: 100
+  item: 4
+  itemName: Cobblestone
+  meta: 0
+  amount: 10
+74:4:34:world2:
+  x: 74
+  "y": 4
+  z: 34
+  level: world2
+  price: 2000
+  item: 263
+  itemName: Coal
+  meta: 0
+  amount: 10
+75:4:34:world2:
+  x: 75
+  "y": 4
+  z: 34
+  level: world2
+  price: 6000
+  item: 265
+  itemName: Iron Ingot
+  meta: 0
+  amount: 10
+81:4:34:world2:
+  x: 81
+  "y": 4
+  z: 34
+  level: world2
+  price: 6500
+  item: 388
+  itemName: Emerald
+  meta: 0
+  amount: 10
+82:4:34:world2:
+  x: 82
+  "y": 4
+  z: 34
+  level: world2
+  price: 3500
+  item: 351
+  itemName: Lapis Lazuli
+  meta: 4
+  amount: 10
+83:4:35:world2:
+  x: 83
+  "y": 4
+  z: 35
+  level: world2
+  price: 3500
+  item: 331
+  itemName: Redstone
+  meta: 0
+  amount: 10
+83:4:36:world2:
+  x: 83
+  "y": 4
+  z: 36
+  level: world2
+  price: 2500
+  item: 266
+  itemName: Gold Ingot
+  meta: 0
+  amount: 10
+83:4:42:world2:
+  x: 83
+  "y": 4
+  z: 42
+  level: world2
+  price: 300
+  item: 8
+  itemName: Water
+  meta: 0
+  amount: 1
+83:4:43:world2:
+  x: 83
+  "y": 4
+  z: 43
+  level: world2
+  price: 300
+  item: 10
+  itemName: Lava
+  meta: 0
+  amount: 1
+82:4:44:world2:
+  x: 82
+  "y": 4
+  z: 44
+  level: world2
+  price: 5000
+  item: 17
+  itemName: Oak Wood
+  meta: 0
+  amount: 15
+81:4:44:world2:
+  x: 81
+  "y": 4
+  z: 44
+  level: world2
+  price: 7500
+  item: 2
+  itemName: Grass
+  meta: 0
+  amount: 15
+75:4:44:world2:
+  x: 75
+  "y": 4
+  z: 44
+  level: world2
+  price: 4500
+  item: 12
+  itemName: Sand
+  meta: 0
+  amount: 10
+74:4:44:world2:
+  x: 74
+  "y": 4
+  z: 44
+  level: world2
+  price: 8500
+  item: 44
+  itemName: Stone Slab
+  meta: 0
+  amount: 30
+73:4:43:world2:
+  x: 73
+  "y": 4
+  z: 43
+  level: world2
+  price: 250
+  item: 6
+  itemName: Oak Sapling
+  meta: 0
+  amount: 5
+73:4:42:world2:
+  x: 73
+  "y": 4
+  z: 42
+  level: world2
+  price: 300
+  item: 351
+  itemName: Bone Meal
+  meta: 15
+  amount: 10
+3824:70:1237:sb:
+  x: 3824
+  "y": 70
+  z: 1237
+  level: sb
+  price: 2550
+  item: 22
+  itemName: Lapis Lazuli Block
+  meta: 0
+  amount: 10
+3823:70:1237:sb:
+  x: 3823
+  "y": 70
+  z: 1237
+  level: sb
+  price: 2550
+  item: 152
+  itemName: Block of Redstone
+  meta: 0
+  amount: 10
+3822:70:1237:sb:
+  x: 3822
+  "y": 70
+  z: 1237
+  level: sb
+  price: 2650
+  item: 42
+  itemName: Iron Block
+  meta: 0
+  amount: 10
+3821:70:1237:sb:
+  x: 3821
+  "y": 70
+  z: 1237
+  level: sb
+  price: 3000
+  item: 57
+  itemName: Diamond Block
+  meta: 0
+  amount: 10
+3820:70:1237:sb:
+  x: 3820
+  "y": 70
+  z: 1237
+  level: sb
+  price: 2700
+  item: 133
+  itemName: Emerald Block
+  meta: 0
+  amount: 10
+3826:70:1234:sb:
+  x: 3826
+  "y": 70
+  z: 1234
+  level: sb
+  price: 3000
+  item: 17
+  itemName: Oak Wood
+  meta: 0
+  amount: 15
+3825:70:1234:sb:
+  x: 3825
+  "y": 70
+  z: 1234
+  level: sb
+  price: 3000
+  item: 17
+  itemName: Spruce Wood
+  meta: 1
+  amount: 15
+3824:70:1234:sb:
+  x: 3824
+  "y": 70
+  z: 1234
+  level: sb
+  price: 3000
+  item: 17
+  itemName: Birch Wood
+  meta: 2
+  amount: 15
+3823:70:1234:sb:
+  x: 3823
+  "y": 70
+  z: 1234
+  level: sb
+  price: 3000
+  item: 17
+  itemName: Jungle Wood
+  meta: 3
+  amount: 15
+3822:70:1234:sb:
+  x: 3822
+  "y": 70
+  z: 1234
+  level: sb
+  price: 3000
+  item: 162
+  itemName: Acacia Wood
+  meta: 0
+  amount: 15
+3821:70:1234:sb:
+  x: 3821
+  "y": 70
+  z: 1234
+  level: sb
+  price: 3000
+  item: 162
+  itemName: Dark Oak Wood
+  meta: 1
+  amount: 15
+3826:70:1232:sb:
+  x: 3826
+  "y": 70
+  z: 1232
+  level: sb
+  price: 70
+  item: 6
+  itemName: Oak Sapling
+  meta: 0
+  amount: 3
+3825:70:1232:sb:
+  x: 3825
+  "y": 70
+  z: 1232
+  level: sb
+  price: 70
+  item: 6
+  itemName: Spruce Sapling
+  meta: 1
+  amount: 3
+3824:70:1232:sb:
+  x: 3824
+  "y": 70
+  z: 1232
+  level: sb
+  price: 70
+  item: 6
+  itemName: Birch Sapling
+  meta: 2
+  amount: 3
+3823:70:1232:sb:
+  x: 3823
+  "y": 70
+  z: 1232
+  level: sb
+  price: 70
+  item: 6
+  itemName: Jungle Sapling
+  meta: 3
+  amount: 3
+3822:70:1232:sb:
+  x: 3822
+  "y": 70
+  z: 1232
+  level: sb
+  price: 70
+  item: 6
+  itemName: Acacia Sapling
+  meta: 4
+  amount: 3
+3821:70:1232:sb:
+  x: 3821
+  "y": 70
+  z: 1232
+  level: sb
+  price: 70
+  item: 6
+  itemName: Dark Oak Sapling
+  meta: 5
+  amount: 3
+3826:70:1227:sb:
+  x: 3826
+  "y": 70
+  z: 1227
+  level: sb
+  price: 500
+  item: 338
+  itemName: Sugar Cane
+  meta: 0
+  amount: 10
+3825:70:1227:sb:
+  x: 3825
+  "y": 70
+  z: 1227
+  level: sb
+  price: 500
+  item: 296
+  itemName: Wheat
+  meta: 0
+  amount: 10
+3824:70:1227:sb:
+  x: 3824
+  "y": 70
+  z: 1227
+  level: sb
+  price: 350
+  item: 295
+  itemName: Wheat Seeds
+  meta: 0
+  amount: 5
+3823:70:1227:sb:
+  x: 3823
+  "y": 70
+  z: 1227
+  level: sb
+  price: 350
+  item: 361
+  itemName: Pumpkin Seeds
+  meta: 0
+  amount: 5
+3822:70:1227:sb:
+  x: 3822
+  "y": 70
+  z: 1227
+  level: sb
+  price: 350
+  item: 362
+  itemName: Melon Seeds
+  meta: 0
+  amount: 5
+3821:70:1227:sb:
+  x: 3821
+  "y": 70
+  z: 1227
+  level: sb
+  price: 350
+  item: 458
+  itemName: Beetroot Seeds
+  meta: 0
+  amount: 10
+3820:70:1227:sb:
+  x: 3820
+  "y": 70
+  z: 1227
+  level: sb
+  price: 365
+  item: 360
+  itemName: Melon
+  meta: 0
+  amount: 10
+3819:70:1227:sb:
+  x: 3819
+  "y": 70
+  z: 1227
+  level: sb
+  price: 365
+  item: 391
+  itemName: Carrot
+  meta: 0
+  amount: 10
+3818:70:1227:sb:
+  x: 3818
+  "y": 70
+  z: 1227
+  level: sb
+  price: 365
+  item: 392
+  itemName: Potato
+  meta: 0
+  amount: 10
+3817:70:1227:sb:
+  x: 3817
+  "y": 70
+  z: 1227
+  level: sb
+  price: 365
+  item: 457
+  itemName: Beetroot
+  meta: 0
+  amount: 10
+3816:70:1227:sb:
+  x: 3816
+  "y": 70
+  z: 1227
+  level: sb
+  price: 375
+  item: 103
+  itemName: Melon Block
+  meta: 0
+  amount: 5
+3815:70:1227:sb:
+  x: 3815
+  "y": 70
+  z: 1227
+  level: sb
+  price: 375
+  item: 86
+  itemName: Pumpkin
+  meta: 0
+  amount: 5
+3814:70:1227:sb:
+  x: 3814
+  "y": 70
+  z: 1227
+  level: sb
+  price: 375
+  item: 81
+  itemName: Cactus
+  meta: 0
+  amount: 5
+3826:70:1225:sb:
+  x: 3826
+  "y": 70
+  z: 1225
+  level: sb
+  price: 500
+  item: 4
+  itemName: Cobblestone
+  meta: 0
+  amount: 20
+3825:70:1225:sb:
+  x: 3825
+  "y": 70
+  z: 1225
+  level: sb
+  price: 550
+  item: 1
+  itemName: Stone
+  meta: 0
+  amount: 20
+3824:70:1225:sb:
+  x: 3824
+  "y": 70
+  z: 1225
+  level: sb
+  price: 7000
+  item: 1
+  itemName: Polished Andesite
+  meta: 6
+  amount: 25
+3823:70:1225:sb:
+  x: 3823
+  "y": 70
+  z: 1225
+  level: sb
+  price: 7000
+  item: 1
+  itemName: Polished Granite
+  meta: 2
+  amount: 25
+3822:70:1225:sb:
+  x: 3822
+  "y": 70
+  z: 1225
+  level: sb
+  price: 7000
+  item: 45
+  itemName: Bricks
+  meta: 0
+  amount: 25
+3821:70:1225:sb:
+  x: 3821
+  "y": 70
+  z: 1225
+  level: sb
+  price: 5000
+  item: 98
+  itemName: Stone Bricks
+  meta: 0
+  amount: 25
+3826:70:1237:sb:
+  x: 3826
+  "y": 70
+  z: 1237
+  level: sb
+  price: 2000
+  item: 173
+  itemName: Coal Block
+  meta: 0
+  amount: 10
+3825:70:1237:sb:
+  x: 3825
+  "y": 70
+  z: 1237
+  level: sb
+  price: 2500
+  item: 41
+  itemName: Gold Block
+  meta: 0
+  amount: 10
+3814:70:1199:sb:
+  x: 3814
+  "y": 70
+  z: 1199
+  level: sb
+  price: 150000
+  item: 82
+  itemName: Clay Block
+  meta: 0
+  amount: 15
+3815:70:1199:sb:
+  x: 3815
+  "y": 70
+  z: 1199
+  level: sb
+  price: 150000
+  item: 172
+  itemName: Hardened Clay
+  meta: 0
+  amount: 15
+3816:70:1199:sb:
+  x: 3816
+  "y": 70
+  z: 1199
+  level: sb
+  price: 150000
+  item: 159
+  itemName: White Stained Clay
+  meta: 0
+  amount: 15
+3817:70:1199:sb:
+  x: 3817
+  "y": 70
+  z: 1199
+  level: sb
+  price: 150000
+  item: 159
+  itemName: Light Gray Stained Clay
+  meta: 8
+  amount: 15
+3818:70:1199:sb:
+  x: 3818
+  "y": 70
+  z: 1199
+  level: sb
+  price: 150000
+  item: 159
+  itemName: Gray Stained Clay
+  meta: 7
+  amount: 15
+3819:70:1199:sb:
+  x: 3819
+  "y": 70
+  z: 1199
+  level: sb
+  price: 150000
+  item: 159
+  itemName: Black Stained Clay
+  meta: 15
+  amount: 15
+3820:70:1199:sb:
+  x: 3820
+  "y": 70
+  z: 1199
+  level: sb
+  price: 150000
+  item: 159
+  itemName: Brown Stained Clay
+  meta: 12
+  amount: 15
+3821:70:1199:sb:
+  x: 3821
+  "y": 70
+  z: 1199
+  level: sb
+  price: 150000
+  item: 159
+  itemName: Red Stained Clay
+  meta: 14
+  amount: 15
+3822:70:1199:sb:
+  x: 3822
+  "y": 70
+  z: 1199
+  level: sb
+  price: 150000
+  item: 159
+  itemName: Orange Stained Clay
+  meta: 1
+  amount: 15
+3823:70:1199:sb:
+  x: 3823
+  "y": 70
+  z: 1199
+  level: sb
+  price: 150000
+  item: 159
+  itemName: Yellow Stained Clay
+  meta: 4
+  amount: 15
+3824:70:1199:sb:
+  x: 3824
+  "y": 70
+  z: 1199
+  level: sb
+  price: 150000
+  item: 159
+  itemName: Lime Stained Clay
+  meta: 5
+  amount: 15
+3825:70:1199:sb:
+  x: 3825
+  "y": 70
+  z: 1199
+  level: sb
+  price: 150000
+  item: 159
+  itemName: Green Stained Clay
+  meta: 13
+  amount: 15
+3826:70:1199:sb:
+  x: 3826
+  "y": 70
+  z: 1199
+  level: sb
+  price: 150000
+  item: 159
+  itemName: Cyan Stained Clay
+  meta: 9
+  amount: 15
+3826:70:1202:sb:
+  x: 3826
+  "y": 70
+  z: 1202
+  level: sb
+  price: 150000
+  item: 159
+  itemName: Light Blue Stained Clay
+  meta: 3
+  amount: 15
+3825:70:1202:sb:
+  x: 3825
+  "y": 70
+  z: 1202
+  level: sb
+  price: 150000
+  item: 159
+  itemName: Blue Stained Clay
+  meta: 11
+  amount: 15
+3824:70:1202:sb:
+  x: 3824
+  "y": 70
+  z: 1202
+  level: sb
+  price: 150000
+  item: 159
+  itemName: Purple Stained Clay
+  meta: 10
+  amount: 15
+3823:70:1202:sb:
+  x: 3823
+  "y": 70
+  z: 1202
+  level: sb
+  price: 150000
+  item: 159
+  itemName: Magenta Stained Clay
+  meta: 2
+  amount: 15
+3822:70:1202:sb:
+  x: 3822
+  "y": 70
+  z: 1202
+  level: sb
+  price: 150000
+  item: 159
+  itemName: Pink Stained Clay
+  meta: 6
+  amount: 15
+3845:70:1225:sb:
+  x: 3845
+  "y": 70
+  z: 1225
+  level: sb
+  price: 500
+  item: 10
+  itemName: Lava
+  meta: 0
+  amount: 2
+3844:70:1225:sb:
+  x: 3844
+  "y": 70
+  z: 1225
+  level: sb
+  price: 500
+  item: 8
+  itemName: Water
+  meta: 0
+  amount: 2
+3843:70:1225:sb:
+  x: 3843
+  "y": 70
+  z: 1225
+  level: sb
+  price: 100
+  item: 257
+  itemName: Iron Pickaxe
+  meta: 0
+  amount: 1
+3842:70:1225:sb:
+  x: 3842
+  "y": 70
+  z: 1225
+  level: sb
+  price: 100
+  item: 258
+  itemName: Iron Axe
+  meta: 0
+  amount: 1
+3841:70:1225:sb:
+  x: 3841
+  "y": 70
+  z: 1225
+  level: sb
+  price: 100
+  item: 306
+  itemName: Iron Helmet
+  meta: 0
+  amount: 1
+3840:70:1225:sb:
+  x: 3840
+  "y": 70
+  z: 1225
+  level: sb
+  price: 100
+  item: 307
+  itemName: Iron Chestplate
+  meta: 0
+  amount: 1
+3839:70:1225:sb:
+  x: 3839
+  "y": 70
+  z: 1225
+  level: sb
+  price: 100
+  item: 308
+  itemName: Iron Leggings
+  meta: 0
+  amount: 1
+3838:70:1225:sb:
+  x: 3838
+  "y": 70
+  z: 1225
+  level: sb
+  price: 100
+  item: 309
+  itemName: Iron Boots
+  meta: 0
+  amount: 1
+3835:70:1225:sb:
+  x: 3835
+  "y": 70
+  z: 1225
+  level: sb
+  price: 100
+  item: 351
+  itemName: Bone Meal
+  meta: 15
+  amount: 10
+3836:70:1225:sb:
+  x: 3836
+  "y": 70
+  z: 1225
+  level: sb
+  price: 50
+  item: 50
+  itemName: Torch
+  meta: 0
+  amount: 15
+3837:70:1225:sb:
+  x: 3837
+  "y": 70
+  z: 1225
+  level: sb
+  price: 30
+  item: 364
+  itemName: Steak
+  meta: 0
+  amount: 5
+...

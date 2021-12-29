@@ -1,0 +1,69 @@
+---
+# Skywars Config File
+
+# The following messages will be centered before being sent.
+# See the lang file for messages.
+center-aligned-messages:
+ - broadcast.winner
+
+# Whether to automatically rejoin players to the game when the game ends.
+auto-rejoin-games: false
+
+# Whether to round SkyWars spawn positions to the block's center.
+# This will apply to spawn positions of games created henceforth.
+auto-center-spawns: true
+
+# These options apply for players in the waiting queue.
+waiting-queue:
+  # Whether to disable movement.
+  deny-movement: true
+  # Whether to trap players in a box.
+  block-trap-players: true
+  # The blockId out of which the box will be created.
+  block-trap-block: "STAINED_GLASS:15"
+
+# Message format for all join signs
+# {NAME} => The game's name
+# {PLAYERS} => The number of players in the game
+# {MAX_PLAYERS} => Maximum player capacity of the game
+# {STATE} => "gamestate.joinable" or "gamestate.running" (see language file)
+sign-format:
+ - '&f&lSkyWars&r'
+ - '&e{NAME}'
+ - '&6{PLAYERS} &b/ &e{MAX_PLAYERS}'
+ - '{STATE}'
+
+# SkyWars scoring system
+scoring:
+  # Whether to enable scoring
+  enable: true
+  # Score gained for winning a skywars game
+  win-score: 7
+  # Score gained for killing someone
+  kill-score: 1
+  # Score gained for dying
+  death-score: 0
+  # Database configuration to use for storing scores
+  database:
+    # Valid databases: json, mysql
+    type: json
+    # This is needed if you are using JSON database
+    json: scores
+    # This is needed if you are using MYSQL database
+    mysql:
+      host: 127.0.0.1
+      username: not_root
+      password: drowssap
+      schema: skywars_scores
+      port: 3306
+      socket: ""
+  # Scoreboard options
+  scoreboard:
+    # The number of players to display on the scoreboard.
+    display-limit: 10
+    # Scoreboard display format.
+    display-format:
+      # The title of the scoreboard.
+      title: "&e&l>> &6SkyWars &e<<&r\n&eLeaderboards - Score"
+      line: '&6{RANK} &7- &f{PLAYER} &7- &b{SCORE}'
+...

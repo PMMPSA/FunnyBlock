@@ -1,0 +1,56 @@
+---
+groups:
+  Member:
+    entrance:
+    - sm {name} §aBạn đã có rank §bMember
+    exit: []
+    perms: []
+    members:
+      4: MrChicKenVN
+      8: SmearierEagle43
+      12: MammothVeil6437
+      13: TheKingBlaze60
+      17: PandemicPvPYT
+      18: SagePath9506440
+      20: lutunguoivn
+      23: YTDuymit
+      25: taking66000
+      27: SolvingDuck6925
+      28: HeheVnZ
+      29: JenkerYT
+  God:
+    entrance:
+    - sm {name} §aBạn đã lên rank §6God
+    - sm * §b{name}§a đã lên rank §6God
+    exit: []
+    perms: []
+    members:
+    - KhoaGamingPro
+    - Elasticnhan
+    - LeMinGamingZ
+    - JuroMark
+    - KaitoYTNoob
+    - iamtunghihi
+    - LightBlueDino93
+    - Giahuy772
+    - TonyKiz
+    - lattecraftskul0
+    - DarkKingTeam
+    - BaoLinh321
+    - DanhMiner2k18
+    - Giahien123
+    - ReleasedMold922
+    - BossShin
+    - Xboxmuonnam7652
+    - TarriestSoup245
+    - TheCatBlue
+    - TestedAtom97789
+    - DuongBaBy788
+    - UnbidSubset1902
+    - tonteton2205
+    - SuminFails
+    - MMinerVn98
+    - MusicalSquash12
+    - VyXinh123
+    - AbundantPine142
+...

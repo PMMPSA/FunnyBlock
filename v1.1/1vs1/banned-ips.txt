@@ -1,0 +1,6 @@
+# Updated 11/03/17 16:55 by GenisysPro 1.1dev
+# victim name | ban date | banned by | banned until | reason
+
+115.72.200.233|2017-10-25 22:12:15 +0700|sorve|Forever|xin rank vi phạm luật sever
+58.186.19.28|2017-11-03 16:52:16 +0700|luuanh2|Forever|Banned by an operator.
+171.230.237.201|2017-11-03 16:55:38 +0700|luuanh2|Forever|Banned by an operator.

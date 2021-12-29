@@ -1,0 +1,38 @@
+Altay Crash Dump Thu Aug 9 11:18:12 WIB 2018
+
+Error: Declaration of MCPEVN\SetVip::onCommand(pocketmine\command\CommandSender $s, pocketmine\command\Command $cmd, $label, array $args) must be compatible with pocketmine\plugin\PluginBase::onCommand(pocketmine\command\CommandSender $sender, pocketmine\command\Command $command, string $label, array $args): bool
+File: SetVip-2.3/src/MCPEVN/SetVip(6) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code
+Line: 314
+Type: E_COMPILE_ERROR
+
+Code:
+
+Backtrace:
+
+Altay version: 3.0.7+dev [Protocol 274]
+Git commit: 0000000000000000000000000000000000000000
+uname -a: Windows NT WIN-VCQUKKDO8FH 6.3 build 9600 (Windows Server 2012 R2 Datacenter Edition) AMD64
+PHP Version: 7.2.8
+Zend version: 3.2.0
+OS : WINNT, win
+
+Loaded plugins:
+ClearLaggPE 2.0.0 by VMPE Development Team for API(s) 3.0.0, 4.0.0
+EnchantWings 1.3 by FBTEAM for API(s) 3.0.4
+
+----------------------REPORT THE DATA BELOW THIS LINE-----------------------
+
+===BEGIN CRASH DUMP===
+eNrtVN9v2jAQ/ldOFtJAS1MIDGjeWki1qvwaMPrQVJVJTLDqxJFtQG3F/75zQju6Teu25+XF9nfn
+83ff3eWZGJ4y4jc+NZudbtc78xzClJKK+M/EPOZoIsF9bzycXA2C+2A6HU+JQ1KmNU2src8iQRU1
+XGYgVzDsTYLFKAxnzCx47vsy68k0pVlczWX0wEzKMxaGUYmF4cE4Y1nMFFS0A79zg0qUxg5UBF0y
+4QBVij5ChapE1yDdaANLBngnRzZLwWDHzfpNvFxsEp6F4aRYL6hmf02wWN9lWW4c0EbxLPklYR+W
+UgqUcsWF1bEU7MRzm6daRaeljqclWm3XwAe2paJa+xBjijGrej9Djf9QCaGqAktD/GajtXdIWXbi
+r6jQzCGFh3975xCjaHTYJixjigrb9Bm180DOhaGPGGnLlMbmRqTp1t3Ox5htEV1uuIiJX8foShoZ
+YSl9r9NyCM35iyu6Jdzgqf6HH15Q9EHwpb3jNjzXIpsDnxuexXKnYTSHm6vRyaL35ev1dX/cvfwM
+bbcJBSE4a9frUH1xnTGF7MGrNzyYetCnBvPNDEJBzO3E1uB82G+38JV8neMbHddzu3h6wjYvsigp
+oPFeasvhajSaI1Acdqjpq7raKtcTjKoBTZJJcCTkMXosJ8YuotONWUuFAW7JYjgJoM+2TMg8RaYw
+ZzQldwdVbwtZ7ZVWsSLOMoqTHr/WNmY5UtdlTbVcmf4xkFLbBt8JheFAUpxn2y+4QdNkPJvfjKeD
+PkI7ttTc2AxG0oBey52d5XjDwEjQTKwA4zwAz1ZSpcUP0LV6BFm0ppnBGiT6SIU38LEMDbf5VoTL
+i3lwPvwh69Y/Z3t4OAyH9vxOpmS/338DE+XhQw==
+===END CRASH DUMP===

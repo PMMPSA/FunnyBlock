@@ -1,0 +1,51 @@
+---
+Gh:
+  current-vip: 17-11-03,997,Admin
+  holding-vip:
+  - 9999,Guest
+  - 9,OP
+  - 8,Guest
+  - 9,OP
+  - 8,Guest
+  - 9,OP
+  - 1,YouTuber
+  - 9,OP
+  - 99,YouTuber
+  - 9,OP
+  - 8,YouTuber
+  - 9,OP
+  - 9,YouTuber
+  - 9,OP
+  - 9,OP
+  - 98,YouTuber
+  - 99999,OP
+  - 1,Guest
+  - 7,OP
+  - 1,OP
+  - 99998,YouTuber
+  - 9999,OP
+  - 99996,Admin
+  - 999999,OP
+  - 99999997,Admin
+  - 999,OP
+  - 99999,Admin
+  - 9,Owner
+  - 9,Police
+  - 9,Owner
+  - 9998,Admin
+  - 999,OP
+_skull_:
+  current-vip: 17-11-03,84,VIP
+Luuanh2:
+  current-vip: 17-11-03,99999999989,Admin
+noa:
+  current-vip: 17-11-03,22,VIPII
+huy:
+  current-vip: 17-11-03,5,Police
+  holding-vip:
+  - 7,Police
+jell:
+  current-vip: 17-11-03,8,VIP
+Zacky:
+  current-vip: 2017-11-03,99999999,Admin
+...

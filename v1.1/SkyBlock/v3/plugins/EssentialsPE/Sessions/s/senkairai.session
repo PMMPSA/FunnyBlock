@@ -1,0 +1,30 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "1": [
+            652.2313,
+            70.2,
+            -1033.3097,
+            "sb",
+            344,
+            43
+        ],
+        "pvp": [
+            175.7,
+            53,
+            86.2333,
+            "nether",
+            139,
+            -9
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

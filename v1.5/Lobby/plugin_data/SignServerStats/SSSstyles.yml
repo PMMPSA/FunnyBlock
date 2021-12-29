@@ -1,0 +1,17 @@
+---
+sign.unknown.playercount: '%RED%0 %GRAY%/ %RED%0'
+sign.known.playercount: '%GREEN%%currPlayers%%GRAY% / %GREEN%%maxPlayers%'
+sign.online.line1: '%modt%'
+sign.online.line2: '%playercount%'
+sign.online.line3: '%GREEN%Online'
+sign.online.line4: ' '
+sign.offline.line1: ' '
+sign.offline.line2: '%playercount%'
+sign.offline.line3: '%RED%Offline'
+sign.offline.line4: ' '
+sign.loading.line1: ' '
+sign.loading.line2: '%playercount%'
+sign.loading.line3: '%GOLD%Checking...'
+sign.loading.line4: ' '
+variableSeparator: '%'
+...

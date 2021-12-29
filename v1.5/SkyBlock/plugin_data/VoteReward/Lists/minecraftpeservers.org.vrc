@@ -1,0 +1,5 @@
+{
+    "website": "http://minecraftpeservers.org/",
+    "check": "http://minecraftpeservers.org/vote-reward-check/5669?api-key=2ba0c1f2c58df30d10e1f5c67f51947d40d0e758&username={USERNAME}",
+    "claim": "http://minecraftpeservers.org/vote-reward-check/5669?api-key=2ba0c1f2c58df30d10e1f5c67f51947d40d0e758&username={USERNAME}&claim=1"
+}

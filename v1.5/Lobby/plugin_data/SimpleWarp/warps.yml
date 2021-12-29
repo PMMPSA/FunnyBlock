@@ -1,0 +1,7 @@
+---
+SkyBlock:
+  address: funnyblock.ddns.net
+  port: "1000"
+  public: true
+  metadata: []
+...

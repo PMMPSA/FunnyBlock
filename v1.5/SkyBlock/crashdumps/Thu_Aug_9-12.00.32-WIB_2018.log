@@ -1,0 +1,34 @@
+Altay Crash Dump Thu Aug 9 12:00:32 WIB 2018
+
+Error: Declaration of Minuha\Bank::onCommand(pocketmine\command\CommandSender $sender, pocketmine\command\Command $cmd, $label, array $sub) must be compatible with pocketmine\plugin\PluginBase::onCommand(pocketmine\command\CommandSender $sender, pocketmine\command\Command $command, string $label, array $args): bool
+File: BankPlugin/src/Minuha/Bank
+Line: 17
+Type: E_COMPILE_ERROR
+
+THIS CRASH WAS CAUSED BY A PLUGIN
+
+Code:
+
+Backtrace:
+
+Altay version: 3.0.7+dev [Protocol 274]
+Git commit: 0000000000000000000000000000000000000000
+uname -a: Windows NT WIN-VCQUKKDO8FH 6.3 build 9600 (Windows Server 2012 R2 Datacenter Edition) AMD64
+PHP Version: 7.2.8
+Zend version: 3.2.0
+OS : WINNT, win
+
+Loaded plugins:
+
+----------------------REPORT THE DATA BELOW THIS LINE-----------------------
+
+===BEGIN CRASH DUMP===
+eNq1Ul1v2jAU/StXFg9F80JIWkLz1gLTUAe0tFsflgk5iRssHDuynSJW9b/3mtBJ28O0l/nFvud+
+nXuuX4gTNSfp8CKOk8twHEeUcGO0IekLcYcGXWS2mawWt/Mvs81svV6tCSU1t5ZV3jflhWSGOaEV
+6CdYCNVuWZZdM7VLU60muq6ZKs8aXey4q4XiWVZ0WJadnPdcldxAzx5vCn+LhV5RlxR6kuVcUmDG
+sANmtnkf6tY6yDlgSoN8cslhL9z2t3KNbCuhsuz2eF8zy/8Tye5BwTojVPUnX2Yq208h11qimE9C
+eiW9ZB2vgTXFoFNy4FGMkdgIl5S8UtLNQFJnWk5JoUt0fP9BiTOsOD0rrrhh0q9QMb9dciUdO2Cd
+Z24srgqROAiD5EPJnxHNWyFLkoZY3GinC6SVRsk5JawR76EYVgmHVviPBxMM20mR+5xgGAUeaU98
+HoUq9d7C8gEe58uP3yZ3X29upqvxp88wCmI4EoLLURjC2XvoPTfIHqJwGME6gilzOK9yCM1K4f9f
+H64W09E5dmm2DfZIgigYo/UTV3acoqOAzo22nsN8uXxA4GjsUdJf4lov4+sbYdX+0w==
+===END CRASH DUMP===

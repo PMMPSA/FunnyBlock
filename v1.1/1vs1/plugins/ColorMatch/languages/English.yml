@@ -1,0 +1,128 @@
+## Dịch tiếng Việt bởi KhoaGamingPro
+---
+join: "Chào mừng đến Block Party"
+join_others: "%1 đã vào."
+leave: "Đang rời arena..."
+leave_others: "%1 đã rời khỏi."
+arena_doesnt_exist: "&cArena không tồn tại"
+arena_already_exist: "&cArena đã tồn tại"
+arena_create: "&eArena đã được tạo thành công!"
+start_game: "&l&1Game bắt đầu!"
+death: "%1 đã chết! Còn %2 người chơi"
+send_to_main_world: "&2Trở về sảnh chính..."
+starting: "&aGame bắt đầu trong %1 giây"
+kick_from_game: "&9Bạn đã bị đuổi khỏi game vì %1"
+game_full: "&cArena đã đầy"
+ingame: "&cGame đang hoạt động"
+enable_setup_mode: "&6Bạn đang ở chế độ thiết lập\n&a-> Rời khỏi thiết lập nhập &l&odone"
+disable_setup_mode: '&aĐã lưu arena'
+arena_in_setup: "&cArena đang ở chế độ thiết lập!"
+#reward for win
+get_money: "&aBạn đã nhập được %1$!"
+#end game message
+#create new line using "\n"
+end_game: "&6&l---------------------&r\n&5Arena %1 kết thúc\n&4Top người thắng cuộc:\n&a1. %2\n&e2. %3\n&c3. %4\n&6&l---------------------"
+not_enough_players: "&cKhông đủ người chơi"
+###################
+#  Lệnh tin nhắn  #
+###################
+has_not_permission: "&cBạn không có quyền sử dụng lệnh này"
+#invalid arguments in setup mode
+invalid_arguments: "&cLệnh không hợp lệ\n&6Nhập: &a&o&lhelp"
+help: "&6Sử dụng /cm help"
+join_help: "&6Sử dụng /cm join &a<tên arena>"
+leave_help: "&6Sử dụng /cm leave &a<tên arena>"
+start_help: "&6Sử dụng /cm start &a<tên arena>"
+stop_help: "&6Sử dụng /cm stop &a<tên arena>"
+kick_help: "&6Sử dụng /cm kick &a<tên arena> <tên người chơi>"
+set_help: "&6Sử dụng /cm set &a<tên arena>"
+create_help: "&6Sử dụng /cm create &a<tên arena>"
+delete_help: "&6Sử dụng /cm delete &a<tên arena>"
+setlobby_help: "&6Sử dụng: &asetlobby"
+arena_running: "&cArena đang hoạt động"
+use_cmd_in_game: "&6Bạn chỉ có thể sử dụng lệnh này trong trò chơi"
+arena_not_running: "&6Arena không chạy trong trò chơi!"
+player_not_exist: "&cNgười chơi không có trong arena"
+#################################
+# Tin nhắn thiết lập thành công #
+#################################
+joinsign: "&aBảng thâm gia đã cập nhật thành công"
+returnsign: "&aBảng rời khỏi đã cập nhật thành công"
+startpos: "&aĐiểm bắt đầu game đã cập nhật thành công"
+lobbypos: "&aĐiểm sảnh chính đã cập nhật thành công"
+corners: "&aGóc sàn đã cập nhật thành công"
+first_corner: "&aGóc đầu tiên đã được thiết lập thành công\n&eBây giờ đập khối để đặt góc thứ hai"
+second_corner: "&aGóc thứ hai đã được thiết lập thành công"
+spectatorspawn: "&aĐiểm khán giả đã cập nhật thành công"
+leavepos: "&aĐiểm rời khỏi đã cập nhật thành công"
+mainlobby: "&aĐiểm sảnh chính cập nhật thành công"
+statusline: "&aBảng đã cập nhật thành công"
+type: "&aLoại arena đã cập nhật thành công"
+material: "&aChất liệu tầng đã cập nhật thành công"
+allowstatus: "&aBảng trạng thái đã cập nhật thành công"
+signupdatetime: "&aThời gian cập nhật bảng đã cập nhật thành công"
+world: "&aThế giới arena đã cập nhật thành công"
+allowspectator: "&aChế độ khán giả đã cập nhật thành công"
+maxtime: "&aThời gian game tối đã đã cập nhật thành công"
+maxplayers: "&aSố lượng người chơi tối đa đã cập nhật thành công"
+minplayers: "&aSố lượng người chơi tối thiểu đã cập nhật thành công"
+starttime: "&aThời gian bắt đầu đã cập nhật thành công"
+colortime: "&aThời gian cập nhật màu đã cập nhật thành công"
+time: "&aThời gian arena đã cập nhật thành công"
+enable: "&aArena đã cập nhật thành công"
+###########################################
+#Tin nhắn lệnh help trong chế độ thiết lập#
+###########################################
+statusline_help: "&6Sử dụng: &astatusline &b<dòng> <chữ>"
+type_help: "&6Sử dụng: &atype &b<classic/furious/stoned>"
+material_help: "&6Sử dụng: &amaterial &b<wool/clay>"
+allowstatus_help: "&6Sử dụng: &aallowstatus &b<true/false>"
+signupdatetime_help: "&6Sử dụng: &asignupdatetime &b<giây>"
+world_help: "&6Sử dụng: &aworld &b<tên thế giới>"
+allowspectator_help: "&6Sử dụng: &aallowspectator &b<true/false>"
+maxtime_help: "&6Sử dụng: &amaxtime &b<giây>"
+maxplayers_help: "&6Sử dụng: &amaxplayers &b<số lượng>"
+minplayers_help: "&6Sử dụng: &aminplayers &b<số lượng>"
+starttime_help: "&6Sử dụng: &astarttime &b<giây>"
+colortime_help: "&6Sử dụng: &acolortime &b<giây>"
+time_help: "&6Sử dụng: &atime &b<true/day/night/TICKS>"
+enable_help: "&6Sử dụng: &aenable &b<true/false>"
+###############################
+#Tin nhắn lệnh help ColorMatch#
+###############################
+lobby: "\n- &2/cm lobby &l&5»&r&f Dịch chuyển về sảnh chính"
+onleave: "\n- &2/cm leave &l&5»&r&f Rời khỏi arena"
+onjoin: "\n- &2/cm join &b<tên arena> &l&5»&r&f Vào arena"
+start: "\n- &2/cm start &b<tên arena> &l&5»&r&f Bắt buộc bắt đầu arena"
+stop: "\n- &2/cm stop &b<tên arena> &l&5»&r&f Bắt buộc dừng arena"
+kick: "\n- &2/cm kick &b<tên arena> <tên người chơi> <lí do> &l&5»&r&f Đuổi người chơi khỏi arena"
+set: "\n- &2/cm set &b<tên arena> &l&5»&r&f Thiết lập hoặc chỉnh sửa arena"
+delete: "\n- &2/cm delete &b<tên arena> &l&5»&r&f Xóa arena đang tồn tại"
+create: "\n- &2/cm create &b<tên arena> &l&5»&r&f Tạo arena mới"
+########################################
+#arena setup mode help command messages#
+########################################
+help_joinsign: "\n- &2joinsign &l&5»&r&f Thiết lập bảng vào arena"
+help_returnsign: "\n- &2returnsign &l&5»&r&f Thiết lập bảng rời khỏi"
+help_startpos: "\n- &2startpos &l&5»&r&f Thiết lập điểm bắt đầu"
+help_lobbypos: "\n- &2lobbypos &l&5»&r&f Thiết lập điểm sảnh chính"
+help_corners: "\n- &2corners &l&5»&r&f Đặt góc sàn"
+help_spectatorspawn: "\n- &2spectatorspawn &l&5»&r&f Thiết lập điểm khán giả"
+help_leavepos: "\n- &2leavepos &l&5»&r&f Thiết lập điểm rời khỏi"
+help_time: "\n- &2time &b<true/day/night/ticks> &l&5»&r&f Thiết lập thời gian trong arena"
+help_colortime: "\n- &2colortime &b<giây> &l&5»&r&f Thiết lập thời gian chuyển màu"
+help_type: "\n- &2type &b<classic/furious/stoned> &l&5»&r&f Thiêt lập loại arena"
+help_material: "\n- &2material &b<wool/clay> &l&5»&r&f Thiết lập chất liệu sàn"
+help_allowstatus: "\n- &2allowstatus &b<true/false> &l&5»&r&f Kích hoạt/Vô hiệu hóa trạng thái trên bảng"
+help_world: "\n- &2world &b<tên thế giới> &l&5»&r&f Thiết lập thế giới arena"
+help_statusline: "\n- &2statusline &b[dòng (1-4)] [chữ] &l&5»&r&f Thiết lập dòng trạng thái"
+help_allowspectator: "\n- &2allowspectator &b<true/false> &l&5»&r&f Kích hoạt/Vô hiệu hóa chế độ khán giả"
+help_signupdatetime: "\n- &2signupdatetime &b<giây> &l&5»&r&f Thiết lập thời gian cập nhật bảng"
+help_maxtime: "\n- &2maxtime &b<giây> &l&5»&r&f Thiết lập thời gian game tối đa"
+help_maxplayers: "\n- &2maxplayers &b<số lượng> &l&5»&r&f Thiết lập người chơi tối đa trong game"
+help_minplayers: "\n- &2minplayers &b<số lượng> &l&5»&r&f Thiết lập người chơi tối thiểu để bắt đầu game"
+######################
+#other setup messages#
+######################
+break_block: "&aBây giờ hãy đập khối"
+break_sign: "&aBây giờ hãy đập bảng"

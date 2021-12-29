@@ -1,0 +1,7 @@
+---
+banitem:
+  46: TNT
+bancmds:
+  /sethome: /sethome
+pvp: false
+...

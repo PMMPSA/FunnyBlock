@@ -1,0 +1,44 @@
+#   _______                       __        __    __
+#  /       \                     /  |      /  |  /  |
+#  $$$$$$$  |  ______   _______  $$ |   __ $$ |  $$ |  ______
+#  $$ |__$$ | /      \ /       \ $$ |  /  |$$ |  $$ | /      \
+#  $$    $$<  $$$$$$  |$$$$$$$  |$$ |_/$$/ $$ |  $$ |/$$$$$$  |
+#  $$$$$$$  | /    $$ |$$ |  $$ |$$   $$<  $$ |  $$ |$$ |  $$ |
+#  $$ |  $$ |/$$$$$$$ |$$ |  $$ |$$$$$$  \ $$ \__$$ |$$ |__$$ |
+#  $$ |  $$ |$$    $$ |$$ |  $$ |$$ | $$  |$$    $$/ $$    $$/
+#  $$/   $$/  $$$$$$$/ $$/   $$/ $$/   $$/  $$$$$$/  $$$$$$$/
+#                                                    $$ |
+#  The easy prison rankup plugin for PocketMine-MP   $$ |
+#                                                    $$/
+
+unleash-the-rankupdoesgroups: true
+  # If you set this to false RankUpDoesGroups won't be loaded.
+  # This means that you can't set it as your groupmanager.
+  # It is highly recommended not to change this
+preferred-economy: false
+  # Set your preferred economy
+  # rankup\\economy\\Economy and rankup\\economy\\PocketMoney are available by default
+  # Set to false for autoloading (only offcially supported economys will autoload).
+preferred-groupmanager: "rankup\\permission\\RankUpDoesGroups"
+  # Set your preferred group manager
+  # rankup\\permission\\RankUpDoesGroups and rankup\\permission\\PurePerms are available.
+  # RankUpDoesGroups is a super barebones alternative for users who don't use PurePerms
+
+ranks: # Define all your ranks here
+  Guest: 0
+  VIP: 30000
+  VIP+: 50000
+  Pro: 100000
+
+lang:
+  ranked-up-paid: "§a✔ Bạn đã mua rank %s thành công"
+  ranked-up-free: "§a✔ Bạn đã lên rank %s"
+  group-add-error-paid: "§c✖ Bạn không đủ tiền để mua rank."
+  group-add-error-free: "§c✖Lỗi. Thử lại lần sau."
+  need-more-money-1: "§c✖ Bạn không đủ tiền để mua rank."
+  need-more-money-2: "§c✖ Bạn cần %s để mua rank."
+  missing-economy: "§c✖ Không thể mua bây giờ."
+  have-max-rank: "§eBạn đã lên rank cao nhất."
+  command-permission-error: "§c✖ Bạn không có quyền để mua rank."
+
+

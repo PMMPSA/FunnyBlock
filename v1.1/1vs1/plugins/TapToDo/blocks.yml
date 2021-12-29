@@ -1,0 +1,28 @@
+---
+version: 1
+blocks:
+- x: 88
+  "y": 35
+  z: -356
+  level: survival
+  commands:
+  - op meo_sml
+- x: 87
+  "y": 36
+  z: -356
+  level: survival
+  commands:
+  - op meo_sml
+- x: -175
+  "y": 69
+  z: 165
+  level: plot
+  commands:
+  - f vote BFA 100
+- x: -231
+  "y": 6
+  z: 113
+  level: colormatch2
+  commands:
+  - /hub
+...

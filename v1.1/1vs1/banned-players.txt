@@ -1,0 +1,7 @@
+# Updated 11/03/17 17:24 by GenisysPro 1.1dev
+# victim name | ban date | banned by | banned until | reason
+
+minhvn003|2017-11-03 08:36:31 +0700|sorve|Forever|Banned by an operator.
+minhvn303|2017-11-03 08:36:45 +0700|sorve|Forever|Banned by an operator.
+do_thanh_dat|2017-11-03 08:37:09 +0700|sorve|Forever|Banned by an operator.
+lorry|2017-11-03 17:24:46 +0700|ZackyVN|Forever|Banned by an operator.

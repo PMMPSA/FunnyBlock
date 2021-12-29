@@ -1,0 +1,20 @@
+---
+bancmds:
+  /me: /me
+  /nick: /nick
+  /nickname: /nickname
+  /ban-ip: /ban-ip
+  /kick: /kick
+  /ban: /ban
+  /pardon: /pardon
+  /pardon-ip: /pardon-ip
+  /280: /280
+  /pocketmine:me: /pocketmine:me
+pvp: false
+banitem:
+  10: Lava
+  46: TNT
+  325: Bucket
+  8: Water
+protect: lock
+...

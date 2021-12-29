@@ -1,0 +1,42 @@
+Altay Crash Dump Sat Aug 11 15:46:10 WIB 2018
+
+Error: Declaration of SalmonDE\SkinChanger\Skin::onCommand(pocketmine\command\CommandSender $sender, pocketmine\command\Command $cmd, $label, array $args) must be compatible with pocketmine\plugin\PluginBase::onCommand(pocketmine\command\CommandSender $sender, pocketmine\command\Command $command, string $label, array $args): bool
+File: SkinChanger-master/src/SalmonDE/SkinChanger/Skin
+Line: 18
+Type: E_COMPILE_ERROR
+
+THIS CRASH WAS CAUSED BY A PLUGIN
+
+Code:
+
+Backtrace:
+
+Altay version: 3.0.7+dev [Protocol 274]
+Git commit: 0000000000000000000000000000000000000000
+uname -a: Windows NT WIN-VCQUKKDO8FH 6.3 build 9600 (Windows Server 2012 R2 Datacenter Edition) AMD64
+PHP Version: 7.2.8
+Zend version: 3.2.0
+OS : WINNT, win
+
+Loaded plugins:
+ClearLaggPE 2.0.0 by VMPE Development Team for API(s) 3.0.0, 4.0.0
+Coins 4.0.1 by fb.com/roremi.cf, MinecrafterJPN for API(s) 3.1.1, 3.0.0, 3.0.0-ALPHA12
+EnchantWings 1.3 by FBTEAM for API(s) 3.0.4
+
+----------------------REPORT THE DATA BELOW THIS LINE-----------------------
+
+===BEGIN CRASH DUMP===
+eNq1VN9v2jAQ/lcsqw+tlgYCrLR5o5Cq3fiRAWsfmqpyEidYOHZkmyJW8b/vHGAN09RNlZYX++58
+5+/77pxXbFhBse99brevul2v23QwVUoq7L9isykhhIPn/mQU3g2D52A6nUyxgwuqNcltbEATThQx
+TAokMzQjvJBiEETRbMlEf0FETtXO8H0p+rIoiEhPS5ksqSmYoFGU7HxRtA/OqEipQie6Wh303ll0
+khSpg044iSl3EFGKbNAJUbk+Q8VKGxRTBDkl4Is5RWtmFkf1Sr7KmYiisFqviab/CeVu4yBtFBP5
+HwH7KJaSg7gZ41bZmoDnBdGGqoZWSeOgcKMWr/aQyeF6aOXl1sE7Ztg3akUdnMgUAo9PDjaKJPtt
+TgVVhNtGC2JnAPe4IRuo80KVhoaCp+023e6nlL6AN14xnmIfBqRU0sgEwPqtbsfBpGSHo3AsZwas
+5j9+kKDIkrPY5rhey7We1R7PAxOpXGs0nqOHu/H5ff/b969fB5PLm1t04bZRBQhdXTSb6PRwdEYV
+oEetptdC0xYaEAN8BYiHgpTZKT1DvdHgogO3lIsS7ui6LfcSrB/QyIrFDgIEn6W2GO7G4zk4KmMN
+kv4SV1vl+pwSNSR5HgY1IeveupxQu6pOVmYhFRR4xPejMEAD+kK5LAtAiuaUFPhpr+pjJatN6VQr
++KkgMMuANSNcQ29TWgJ0veuplpkZ1B0FsVPwBiiKhpLAxNppgQ2Ewsls/jCZDgfgWtNYM2MZjKVB
+eiHXdlrTFUVGIk15hqDOEjGRSVVUj961evTlXo0D/cquE7fovWPiWezCs2jAr4YWzE0yiI5gfhNF
+MmjXl3B8JIJXpR/EqNbz3jC87XmtD4sSVm92JAXdwC/gzfibNgtjSQcigddnYPDyOvcjd10Cz20f
+C3BzPQ96o99a3fkwm/3FUTQiu5/BexTwdrv9CSK86Po=
+===END CRASH DUMP===

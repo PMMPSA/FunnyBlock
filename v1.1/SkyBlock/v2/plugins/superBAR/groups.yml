@@ -1,0 +1,76 @@
+#This is config for setting every PurePerms group. Groups are automatically generated.
+#If you created new group, reload PP, and enter "/sb reload" to see it here.
+# %DEFAULT% - take the value from the default config.
+#Another strings - at the default config.
+
+Member:
+  hud-format: "%DEFAULT%"
+  hud-shift-level: "%DEFAULT%"
+  type: "%DEFAULT%"
+  time-format: "%DEFAULT%"
+
+Admin:
+  hud-format: "§b▒▒▒▒ §aFUNNY §6BLOCK §b▒▒▒▒\n§f➧§b Tên:§e %NICK%\n§f➧§b Trực tuyến:§a %ONLINE% §7/§c %MAX_ONLINE%\n§f➧§b Rank:§e %PP_GROUP%\n§f➧§b Tiền:§e $%MONEY% xu\n§f➧§a Giết§7/§cChết§7: §a%KILLS% §7/ §c%DEATHS%\n§f➧§b ID vật phẩm:§e %ITEM_ID%:%ITEM_META%\n§f➧§b Tọa độ:§e %X% %Y% %Z%\n§f➧§b Thế giới:§e %LEVEL%\n§f➧§b Đồng hồ:§e %TIME%\n§b▒▒▒▒▒▒▒▒▒▒▒▒▒▒\n\n\n\n\n\n\n\n\n\n\n\n"
+  hud-shift-level: "%DEFAULT%"
+  type: "%DEFAULT%"
+  time-format: "%DEFAULT%"
+
+Builder:
+  hud-format: "§b▒▒▒▒ §aFUNNY §6BLOCK §b▒▒▒▒\n§f➧§b Tên:§e %NICK%\n§f➧§b Trực tuyến:§a %ONLINE% §7/§c %MAX_ONLINE%\n§f➧§b Rank:§e %PP_GROUP%\n§f➧§b Tiền:§e $%MONEY% xu\n§f➧§a Giết§7/§cChết§7: §a%KILLS% §7/ §c%DEATHS%\n§f➧§b ID vật phẩm:§e %ITEM_ID%:%ITEM_META%\n§f➧§b Tọa độ:§e %X% %Y% %Z%\n§f➧§b Thế giới:§e %LEVEL%\n§f➧§b Đồng hồ:§e %TIME%\n§b▒▒▒▒▒▒▒▒▒▒▒▒▒▒\n\n\n\n\n\n\n\n\n\n\n\n"
+  hud-shift-level: "%DEFAULT%"
+  type: "%DEFAULT%"
+  time-format: "%DEFAULT%"
+
+Owner:
+  hud-format: "§b▒▒▒▒ §aFUNNY §6BLOCK §b▒▒▒▒\n§f➧§b Tên:§e %NICK%\n§f➧§b Trực tuyến:§a %ONLINE% §7/§c %MAX_ONLINE%\n§f➧§b Rank:§e %PP_GROUP%\n§f➧§b Tiền:§e $%MONEY% xu\n§f➧§a Giết§7/§cChết§7: §a%KILLS% §7/ §c%DEATHS%\n§f➧§b ID vật phẩm:§e %ITEM_ID%:%ITEM_META%\n§f➧§b Tọa độ:§e %X% %Y% %Z%\n§f➧§b Thế giới:§e %LEVEL%\n§f➧§b Đồng hồ:§e %TIME%\n§b▒▒▒▒▒▒▒▒▒▒▒▒▒▒\n\n\n\n\n\n\n\n\n\n\n\n"
+  hud-shift-level: "%DEFAULT%"
+  type: "%DEFAULT%"
+  time-format: "%DEFAULT%"
+
+Co-Owner:
+  hud-format: "§b▒▒▒▒ §aFUNNY §6BLOCK §b▒▒▒▒\n§f➧§b Tên:§e %NICK%\n§f➧§b Trực tuyến:§a %ONLINE% §7/§c %MAX_ONLINE%\n§f➧§b Rank:§e %PP_GROUP%\n§f➧§b Tiền:§e $%MONEY% xu\n§f➧§a Giết§7/§cChết§7: §a%KILLS% §7/ §c%DEATHS%\n§f➧§b ID vật phẩm:§e %ITEM_ID%:%ITEM_META%\n§f➧§b Tọa độ:§e %X% %Y% %Z%\n§f➧§b Thế giới:§e %LEVEL%\n§f➧§b Đồng hồ:§e %TIME%\n§b▒▒▒▒▒▒▒▒▒▒▒▒▒▒\n\n\n\n\n\n\n\n\n\n\n\n"
+  hud-shift-level: "%DEFAULT%"
+  type: "%DEFAULT%"
+  time-format: "%DEFAULT%"
+
+OP:
+  hud-format: "§b▒▒▒▒ §aFUNNY §6BLOCK §b▒▒▒▒\n§f➧§b Tên:§e %NICK%\n§f➧§b Trực tuyến:§a %ONLINE% §7/§c %MAX_ONLINE%\n§f➧§b Rank:§e %PP_GROUP%\n§f➧§b Tiền:§e $%MONEY% xu\n§f➧§a Giết§7/§cChết§7: §a%KILLS% §7/ §c%DEATHS%\n§f➧§b ID vật phẩm:§e %ITEM_ID%:%ITEM_META%\n§f➧§b Tọa độ:§e %X% %Y% %Z%\n§f➧§b Thế giới:§e %LEVEL%\n§f➧§b Đồng hồ:§e %TIME%\n§b▒▒▒▒▒▒▒▒▒▒▒▒▒▒\n\n\n\n\n\n\n\n\n\n\n\n"
+  hud-shift-level: "%DEFAULT%"
+  type: "%DEFAULT%"
+  time-format: "%DEFAULT%"
+
+YouTuber:
+  hud-format: "%DEFAULT%"
+  hud-shift-level: "%DEFAULT%"
+  type: "%DEFAULT%"
+  time-format: "%DEFAULT%"
+
+VIPI:
+  hud-format: "%DEFAULT%"
+  hud-shift-level: "%DEFAULT%"
+  type: "%DEFAULT%"
+  time-format: "%DEFAULT%"
+
+VIPII:
+  hud-format: "%DEFAULT%"
+  hud-shift-level: "%DEFAULT%"
+  type: "%DEFAULT%"
+  time-format: "%DEFAULT%"
+
+VIPIII:
+  hud-format: "%DEFAULT%"
+  hud-shift-level: "%DEFAULT%"
+  type: "%DEFAULT%"
+  time-format: "%DEFAULT%"
+
+Police:
+  hud-format: "%DEFAULT%"
+  hud-shift-level: "%DEFAULT%"
+  type: "%DEFAULT%"
+  time-format: "%DEFAULT%"
+
+Helper:
+  hud-format: "%DEFAULT%"
+  hud-shift-level: "%DEFAULT%"
+  type: "%DEFAULT%"
+  time-format: "%DEFAULT%"

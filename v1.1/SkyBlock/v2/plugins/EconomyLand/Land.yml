@@ -1,0 +1,12 @@
+---
+- ID: 0
+  startX: 99967
+  endX: 100025
+  startZ: 99917
+  endZ: 99967
+  price: 300900
+  owner: Ghast_Noob
+  level: pvp
+  invitee: []
+  expires: ~
+...

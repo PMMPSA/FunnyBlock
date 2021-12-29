@@ -1,0 +1,24 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "1": [
+            295.5608,
+            4,
+            153.0187,
+            "world2",
+            326,
+            24
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": {
+        "280": "tell Rai Ta Là Hacker Mà Chỉ Hack Được Fly Đừng Kick"
+    },
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

@@ -1,0 +1,18 @@
+#Position of the floating text particle
+Pos:
+  X: 66
+  "Y": 74
+  Z: 67
+#Worlds which will show the particle
+Worlds: [spawnhub_doomgary_v3]
+#API-Key of your server provided by minecraftpocket-servers.com
+API-Key: "rtzOtfcDzCj199U9qLv29stqL3auk36ea"
+#Amount of voters who shall be shown (Max: 500)
+Amount: 5
+#Update interval of the query to the server in seconds
+#SHOULD BE ATLEAST 180! OUTPUT IS CACHED FOR 3 MINUTES!
+Update-Interval: 180
+#Header of the floating text particle
+Header: "§f• §bTop vote trong tháng §f•"
+#Text for every row after the header
+Text: "§e{player}: §a{votes}"

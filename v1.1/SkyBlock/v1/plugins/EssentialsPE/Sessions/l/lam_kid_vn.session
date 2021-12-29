@@ -1,0 +1,30 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "cc": [
+            80.6884,
+            69,
+            256.1109,
+            "sb",
+            184,
+            -5
+        ],
+        "ec": [
+            134.9517,
+            82,
+            145.1703,
+            "enchant",
+            6,
+            19
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

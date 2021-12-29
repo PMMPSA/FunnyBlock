@@ -1,0 +1,30 @@
+---
+dev: false
+version: 4
+identity: NPRM9878NP
+secret: MNNEFKJP5CEE8D69ENB2JR
+lock: true
+vote-expiration: 7
+multi-server:
+  enabled: false
+  role: master
+  mysql:
+    host: localhost
+    port: 0
+    username: khoagaming123@gmail.com
+    password: Khoabui03
+    database: pocketvote
+onvote:
+  run-cmd:
+  - sm * §a§o%player§r§d has just vote for this server at §b%site §7(§a§o%player§r§d
+    vừa mới vote cho server tại §b%site§7)
+  online-cmd:
+  - sm %player §aThanks for voting for us at §d%site! §7(§aCảm ơn bạn đã vote cho
+    server tại §d%site§7)
+  - givemoney %player 2500
+  - give %player iron_ingot 10
+  - give %player diamond 5
+  - key vote %player 1
+  - give %player diamond_pickaxe 1
+votes: []
+...

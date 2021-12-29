@@ -1,0 +1,5 @@
+name: MobsAI
+api: [3.0.0, 3.0.0-ALPHA5, 3.0.0-ALPHA6]
+author: An0ther, KhoaGamingPro
+version: 0.2.1
+main: An0ther\mobsai

@@ -1,0 +1,46 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "lol": [
+            272.46,
+            79,
+            670.0482,
+            "sb",
+            333,
+            42
+        ],
+        "pk": [
+            289.312,
+            72,
+            651.7161,
+            "sb",
+            269,
+            43
+        ],
+        "pk2": [
+            294.2003,
+            72,
+            651.704,
+            "sb",
+            265,
+            28
+        ],
+        "pk3": [
+            303.4368,
+            74,
+            643.4069,
+            "sb",
+            171,
+            31
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}
